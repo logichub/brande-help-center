@@ -20,7 +20,7 @@ Edit markdown → Push branch → Open PR → Team reviews (rendered preview + d
 
 ## For non-technical reviewers (CEO, Ops)
 
-When a PR is opened that changes docs, a comment will appear with a preview link. Click it to see the full rendered help center. Leave feedback directly on the PR, or tell a developer what needs changing.
+When a PR is opened that changes docs, a comment will appear with a preview link. Click it to see the full rendered help center. Leave feedback directly on the PR, or tell a developer what needs changing. 
 
 No installs or terminal commands needed.
 
