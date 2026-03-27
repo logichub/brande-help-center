@@ -41,13 +41,3 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy .vitepress/dist --project-name=${{ env.CLOUDFLARE_PROJECT_NAME }} --branch=staging
-```
-
----
-
-## New Day-to-Day Workflow
-```
-main (working branch)
-  └── staging (internal review branch)
-        └── Cloudflare Pages → stable URL behind Access
-              └── eventually → GitHub Pages (public)
