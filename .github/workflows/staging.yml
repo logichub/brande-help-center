@@ -1,0 +1,53 @@
+name: Staging Help Center
+
+# Deploys to a stable Cloudflare Pages URL on every push to staging.
+# Stakeholders always use the same URL — no new link per PR.
+# Protected by Cloudflare Access (OTP email verification).
+
+on:
+  push:
+    branches: [staging]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  CLOUDFLARE_PROJECT_NAME: brande-help-center
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages (staging)
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy .vitepress/dist --project-name=${{ env.CLOUDFLARE_PROJECT_NAME }} --branch=staging
+```
+
+---
+
+## New Day-to-Day Workflow
+```
+main (working branch)
+  └── staging (internal review branch)
+        └── Cloudflare Pages → stable URL behind Access
+              └── eventually → GitHub Pages (public)

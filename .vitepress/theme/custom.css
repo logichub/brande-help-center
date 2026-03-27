@@ -1,0 +1,161 @@
+/* =====================
+   FONTS
+   ===================== */
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --vp-font-family-base: 'Bricolage Grotesque', sans-serif;
+  --vp-font-family-mono: 'JetBrains Mono', monospace;
+}
+
+/* Headings */
+.vp-doc h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.vp-doc h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.vp-doc h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Body text */
+.vp-doc p {
+  font-size: 1rem;
+  line-height: 1.85;
+  color: var(--vp-c-text-2);
+}
+
+/* Inline code */
+.vp-doc code {
+  font-size: 0.85em;
+  border-radius: 5px;
+  padding: 0.15em 0.45em;
+}
+
+/* =====================
+   HERO
+   ===================== */
+
+/* Ambient glow */
+.VPHome::before {
+  content: '';
+  position: fixed;
+  top: -120px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 800px;
+  height: 500px;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(203, 166, 247, 0.12) 0%,
+    transparent 70%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Gradient name text */
+.VPHero .name .clip {
+  background: linear-gradient(135deg, #cba6f7 0%, #89b4fa 50%, #89dceb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Tagline */
+.VPHero .tagline {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  opacity: 0.75;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+/* Hero Image */
+.VPHero .image-bg {
+  background: radial-gradient(
+    circle,
+    rgba(203, 166, 247, 0.35) 0%,
+    transparent 65%
+  );
+  filter: blur(60px);
+}
+
+/* Buttons */
+.VPButton.brand {
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.VPButton.brand:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(203, 166, 247, 0.25);
+}
+
+.VPButton.alt {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* =====================
+   FEATURE CARDS
+   ===================== */
+.VPFeature {
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider) !important;
+  transition: border-color 0.4s ease-out,
+              transform 0.4s ease-out,
+              box-shadow 0.4s ease-out !important;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(203, 166, 247, 0.12);
+}
+
+.VPFeature .icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.VPFeature .title {
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+}
+
+.VPFeature .details {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  opacity: 0.8;
+}
+
+/* =====================
+   NAV
+   ===================== */
+.VPNav {
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: -0.02em;
+}

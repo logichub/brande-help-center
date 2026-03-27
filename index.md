@@ -5,6 +5,9 @@ hero:
   name: Brande.ai
   text: Help Center
   tagline: Your guide to the brand-aware content operating system.
+  image:
+    src: /hero-image-brande-robot.png      # place in /public folder
+    alt: Brande.ai Help Center
   actions:
     - theme: brand
       text: Get Started

@@ -19,11 +19,17 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
-    siteTitle: 'Brande.ai Help',
+    logo: '/logo.png',
+    logo: {
+      light: '/logo-light.png',
+      dark:  '/logo-dark.png'
+    },
+    siteTitle: '',
 
     nav: [
       { text: 'Home', link: '/' },
@@ -191,7 +197,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/brande-ai/brande-help-center/edit/main/:path',
+      pattern: 'https://github.com/logichub/brande-help-center/edit/main/:path',
       text: 'Edit this page on GitHub',
     },
 
@@ -200,8 +206,8 @@ export default defineConfig({
       copyright: '© 2026 Brande.ai. All rights reserved.',
     },
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/brande-ai' },
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/logichub' },
+    // ],
   },
 })
