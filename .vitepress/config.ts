@@ -37,7 +37,7 @@ export default defineConfig({
       light: '/logo-light.png',
       dark:  '/logo-dark.png'
     },
-    siteTitle: '',
+    siteTitle: false,
 
     nav: [
       { text: 'Home', link: '/' },
