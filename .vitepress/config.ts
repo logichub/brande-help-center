@@ -12,7 +12,7 @@ export default defineConfig({
   cleanUrls: true,
 
   // Ignore README.md files (not meant for publishing)
-  srcExclude: ['**/README.md'],
+  srcExclude: ['**/README.md', '**/TODO.md'],
 
   // Warn on dead links instead of failing the build (some articles are still WIP)
   ignoreDeadLinks: true,
@@ -21,10 +21,18 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=TAG_ID' } ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'TAG_ID');`
+    ],
   ],
 
   themeConfig: {
-    logo: '/logo.png',
     logo: {
       light: '/logo-light.png',
       dark:  '/logo-dark.png'
@@ -199,6 +207,14 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/logichub/brande-help-center/edit/main/:path',
       text: 'Edit this page on GitHub',
+    },
+
+    lastUpdated: {
+      // text: 'Last updated',
+      formatOptions: {
+        dateStyle: 'medium',
+        timeStyle: 'short'
+      }
     },
 
     footer: {
