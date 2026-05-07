@@ -5,3 +5,4 @@ node_modules/
 .vitepress/preview/
 .vitepress/config.ts.timestamp-*.mjs
 _preview/
+*.zip

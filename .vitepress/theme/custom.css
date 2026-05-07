@@ -108,6 +108,7 @@
 }
 
 .VPButton.alt {
+  border-color: var(--vp-button-alt-text) !important;
   border-radius: 8px;
   font-weight: 500;
 }
