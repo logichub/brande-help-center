@@ -17,9 +17,7 @@ Example: `3step` or `framework`
 **Snippet Text** — The actual content to insert
 Example: "Our proven 3-step framework: (1) Audit your current approach, (2) Design your custom strategy, (3) Execute and measure."
 
-When you're in a project and type your shortcut (Ctrl+C + your shortcut, or Alt+C + your shortcut), the full snippet text appears.
-
-[NEEDS REVIEW: exact keyboard shortcut for inserting snippets - may be Ctrl+C, Alt+C, or other combination]
+When you're in a project, press the snippet shortcut (`Ctrl+C` on macOS or `Alt+C` on Windows/Linux), then pick or type your snippet name to insert the full text.
 
 ## When to Use Snippets
 
@@ -41,94 +39,83 @@ When you're in a project and type your shortcut (Ctrl+C + your shortcut, or Alt+
 
 ## Access Snippets
 
-Snippets are managed in your **Account sidebar**.
+Snippets are managed in your **Account** area.
 
 **To access Snippets:**
 1. Click your user avatar (top right)
 2. Click **Account** or navigate to `/account/`
 3. In the sidebar, click **Snippets**
-4. The Snippets list page opens
+4. The **Snippets** list page opens at `/account/snippets/list`
 
 ## Create a New Snippet
 
 ### Step 1: Navigate to Snippets
 
-Account sidebar → Snippets → Click **Create Snippet** button
+Account sidebar → **Snippets** → click **Create Snippet**.
 
-Or direct URL: `/account/snippets/create`
+Or open a snippet directly at `/account/snippets/[id]`.
 
 ### Step 2: Fill the Snippet Form
 
 Three required fields:
 
 **Shortcut** (required)
-A keyboard command to trigger this snippet.
-- Keep it short (2–6 characters)
-- Use alphanumeric characters
+The trigger you'll type after `Ctrl/Alt+C` to insert this snippet.
+- Keep it short (2–6 characters) so it's quick to type
+- Use alphanumeric characters; hyphens and underscores work too
 - Example: `3step`, `vpvalue`, `cta-main`
-- Avoid common words or existing keyboard shortcuts
-- You can use hyphens and underscores
-
-[NEEDS REVIEW: Are there restrictions on shortcut names? Can users see existing shortcuts to avoid duplicates?]
+- Brande.ai does not enforce a length, character pattern, or duplicate check on shortcuts — to avoid collisions, scan your existing shortcuts on the Snippets list before creating a new one
 
 **Description** (required)
 A human-readable name for searching.
 - Example: "3-step framework," "Value proposition," "Main CTA"
-- Use this to find snippets when browsing your snippet list
-- Keep it under 100 characters
+- This is the column you'll search by on the Snippets list
+- Keep it concise so it reads well in the list
 
-**Snippet Text** (required)
+**Snippet** (required)
 The actual content to insert.
 - Paste or type the text you want to reuse
-- Can include formatting, line breaks, and special characters
-- Max length: [NEEDS REVIEW - likely 5,000+ characters based on use cases]
+- Line breaks and special characters are preserved on insert
 
 ### Step 3: Save the Snippet
 
-Click **Save Snippet** button (or similar label).
+Click **Save Snippet**.
 
-The snippet is created and saved to your brand. It's immediately available for use in any project.
+A toast confirms "Snippet created successfully!". The snippet is saved to your brand and is immediately available in any project.
 
 ## Use a Snippet in Your Project
 
 ### Method 1: Keyboard Shortcut
 
-[NEEDS REVIEW: exact key combination - may be Ctrl+C, Alt+C, or Shift+Alt+C]
-
 While editing in a project:
 
 1. **Click where you want to insert the snippet**
-2. **Press Ctrl+C** (or Alt+C, or relevant shortcut)
-3. **Type your snippet shortcut** (e.g., `3step`)
-4. **Press Enter**
+2. **Press `Ctrl+C`** (macOS) or **`Alt+C`** (Windows/Linux) to open the snippet picker
+3. **Find your snippet** by shortcut or description
+4. **Click the snippet** to insert it at your cursor
 
 The full snippet text appears at your cursor.
 
-### Method 2: Snippet Picker Dialog
+### Method 2: Snippet Picker (button)
 
-[NEEDS REVIEW: if there's a button or menu to open snippet picker]
+If keyboard shortcuts feel awkward, the picker is also reachable from the UI:
 
-If keyboard shortcuts feel awkward:
+- **In the new-project chat**: open the action menu in the chat composer and click the **Snippets** item.
+- **In the document editor**: open the inline-tool toolbar on a block and select the snippet tool.
 
-1. **Click the Snippets button** (in toolbar or menu, if available)
-2. **A dialog opens showing your snippets**
-3. **Search or browse your list**
-4. **Click a snippet to insert**
-
-The snippet text is inserted at your cursor.
+A modal opens listing your snippets. Click any snippet card to insert it at your cursor.
 
 ## Search Snippets
 
 On the Snippets list page:
 
-**Search bar** at the top
-- Type a description keyword (e.g., "framework" or "cta")
-- Results filter in real-time
-- Shows only snippets matching your search term
+**Search bar** placeholder reads "Search snippets...".
+- Type a keyword from the description, shortcut, or snippet text
+- Results filter as you type
 
 **Browse all snippets**
-- If you don't search, all snippets appear in a table
-- Click any snippet row to edit or view it
+- Without a search term, snippets appear in a paginated table with **Shortcut**, **Description**, and **Snippet** columns
+- Click any row to open the snippet for editing
 
 ## Edit a Snippet
 
@@ -145,9 +132,9 @@ Existing instances of this snippet in published content do NOT update retroactiv
 
 On the Snippets list page or in edit view:
 
-**Delete button** (trash icon or "Delete Snippet" button)
+Click the **Delete Snippet** button (or trash icon).
 
-Click to delete. A confirmation dialog appears: "Are you sure?"
+A confirmation dialog appears: "Are you sure you want to delete this snippet?".
 
 Click **Delete Snippet** to confirm.
 
@@ -155,14 +142,12 @@ Deleted snippets cannot be recovered. Existing content that already contains thi
 
 ## Copy Snippet Text to Clipboard
 
-[NEEDS REVIEW: if there's a copy button or how to get snippet text out]
+From the snippet picker modal, every snippet card shows two icon buttons on the right:
 
-On the Snippets list or edit view:
+- A pencil icon to open the snippet for editing
+- A copy icon (tooltip: **Copy**) to copy the snippet text to your clipboard
 
-**Copy button** (if available)
-- Click to copy snippet text to clipboard
-- Paste into other tools, documents, or projects
-- Useful for sharing snippet content or using outside Brande.ai
+Click the copy icon, and a toast confirms "Snippet copied to clipboard". Paste the text wherever you need it.
 
 ## Snippet Organization Best Practices
 

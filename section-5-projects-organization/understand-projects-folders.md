@@ -72,9 +72,9 @@ The Projects sidebar shows up to 10 projects at the root level (not in folders).
 - Use folders to keep root level clean
 - Use Project Search (Modifier+Shift+P) to find projects across all folders
 
-## Campaigns [NEEDS REVIEW: verify if this is a planned feature]
+## Campaigns
 
-[NEEDS REVIEW: Clarify whether "Campaigns" is a distinct organizational level separate from folders, or if campaigns are created using folders + project grouping.]
+There is no separate **Campaigns** entity in Brande.ai today. "Campaign" is a usage pattern, not a feature: group related projects in a shared folder (for example, "Q3 Product Launch") and use Custom Fields to tag campaign metadata across projects. The Content Calendar then renders all those projects together by date.
 
 ## Related Topics
 

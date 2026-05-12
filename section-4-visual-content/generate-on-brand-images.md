@@ -13,12 +13,12 @@ When you create content with Brande.ai, your Brand DNA is the foundation for all
 
 ## Enable image generation for a project
 
-Open any project and look for the "Include images" checkbox in the project settings or Content Agent recommendations. When enabled:
+When you create or customize a project, the variable dialog (the modal that collects template inputs) shows an **Include images** checkbox and, when ticked, an **Image Instructions** textarea. When enabled:
 
 1. Brande.ai generates images alongside your written content
-2. Images are created using advanced AI models (Flux, Recraft V3, Ideogram, Seedream) [NEEDS REVIEW: user-facing model selection UI]
+2. The image model is chosen for you behind the scenes (Brande.ai uses Flux Schnell by default and may swap in Recraft V3, Ideogram v3 Turbo, or Seedream 3 depending on the template)
 3. Each image inherits your Brand DNA automatically
-4. Images appear inline in the editor as you generate content
+4. Images appear inline in the editor as image blocks as content is generated
 
 ## When to use image generation
 
@@ -35,7 +35,9 @@ Skip image generation if:
 
 ## Customize image style using plain English
 
-You can describe your desired visual style in natural language. Look for the **Image Instructions** textarea in project settings. Write descriptions like:
+You can describe your desired visual style in natural language. The **Image Instructions** textarea appears under **Include images** in the variable dialog. The placeholder reads: *"Describe what kind of images you'd like to generate. For example you can ask to generate image in specific styles, colors, themes, etc. Be as descriptive as possible. If left empty, default image generation will be applied."*
+
+Write descriptions like:
 
 - "Minimalist flat design with pastel colors and geometric shapes"
 - "Bold photography with strong shadows and dramatic lighting"
@@ -46,23 +48,14 @@ Brande.ai reads these instructions and applies them to all generated images alon
 
 ## Preview and use generated images
 
-- Images display inline in the editor as blocks
-- Click any image to view it full-size
-- Drag images within your content to reorder them
-- Use the editor's image controls to add captions or adjust placement
+- Images display inline in the editor as image blocks
+- Drag an image to reorder or replace it inside the document
+- Captions on generated images are hidden by design — keep image context in the surrounding paragraph
+- There is no inline lightbox, crop tool, or one-click regenerate; to swap an image, delete the block and regenerate or upload a replacement
 
-[NEEDS REVIEW: exact inline preview and editing capabilities]
+## Image sizing
 
-## Image sizing and platform requirements
-
-Different platforms have different image requirements. Brande.ai generates images in sizes optimized for each platform:
-
-- Social feeds (Instagram, Facebook, LinkedIn, Twitter/X)
-- Stories or vertical formats
-- Blog hero images
-- Website banners
-
-[NEEDS REVIEW: whether sizing is automatic based on platform selection or user-selected]
+Brande.ai uses fixed model defaults for image dimensions — there is no per-generation size selector in the variable dialog. The only user-facing levers are the **Include images** checkbox and the **Image Instructions** textarea. If you need a specific aspect ratio or pixel size, mention it directly in your image instructions (for example, "square 1:1 composition" or "vertical mobile-friendly").
 
 ## When images don't match your vision
 

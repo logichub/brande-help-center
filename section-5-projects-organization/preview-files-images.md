@@ -19,26 +19,20 @@ Once an image is inline:
 
 - **Move:** Drag images up or down within your content
 - **Delete:** Select the image and press delete or use the block menu
-- **Caption:** [NEEDS REVIEW: whether image captions are supported in the editor]
-- **Alignment:** [NEEDS REVIEW: whether images can be left/center/right aligned]
+- **Caption:** Captions on generated image blocks are hidden by design — add image context in the surrounding paragraph
+- **Alignment:** The editor renders images at default block width; there is no left/center/right alignment control
 
-## File attachments [NEEDS REVIEW: extent of file preview support in editor]
+## File attachments
 
-If your project includes file attachments (PDFs, Word docs, spreadsheets):
-
-- Files may display as downloadable links in the editor
-- Click to download and preview locally
-- [NEEDS REVIEW: inline preview vs. link-only approach]
+Reference materials (PDFs, Word docs, spreadsheets, audio, video) are uploaded under your brand and referenced from the variable dialog when starting a project. They are not embedded as inline blocks inside the document editor; instead they feed the AI as context. To preview a reference material, open it from the **Reference Materials** page in the Account sidebar.
 
 ## Export images separately
 
 To get generated images:
 
 1. Open your project
-2. Right-click any image to save it to your computer
-3. Or export the entire project as PDF (images included)
-
-[NEEDS REVIEW: specific right-click or export options available]
+2. Right-click any image in the editor to save it to your computer
+3. Or export the entire project as DOCX (images included)
 
 ## Preview full project layout
 

@@ -11,10 +11,9 @@ It's three cards, three options: get help, submit a ticket, or share feedback—
 2. Select **Help** or **Help Center** from the dropdown
 3. Help Center modal opens
 
-**Option B: Support Link**
-[NEEDS REVIEW: whether there's a Help link in the sidebar or footer]
+**Option B: Help Icon in the Header**
 
-Look for "Help", "Support", or a question mark icon anywhere in the app. Click it to open the Help Center.
+Click the help icon in the top header. The Help Center modal opens with three cards — **Get Help** (linking to docs), **Contact Support**, and **Give Feedback**.
 
 **Option C: Account Page**
 Navigate to Account (Ctrl+Alt+A) and look for a Help or Support section. Click to open the Help Center.
@@ -159,12 +158,7 @@ This helps you build context and understand how features connect.
 
 ## Support Ticket Response Time
 
-[NEEDS REVIEW: expected response times for different priority levels]
-
-When you submit a support ticket, expect:
-- **Urgent issues** (app down, critical bug) — Response within 1-4 hours
-- **High-priority** (feature broken, can't work) — Response within 4-24 hours
-- **Normal** (general questions, bugs) — Response within 1-2 business days
+Response times depend on ticket severity and your plan. The team aims to respond within one to two business days for most issues, faster for tickets that block all work. See [Get Support](/section-10-help/get-support) for what to include in a ticket.
 - **Low-priority** (feature requests, general inquiry) — Response within 2-5 business days
 
 You'll receive an email acknowledgment with a ticket number. Use that number to reference your issue in follow-ups.
@@ -183,18 +177,18 @@ You'll receive an email confirmation of your feedback submission.
 
 ## Finding Previous Help Tickets
 
-[NEEDS REVIEW: whether you can view your previous support tickets and feedback submissions]
+Brande.ai does not surface your support ticket history inside the app today — the support form at `/support` is an embedded Asana form. To track an open ticket, reply on the email thread you received from Asana when you submitted it.
 
-If an account area shows your support history:
+If you'd like to find your prior feedback posts, open the `/feedback` page — the Canny.io board lists everything you've posted under your account.
+
+For reference, the legacy guidance was:
 1. Go to Account page
 2. Look for "Support Tickets" or "Ticket History"
 3. Click to view previous tickets and their status
 
 ## Help Center Keyboard Shortcut
 
-[NEEDS REVIEW: whether there's a keyboard shortcut to open Help Center]
-
-If a shortcut exists (e.g., Ctrl/Alt+?), it would allow instant access to Help without using the menu.
+There is no dedicated keyboard shortcut to open the Help Center today. Use the help icon in the header or the link in the avatar dropdown.
 
 ## Common Help Center Scenarios
 

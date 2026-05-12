@@ -66,7 +66,7 @@ Don't need to export for:
 - Tables export as plain data (no styling, colors, or formatting)
 - Very large tables work fine but may take a moment to download
 - External links in tables are preserved as URLs
-- Images in table cells are not included in CSV [NEEDS REVIEW: confirm image handling]
+- Images in table cells are not included in CSV — the CSV export only reads the table block's cell text, and image blocks live outside the table's content array
 
 ## Edit and reimport
 

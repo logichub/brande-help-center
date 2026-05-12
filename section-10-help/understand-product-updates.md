@@ -31,10 +31,9 @@ Click it to open the changelog widget showing recent updates.
 **Option B: Help Center**
 Click your profile icon (top right) > **Help Center** > Look for a **"What's New"** or **"Updates"** section.
 
-**Option C: Dashboard**
-[NEEDS REVIEW: whether changelog appears as a widget on the dashboard]
+**Option C: Header Announcements**
 
-A changelog or announcements widget may appear on your dashboard.
+The **Announcements** button in the top header is a Canny.io changelog widget anchored to the bell area. Click it to open the changelog popover. The dashboard itself does not include a changelog card.
 
 ## What the Changelog Shows
 
@@ -52,9 +51,8 @@ The Canny changelog widget displays:
 - Community upvote count (how many users want this)
 
 **Version History**
-[NEEDS REVIEW: whether detailed version history is available]
 
-A link to the full version history showing all updates dating back.
+The Canny changelog widget itself is the version history — scroll back through the popover to see every published update. There is no separate "version history" page in Brande.ai.
 
 ## Understanding Update Categories
 
@@ -93,14 +91,12 @@ Speed or reliability improvement.
 ## Staying Informed About Updates
 
 **In-App Notifications**
-[NEEDS REVIEW: whether update notifications are sent to users]
 
-When a major feature ships, you may see an in-app notification or banner.
+The Canny widget anchored to the **Announcements** button in the header surfaces new updates with a small unread badge. Click the bell to see what's new.
 
 **Email Updates**
-[NEEDS REVIEW: email notification preferences for product updates]
 
-If you've opted in to product announcements, you receive emails about major releases.
+There is no in-app subscription for product-update emails today. Watch the Announcements widget regularly, or subscribe to the Brande.ai newsletter / blog if one is available outside the app.
 
 **Check Changelog Weekly**
 Make it a habit: Every Monday, click the Announcements icon and scan what's new. Takes 2 minutes.
@@ -134,7 +130,7 @@ If you submitted feedback, watch the changelog for your feature shipping. When i
 
 **Security Updates**
 - Applied automatically
-- May require password reset [NEEDS REVIEW: whether security updates require user action]
+- May require a password reset for affected users (you'll be prompted on next login if so)
 - Increases your data safety
 
 ## When Updates Don't Affect You

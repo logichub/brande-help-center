@@ -108,18 +108,17 @@ This gives them a static copy they can read offline.
 ## Sharing security
 
 When you share a project:
-- Link is unique and shareable
-- Only people with the link can access
-- No public search engine indexing
-- Recipients cannot edit the project
-- You can regenerate the link anytime to invalidate old ones [NEEDS REVIEW: verify link regeneration feature]
+- The link is a stable URL of the form `{your-app-url}?selectedProject=[projectId]`
+- Recipients still need a Brande.ai account with permission to view that brand’s projects — the link by itself does not grant access
+- Recipients cannot edit the project unless they have an editor role on the brand
+- The link does not expire and there is no built-in "stop sharing" or revocation button
 
 ## Manage shared access
 
-To revoke access to a shared project:
-- [NEEDS REVIEW: is there an explicit "stop sharing" button, or do links expire?]
-- Option: Archive the project to hide it from searches
-- Option: Change the project to Archived status
+To limit who can see a shared project, the practical levers are:
+- Remove the recipient from the brand (or change their role) so the link no longer authenticates them
+- Move the project to a folder only the right people can see, or archive it
+- Be deliberate about who you share the link with — anyone added to the brand will be able to open it
 
 ## Related Topics
 

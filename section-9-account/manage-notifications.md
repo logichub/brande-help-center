@@ -16,12 +16,12 @@ The notifications panel slides open showing your recent notifications.
 2. Select **Notifications** from the dropdown
 3. Notifications page loads
 
-**Option C: Sidebar Navigation**
-[NEEDS REVIEW: whether Notifications is in the sidebar]
+**Option C: Notifications Page**
 
-1. Open the sidebar
-2. Look for Notifications link
-3. Click to open Notifications page
+1. Click your avatar (top right) and choose **Notifications**, or navigate directly to `/notifications`
+2. The full Notifications page opens, showing all current invites and activity
+
+Note: Notifications is not a primary item in the left navigation — the bell icon in the header and the avatar dropdown are the two entry points.
 
 ## Notifications Page
 
@@ -43,9 +43,8 @@ If you have many notifications, they're displayed in pages (e.g., 20 per page).
 Click a notification to mark it as read. Or click a checkbox to select multiple and mark as read in bulk.
 
 **Delete Notifications**
-[NEEDS REVIEW: whether you can delete individual notifications]
 
-Select notifications and click Delete to remove them.
+There is no per-notification delete in the current Notifications page. Notifications stay in the list — use the bulk mark-as-read action to clear visual clutter.
 
 ## Notification Types
 
@@ -92,9 +91,7 @@ You may receive notifications for:
 
 ## Notification Settings
 
-[NEEDS REVIEW: exact notification preferences UI]
-
-Click the **Settings** button or link in the Notifications page or profile dropdown to access notification preferences.
+Brande.ai does not currently expose a notification-preferences page. The notifications you receive are determined by what's happening on brands you have access to (invites, project activity, etc.); there is no UI to enable/disable individual types, change frequency, or pick channels.
 
 **Possible Settings:**
 
@@ -125,9 +122,8 @@ Choose how you're notified:
 **Uncheck to disable** that notification channel.
 
 ### Do Not Disturb Hours
-[NEEDS REVIEW: whether DND settings exist]
 
-Set a time range (e.g., 6 PM - 9 AM) when notifications are suppressed. Urgent notifications may still come through.
+Do Not Disturb is not available today. If you need quiet hours, mute the browser tab or your email client during those windows.
 
 ## Notification Badge Count
 
@@ -169,10 +165,7 @@ Keep in-app notifications but disable email. Check the Notifications page manual
 **Check Notifications Regularly**
 Even if you disable email, check your in-app notifications weekly to catch important updates.
 
-**Configure Different Settings by Brand**
-[NEEDS REVIEW: whether notification settings are per-brand or account-wide]
-
-If you manage multiple brands, you may be able to set different notification preferences per brand.
+**Per-brand notification settings are not available today.** Notification visibility is determined by which brands you've been invited to.
 
 ## Troubleshooting
 
@@ -195,12 +188,10 @@ A: Go to Notification Settings and:
 A: Click the action link in the notification to go directly to the project. Or navigate to your Projects page and search for the project name.
 
 **Q: How long are notifications kept?**
-A: [NEEDS REVIEW: notification retention policy, e.g., 30 days, 90 days]
-
-Old notifications may be archived or deleted after a certain period. You can export or screenshot important notifications before they're archived.
+A: There is no documented retention policy. Treat critical notifications as transient and act on them when they arrive.
 
 **Q: Can I customize notification sounds?**
-A: [NEEDS REVIEW: whether notification sounds are customizable]
+A: No. Brande.ai does not produce notification sounds; alerts are visual only.
 
 ## Related Topics
 

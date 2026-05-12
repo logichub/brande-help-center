@@ -6,11 +6,11 @@ Collaborate without leaving Brande.ai. Leave feedback on projects, reply to comm
 
 While editing a project:
 
-1. Look for the **Comments** icon in the toolbar [NEEDS REVIEW: exact icon/button location]
-2. Click to open the Comments sidebar (right side of editor)
-3. Comments appear as a thread on that project
+1. Click the chat-bubble icon in the editor toolbar (tooltip: **Comments**) to toggle the sidebar
+2. The Comments sidebar slides in on the right side of the editor with the heading **Comments**
+3. Existing comment threads on this project appear here
 
-The sidebar stays open while you edit, so you can see feedback in real-time.
+The sidebar stays open while you edit, so you can see feedback in real time. To start a new comment from a specific passage, highlight the text in the editor and click the **Add comment** button on the floating selection toolbar.
 
 ## Leave a comment
 
@@ -29,12 +29,12 @@ Your comment appears in the thread with:
 
 Comments stay with the project forever—no cleanup needed.
 
-## Comment on specific text (selection comments) [NEEDS REVIEW: verify this feature]
+## Comment on specific text (selection comments)
 
-To comment on a specific part of the project:
+Selection-based comments are fully supported. To comment on a specific part of the project:
 
 1. Highlight text in the editor
-2. Click the comment bubble that appears
+2. Click **Add comment** on the floating selection toolbar that appears
 3. Type your feedback
 4. Click **Post**
 
@@ -94,20 +94,18 @@ When someone comments on your project:
 
 Comments are only visible to people with edit access to the project. When you share a project with a client collaborator:
 
-- If they're read-only, they see projects but not comments
-- If they're collaborators with edit access, they see and can comment
-- Comments stay private between project editors
-
-[NEEDS REVIEW: exact visibility rules for client collaborators]
+- Comments are not gated by role. Both Brand Collaborators and Client Collaborators can read, write, and reply to comments on any project they can open.
+- Commenting itself can be turned off at the plan level (the **Comments** toggle and Add-comment controls only render when the active subscription plan includes the comments feature). If you don't see the chat-bubble icon, your plan doesn't include comments — contact your brand owner about upgrading.
 
 ## Comment-related features
 
-**@mentions:**
-[NEEDS REVIEW: verify if mentions are supported to notify specific team members]
+**@mentions:** Type `@` in the comment composer to open a list of brand users. Selecting one inserts a `@FullName` token and tags that user on the comment, so they show in the **Assigned** chip row of the thread for follow-up.
 
-**Comment count:** The Comments icon shows how many unread comments you have. Click to see them all.
+**Highlighted text quote:** When a comment was started from a text selection, the original passage is captured and shown as a collapsible **Highlighted text** block on the thread. Reviewers can expand it to see the exact wording the comment refers to.
 
-**Threaded discussions:** Comments nest replies, keeping related feedback together.
+**Status tags:** Each thread carries a status tag — **Open**, **Approved**, **Rejected**, or **Resolved**. Click **Change** on a thread to move it through these states.
+
+**Threaded discussions:** Comments nest replies, keeping related feedback together. The thread header shows **Show {N} replies** / **Hide {N} replies** to expand or collapse the conversation.
 
 ## Comments feature requirement
 

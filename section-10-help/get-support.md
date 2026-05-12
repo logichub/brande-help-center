@@ -16,55 +16,28 @@ Submit a support ticket and the team will help you resolve the issue, get clarif
 **Option B: Direct Link**
 Navigate to **/support** in the Brande.ai URL bar to go directly to the support form.
 
-**Option C: Account Page**
-[NEEDS REVIEW: whether there's a Support link in the Account sidebar]
-
-Go to Account (Ctrl+Alt+A) and look for a "Support" or "Contact Support" link.
+There is no separate "Support" entry in the Account sidebar — use the help dialog or `/support` directly.
 
 ## Support Ticket Form
 
-The support form contains fields for describing your issue:
+The `/support` page embeds an Asana intake form. Fill in every field the form asks for, then submit. Useful information to include in any support ticket:
 
-**Subject** (Required)
-A clear, short summary of your problem.
-
-Examples:
+**A clear subject line.** Examples:
 - "Can't create projects in my Brand Profile"
 - "Invites not sending to team members"
 - "Projects disappearing from calendar after scheduling"
 - "Billing issue: charged twice last month"
 
-**Description** (Required)
-A detailed explanation of your issue. Include:
+**A detailed description**, covering:
 - What you were trying to do
-- What happened instead (what went wrong)
+- What happened instead
 - What you expected to happen
 - Any error messages you saw
 - Steps to reproduce (if it's a bug)
 
-**Priority** (Optional)
-How urgent is this?
-- **Critical** — App is completely broken, can't work
-- **High** — A core feature is broken, significant impact
-- **Medium** — A feature is partially broken or confusing
-- **Low** — Minor issue, doesn't block my work
+**Severity** — mark the ticket as urgent only when work is genuinely blocked, so the team can prioritize correctly.
 
-**Category** (Optional)
-What area of the app does this relate to?
-- Account & Login
-- Projects & Creation
-- Collaboration & Approvals
-- Calendar & Organization
-- Agency Features
-- Billing & Plans
-- Other
-
-[NEEDS REVIEW: exact category options]
-
-**Attachments** (Optional)
-Upload a screenshot, error message screenshot, or file that illustrates your issue.
-
-Screenshots are extremely helpful for bugs.
+**Attachments** — screenshots make bug reports far easier to diagnose. Attach the error message, the broken UI, or a short screen recording where helpful.
 
 ## Writing Effective Support Tickets
 
@@ -155,18 +128,9 @@ Support sometimes needs this for technical issues:
 
 ## Support Ticket Response Times
 
-[NEEDS REVIEW: expected response times for different priority levels]
+Response times vary by ticket severity and your plan. The team aims to respond within one to two business days for most issues, faster for tickets that block all work. Response times may be longer on weekends and holidays.
 
-When you submit a ticket, expect a response within:
-
-- **Critical Priority** — 1-4 hours
-- **High Priority** — 4-24 hours
-- **Medium Priority** — 1-2 business days
-- **Low Priority** — 2-5 business days
-
-Response times may be longer on weekends and holidays.
-
-You'll receive an email acknowledgment immediately with your ticket number.
+You'll receive an email acknowledgment from Asana when your ticket is created.
 
 ## What to Do While Waiting for Support
 
@@ -176,23 +140,10 @@ While you're waiting, search the help docs (brande.ai/docs) for your issue. You 
 **Try Alternatives**
 If there's a workaround, use it to keep working. Example: If the calendar is slow, use the Projects list view temporarily.
 
-**Check System Status**
-[NEEDS REVIEW: whether there's a status page showing app uptime and incidents]
-
-If the app is down, check the status page. Don't submit a ticket if the app is undergoing maintenance.
-
 **Provide More Information**
 If you think of additional details, add a comment to your ticket (don't open a new one). This helps support help you faster.
 
 ## Following Up on Your Ticket
-
-**Check Ticket Status**
-[NEEDS REVIEW: whether users can check ticket status online]
-
-You might be able to:
-1. Go to **/support**
-2. Look for **"My Tickets"** or **"Support History"**
-3. See the status of your tickets
 
 **Respond to Support Messages**
 Support will email you updates and questions. Reply to the email to continue the conversation.
@@ -249,9 +200,7 @@ A: Check your spam folder. If you don't find it, resubmit. If resubmitting fails
 A: The confirmation email includes your ticket number. Use it in follow-ups: "Ref: TICKET-12345"
 
 **Q: Can I get a phone call from support?**
-A: [NEEDS REVIEW: whether phone support is available]
-
-Support primarily works via email/tickets. Check if phone support is available for your plan level.
+A: Brande.ai support is handled through the in-app help dialog and the `/support` Asana form. Live phone support isn't part of the standard offering.
 
 **Q: What if my issue is urgent (critical deadline)?**
 A: Set priority to "Critical" in the form. Include "URGENT" in the subject. In the description, explain the deadline and business impact. Support will prioritize accordingly.

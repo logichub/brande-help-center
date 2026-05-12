@@ -1,8 +1,8 @@
 # Set Up an Agency Workspace
 
-To unlock the Agency Plan's multi-brand capabilities, you need to configure your workspace for team collaboration and multi-client content delivery.
+To unlock the Agency Plan's multi-brand capabilities, configure your workspace for team collaboration and multi-client content delivery.
 
-[NEEDS REVIEW: exact agency workspace setup flow - may involve creating brands for each client, configuring Brand DNA per client]
+In Brande.ai, an agency workspace is built one brand at a time — each client is its own brand record, with its own Brand DNA, voices, reference materials, and integrations. There is no separate agency-level configuration object; instead, the same `/onboard` wizard is reused for every brand you create.
 
 ## Prerequisites
 
@@ -56,9 +56,7 @@ For each client brand you create:
 6. Review the analysis and click **Save Analysis**
 7. Click **Save** to finalize the Brand Profile
 
-Repeat this for every client brand.
-
-[NEEDS REVIEW: whether onboarding wizard (`/onboard`) applies to subsequent brands or if you use Brand Profile page directly]
+Repeat this for every client brand. Each new brand is created at `/brand/create` (name + logo) and immediately routed into `/onboard` to collect Brand DNA. The Brand Profile page edits name and logo only — use the onboarding wizard whenever you need to update full Brand DNA.
 
 ## Step 4: Set Up Team Access
 
@@ -73,9 +71,7 @@ Invite your team members to the brands they'll work on.
 
 Success: "{email} has been invited to {brand name}"
 
-Team members receive an email invite and can join that brand immediately upon clicking the link.
-
-[NEEDS REVIEW: whether you can invite one user to multiple brands at once, or if it's one brand per invite]
+Team members receive an email invite and can join that brand immediately upon clicking the link. The Invite dialog accepts one brand per invite — to add the same person to multiple brands, send a separate invite per brand.
 
 ## Step 5: Configure Checklists and Workflows
 
@@ -92,9 +88,7 @@ Checklist Templates live in your Account sidebar and apply across all brands.
    - "Publish to client's channels"
 6. Click **Save Template**
 
-You can now assign this template to projects for any client brand.
-
-[NEEDS REVIEW: exact checklist template creation UI and whether templates apply globally or per-brand]
+Important: checklist templates are scoped per-brand, not workspace-wide. Templates created while you have Brand A selected only appear in Brand A's project Tasks dialog. Re-create the template under each brand that needs it, or treat templates as part of each client's setup checklist.
 
 ## Step 6: Verify Multi-Brand Setup
 
@@ -145,7 +139,7 @@ A: Make sure you're logged in and the page has refreshed. Brands appear in the d
 A: Check that the invite was sent to the correct brand in the invite modal. Resend if needed. Check their spam folder for the invite email.
 
 **Q: Can I rename a brand after creation?**
-A: [NEEDS REVIEW: whether brand renaming is supported]
+A: Yes. Open the brand from the brand switcher, go to its Brand Profile, and update the name (and logo if needed). The change saves to the brand record and propagates everywhere the brand name is shown.
 
 ## Related Topics
 

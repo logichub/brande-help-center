@@ -12,7 +12,7 @@ When you're logged in as a brand owner or internal team member, you see:
 - Content Agent recommendations and capabilities
 - Content Calendar with scheduling tools
 - Dashboard with analytics and insights
-- Announcement messages [NEEDS REVIEW: confirm visibility in team view]
+- Announcement messages and product updates
 - Team management and invitations
 - Integration setup and publishing controls
 - Full commenting and collaboration tools
@@ -53,7 +53,7 @@ When you share projects with a client or invite them as a "Client Collaborator,"
 - View projects (read-only, cannot edit)
 - Leave and reply to comments
 - Approve/unapprove projects (if plan includes project_approval)
-- Download exports (PDF/Word) [NEEDS REVIEW: verify export access for clients]
+- Download exports (DOCX) of approved content
 
 This simplified interface keeps the focus on the work itself, not your backend.
 

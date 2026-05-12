@@ -49,7 +49,7 @@ All fields in the customization dialog are editable. You can:
 - Remove information that does not apply
 - Clarify tone or intent
 
-[NEEDS REVIEW: exact customization flow UI and which fields are editable vs read-only]
+The variable dialog is fully editable: every variable defined on the underlying template appears as an input. Brande.ai pre-fills the fields based on the recommendation's brief (so you start with sensible defaults), but you can rewrite any field before clicking **Generate**.
 
 ## Generate Your Content
 

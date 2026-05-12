@@ -136,11 +136,10 @@ Navigate to **Account > Brands** to see all brands you own or have access to.
 For each brand, you see:
 - Brand name
 - Crown icon (if you own it)
-- Role (Owner, Admin, Collaborator)
-- Number of team members invited
-- Option to manage or leave the brand
+- Role (Owner, Brand Collaborator, or Client Collaborator)
+- Switch-brand action
 
-[NEEDS REVIEW: exact brand management UI and available actions]
+Brand profile editing lives at **Brand Profile** (with adjacent pages for Brand Voice Analyzer, Brand Asset Vault, Brand Messaging Fingerprint, and Reference Materials). To request a brand new workspace, use the **Request New Brand Workspace** modal in the help menu — it opens an Asana form. There is no in-app brand-delete action; contact support if you need to remove a brand.
 
 ## My Plan
 
@@ -205,11 +204,9 @@ Snippets are brand-specific.
 
 Navigate to **Account > Custom Fields** to configure project metadata.
 
-If you need to track additional information on projects (e.g., "Client Name", "Campaign Type", "Approval Status"), create custom fields here.
+If you need to track additional information on projects (for example, "Client Name", "Campaign Type", "Approval Status"), create custom fields here.
 
-Custom fields appear on all projects for this brand.
-
-[NEEDS REVIEW: exact custom field creation UI]
+Custom fields appear on all projects for this brand. The page heading is **Custom Fields**, the entry point uses the dashed empty-state pill **Add custom fields**, and the create dialog itself is titled **Add Custom Field** with a **Create Field** primary button. Field types include text, number, URL, date, single-select, multi-select, and checkbox.
 
 ## API Keys
 
@@ -230,9 +227,9 @@ Shows all your keys with:
 - Created date
 - **Revoke** button to deactivate the key
 
-Use API keys to authenticate third-party integrations (Zapier, webhooks, etc.).
+Use API keys to authenticate third-party integrations such as Zapier and Make.
 
-[NEEDS REVIEW: whether Zapier has a dedicated integration or if it uses API keys]
+There is no dedicated Zapier integration in Brande.ai — Zapier and Make consume the keys you create here. The settings sidebar surfaces a Zapier link labelled **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!** that points at the public Brande.ai Zapier app.
 
 ## Checklist Templates
 
@@ -249,7 +246,8 @@ Navigate to **Account > Settings** for workspace-level preferences.
 Contains:
 - **Language** — Select EN (English) or ES (Spanish)
 - **Toggle Theme** — Switch between light and dark mode
-- [NEEDS REVIEW: other workspace preferences, e.g., email notifications, default timezone]
+
+These are the only workspace-level preferences in the current build. There is no email-notification toggle, default timezone, or DND configuration.
 
 ## Profile Dropdown Menu
 
@@ -282,10 +280,10 @@ A: Refresh your browser. Language changes take effect after a page reload.
 A: Look in the Account sidebar for "Settings" or "Preferences". It's typically near the bottom of the sidebar.
 
 **Q: How do I delete my account?**
-A: [NEEDS REVIEW: whether account deletion is supported, or if you need to contact support]
+A: There is no in-app account-delete action. Contact support via `/support` and request account closure.
 
 **Q: Can I change my email address?**
-A: [NEEDS REVIEW: whether email change is available in account settings, or if it requires support]
+A: Email changes aren't exposed in account settings today. Submit a support ticket with the new address and a confirmation request.
 
 ## Related Topics
 

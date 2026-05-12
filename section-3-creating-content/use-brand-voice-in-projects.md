@@ -33,7 +33,7 @@ Some templates hide Brand Voice selection:
 - Ideation
 
 **Templates without voice selection:**
-- Ask BRAND-E
+- Ask Brande.ai
 - Certain specialized templates (varies by plan)
 
 ## How to Create a Brand Voice Profile

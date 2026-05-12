@@ -18,7 +18,7 @@ In the **Language** section, you see a dropdown with language options:
 - **EN** with flag icon — English (default)
 - **ES** with flag icon — Español (Spanish)
 
-[NEEDS REVIEW: whether additional languages are supported beyond EN and ES]
+English and Spanish are the only supported UI languages today. Additional languages aren't available from the language panel.
 
 **To Change Language:**
 1. Click the Language dropdown
@@ -105,9 +105,7 @@ Light backgrounds print better than dark backgrounds.
 
 ## Keyboard Shortcut for Theme
 
-[NEEDS REVIEW: whether there's a keyboard shortcut to toggle theme without opening Settings]
-
-If a shortcut exists, it would allow you to switch themes instantly.
+There is no dedicated keyboard shortcut for toggling theme. Use the **Toggle Theme** button on the Account page's Settings card.
 
 ## Language-Specific Behavior
 
@@ -123,7 +121,7 @@ When you change to Spanish (ES):
 Your Brand Profile, projects, and all content remain in whatever language you originally created them in. Language preference only changes the UI.
 
 **If You Want Content in Another Language:**
-Create a new project and select the appropriate language or voice profile. [NEEDS REVIEW: whether project creation allows language selection]
+Project creation in Brande.ai doesn't expose a language switch. Specify the target language directly in your prompt or template variables (for example, "Write this LinkedIn post in Spanish"), and the AI will generate accordingly using your Brand DNA.
 
 ## Troubleshooting
 
@@ -143,7 +141,7 @@ A: Yes. Go to Settings, click the Language dropdown, and select your preferred l
 A: No. Each user has their own language and theme preferences. Your team members see the interface in whatever language/theme they've set for themselves.
 
 **Q: Does changing theme affect exported content or reports?**
-A: [NEEDS REVIEW: whether export/report styling is affected by theme setting]
+A: No. Theme is a UI-only preference. Exported PDF and DOCX files use a fixed light style regardless of your in-app theme.
 
 ## Related Topics
 

@@ -1,10 +1,8 @@
 # Use the Content Improver
 
-[NEEDS REVIEW: Content Improver exact UI flow and label - may be part of edit/refine chat, a separate tool panel, or accessible via menu]
+Generated content is functional. Improved content converts. **Content Improver** is one of Brande.ai's project templates (under the Copywriting category). You paste an existing piece of content into the variable dialog, pick the improvement modes you want applied, and Brande.ai rewrites the content using your Brand DNA.
 
-Generated content is functional. Improved content converts. The Content Improver is a specialized tool that analyzes your draft content against Brand DNA, audience alignment, and conversion best practices—then surfaces specific refinement opportunities without requiring you to figure out what's wrong.
-
-Instead of guessing ("does this need a better CTA?"), the Content Improver tells you ("your CTA lacks urgency—try adding a deadline or scarcity element").
+Use it when you have a draft that's close but not landing — a launch announcement that feels flat, a LinkedIn post that's too corporate, a landing-page section that buries the value.
 
 ## What Content Improver Does
 
@@ -33,24 +31,23 @@ The Content Improver runs analysis on your generated or edited content and ident
 - Missing personal story or vulnerability
 - Overly formal when conversational fits better
 
-## Where Content Improver Appears
+## Where Content Improver Lives
 
-[NEEDS REVIEW: exact UI location - may be a sidebar button, toolbar icon, or menu option in the editor]
+Content Improver is a project template, not a separate panel inside the editor. You reach it through the new-project flow:
 
-The Content Improver is accessible from the project editor:
-- **Button/Icon location:** [NEEDS REVIEW]
-- **Keyboard shortcut:** [NEEDS REVIEW - may be none, or Ctrl+I]
-- **Menu path:** [NEEDS REVIEW - may be under Tools, or in toolbar]
+1. From the **Projects** page or dashboard, start a new project
+2. In the **Create a new project** dialog, search for or scroll to **Content Improver** (Copywriting category)
+3. Select it to open the template's variable dialog
 
 ## How to Use Content Improver
 
-### Step 1: Generate or Edit Your Content
+### Step 1: Have your draft ready
 
-Create content using any template. Let the AI generate, then make any direct edits or chat refinements you want.
+Copy the content you want to improve. It can be content Brande.ai generated earlier or content from outside the app.
 
-### Step 2: Access Content Improver
+### Step 2: Open the Content Improver template
 
-[NEEDS REVIEW: Click the Content Improver button/icon/menu option]
+From the Create a new project dialog, choose **Content Improver**. The variable dialog opens.
 
 ### Step 3: Review Improvement Suggestions
 
@@ -96,9 +93,17 @@ After implementing improvements, re-run Content Improver to see updated scores.
 
 You're aiming for alignment, not perfection. 80%+ is strong.
 
-## Content Improver Scoring Explained
+## Improvement Modes
 
-[NEEDS REVIEW: exact scoring system - may be percentage-based, 1–10 scale, or category-based]
+Content Improver doesn't score your content — it rewrites it. You pick one or more improvement modes from the variable dialog, and the rewrite emphasises those goals while keeping your Brand DNA intact:
+
+- Strengthen writing clarity and flow
+- Make it more concise
+- Boost brand voice and alignment
+- Humanize the content
+- Increase persuasiveness
+
+**Pro tip:** if you originally generated the source content in Brande.ai, attach that earlier project as a Reference Project in the variable dialog. The improver then has full context for the rewrite.
 
 **Brand Alignment (0–100%)**
 How well does this content match your Brand DNA, voice, and audience? Higher is better.
@@ -178,11 +183,11 @@ Over time, you'll see patterns in suggestions. "My CTAs are always too generic,"
 **"Some suggestions feel off or not right for my brand"**
 → Content Improver is a guide, not gospel. Skip suggestions that don't fit. The tool is learning, and so are you.
 
-**"Content Improver isn't showing suggestions"**
-→ [NEEDS REVIEW: possible reasons and solutions - may be loading, may be feature disabled on plan, etc.]
+**"The rewrite kept too much / too little of my original"**
+→ The improvement modes you selected drive how aggressive the rewrite is. Re-run with different modes selected, or refine in the editor's chat afterward.
 
-**"I want to ignore one category of suggestions"**
-→ [NEEDS REVIEW: if there's a way to disable certain scoring categories or hide suggestions for specific areas]
+**"I want to skip one improvement mode"**
+→ Just don't tick it in the variable dialog when starting the project. Each mode is independent.
 
 ## Content Improver Workflow
 

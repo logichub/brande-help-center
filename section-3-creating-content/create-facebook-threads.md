@@ -1,6 +1,6 @@
 # Create Facebook Thread Posts
 
-[NEEDS REVIEW: exact template key for Facebook threads - may be a specific template or part of content creation workflow]
+Facebook Threads has its own dedicated template in Brande.ai — **Facebook Thread Post** — alongside the regular **Facebook Post** template. Both are in the Social Media template category.
 
 Facebook Threads is a new format where users follow threads of conversation instead of single posts. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
 
@@ -45,9 +45,7 @@ When you use the Brand DNA from your profile (your voice, your audience, your bu
 
 Click **Create New Project** (Alt+N / Ctrl+N). The project type dialog opens.
 
-[NEEDS REVIEW: Exact template key and available UI for Facebook thread selection]
-
-Search for "Facebook" or browse templates. Select the **Facebook Threads** template (if available as a distinct template) or use **LinkedIn Post** template as a base and customize in chat to output thread format.
+Search for "Facebook" or browse the **Social Media** category. Select **Facebook Thread Post** (the series-style template). The single-post **Facebook Post** template is available right next to it for one-off posts.
 
 ### Step 2: Configure Variables
 

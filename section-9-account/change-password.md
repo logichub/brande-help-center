@@ -23,9 +23,11 @@ This prevents someone with access to your unlocked computer from changing your p
 Enter your new password.
 
 Password requirements:
-- Minimum [NEEDS REVIEW: password length requirement, e.g., 8 characters]
+- Minimum 8 characters
 - May include: uppercase, lowercase, numbers, symbols
 - Cannot be the same as your current password
+
+The form shows a live strength indicator with warnings and suggestions as you type.
 
 Create a strong password:
 - Mix uppercase and lowercase letters (Aa)

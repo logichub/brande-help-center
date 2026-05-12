@@ -20,8 +20,6 @@ Example Checklist Template: "Blog Post Quality Checklist"
 - [ ] Client collaborator review — approval received
 - [ ] Final publish check — images optimized, metadata complete
 
-[NEEDS REVIEW: exact checklist template creation UI]
-
 ## Access Checklist Templates
 
 1. Click your profile icon (top right) or press **Ctrl/Alt+A**
@@ -35,20 +33,14 @@ The Checklist Templates page displays:
 
 ## Create a New Checklist Template
 
-1. Go to Checklist Templates (Account sidebar)
-2. Click **Create New Template** or **+** button
-3. Enter a **Template Name** (e.g., "Client Approval Workflow")
-4. Enter a **Description** (optional, helps you remember the template's purpose)
-5. Add **Checklist Steps**:
-   - Click **Add Step**
-   - Type the step name (e.g., "Brand voice review")
-   - Type a description or instruction (optional)
-   - Repeat for each step
-6. Click **Save Template**
+1. Go to **Checklist Templates** (Account sidebar)
+2. Click **Create Checklist Template**
+3. Enter the template **Name** (for example, "Client Approval Workflow")
+4. Click **Add Task** for each step. Each task is a single line bound to the placeholder **Enter task description** — there is no separate description, due-date, or owner field at the template level
+5. Use **Remove** next to any task to delete it
+6. Click **Save**
 
-The template is now saved and available to assign to any project.
-
-[NEEDS REVIEW: exact field names and UI for step creation]
+The template now appears in the Checklist Templates list and can be applied to any project.
 
 ## Example Checklist Templates
 
@@ -96,17 +88,16 @@ Here are templates agencies commonly create:
 
 ## Assign a Checklist to a Project
 
-Once you've created checklist templates, assign them to projects:
+Once you've created checklist templates, apply them to a project from inside the project itself:
 
-1. Create a new project or open an existing project
-2. Look for **Checklists** section (or similar)
-3. Click **Assign Checklist** or **+ Add Checklist**
-4. Select the template from the dropdown (shows all templates you've created)
-5. Click **Add**
+1. Open the project
+2. Open the project's **Tasks** dialog from the toolbar
+3. In the **Select a Template** dropdown, choose the template you want to apply
+4. Click **Apply Template**
 
-The checklist now appears in the project.
+A new task is created on the project for every task in the template. You can also click **Create Template** from this dialog to jump to the template editor.
 
-[NEEDS REVIEW: exact UI for assigning checklists to projects]
+Applying multiple templates is supported — each apply appends new tasks to the project. Editing a template afterwards does not retroactively update tasks on projects that have already had it applied.
 
 ## Use Checklists During Project Work
 
@@ -117,9 +108,7 @@ As your team works on the project:
 3. Step status is saved automatically
 4. Other team members see the progress in real-time
 
-The project cannot be marked as "Completed" or "Published" until all checklist steps are checked (or explicitly skipped).
-
-[NEEDS REVIEW: whether incomplete checklists block project status changes]
+Checklists do **not** hard-block project status transitions in Brande.ai today. They are visible reminders of process — you can change project status (Draft → Approved → Published) without ticking every box. Treat unchecked items as quality alerts, not gates.
 
 ## Plan Gating: Checklist Templates
 
@@ -144,9 +133,7 @@ Click **Upgrade Now** to access unlimited templates.
 4. Modify the template name, description, or steps
 5. Click **Save Changes**
 
-Changes apply to:
-- All *future* projects assigned this template
-- Existing projects already using this template [NEEDS REVIEW: whether edits are retroactive or only apply forward]
+Changes apply only to *future* applies of this template. Tasks already created on projects from a previous **Apply Template** action are independent records and are not updated when the template changes.
 
 ## Delete a Checklist Template
 
@@ -156,8 +143,8 @@ Changes apply to:
 4. Confirm deletion
 
 Deleting a template:
-- Removes it from the dropdown for new project assignments
-- Does *not* remove it from projects that already have it assigned [NEEDS REVIEW: confirm behavior]
+- Removes it from the **Select a Template** dropdown for new applies
+- Does *not* remove or alter tasks already created on projects from previous applies (those tasks live independently of the template)
 
 ## Best Practices for Checklist Templates
 
@@ -204,13 +191,13 @@ Edit the template and save. Future projects assigned this template will use the 
 A: Refresh your browser. Sometimes the template list doesn't load immediately. Ensure you're looking in the right project type (some templates may only apply to specific content types).
 
 **Q: Can I assign multiple checklists to one project?**
-A: [NEEDS REVIEW: whether projects support multiple checklist assignments]
+A: Yes. Each **Apply Template** action appends a new set of tasks to the project, so you can layer several templates on the same project.
 
 **Q: What happens if I delete a template that's already assigned to a project?**
-A: The project retains the checklist, but you can't assign that template to new projects. [NEEDS REVIEW: confirm behavior]
+A: The project keeps the tasks that were created when you applied the template, because applied tasks are independent of the template. The template just won't appear in **Select a Template** for future applies.
 
 **Q: Can I share checklists with other agencies or team members?**
-A: [NEEDS REVIEW: whether checklists can be exported, shared, or duplicated across workspaces]
+A: Checklist templates are scoped to a single brand and can't be exported or duplicated across brands today. To share a template across brands, recreate it manually under each brand.
 
 ## Related Topics
 

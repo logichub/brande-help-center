@@ -103,7 +103,7 @@ If you are working with team members:
 - Invite collaborators to review or approve projects
 - Track who generated what across brands
 
-[NEEDS REVIEW: exact team collaboration and invitation flow]
+Content Agent itself doesn't have a separate invite flow. Recommendations are scoped to the selected brand, so anyone you invite to a brand (via the **Invite** dialog with **Brand Collaborator** or **Client Collaborator** role) automatically sees that brand's daily recommendations on the dashboard when they switch into it.
 
 ## Common Multi-Brand Scenarios
 

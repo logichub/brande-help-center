@@ -17,7 +17,7 @@ Learn these shortcuts and watch your workflow accelerate:
 | **Ctrl/Alt+C** | New Snippet | Create a reusable text block |
 | **Modifier+Shift+P** | Project Search | Search your projects by name |
 
-**Note:** On Mac, use **Control** instead of **Ctrl**, and **Command** instead of **Alt** for some shortcuts. [NEEDS REVIEW: exact Mac vs. Windows/Linux shortcuts]
+**Note:** On Mac the modifier renders as **Ctrl** (Control). On Windows and Linux it renders as **Alt**. The keyboard-shortcuts modal in the header shows the correct binding for your platform. There are no `Cmd+` shortcuts in Brande.ai today.
 
 ## Create a New Project (Ctrl/Alt+N)
 
@@ -211,7 +211,7 @@ A: Start with the three most important:
 Master these three, then add others as you go.
 
 **Q: The search shortcut opens the browser's search instead.**
-A: On some browsers, Shift+P is trapped by the browser. Try Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows). [NEEDS REVIEW: exact alternative shortcut]
+A: Project Search uses **Cmd+Shift+P** on Mac and **Ctrl+Shift+P** on Windows/Linux. There is no alternative binding for the same action — if your browser steals the shortcut, click the search icon in the sidebar instead.
 
 ## Related Topics
 

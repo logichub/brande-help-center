@@ -60,7 +60,7 @@ What changes when you switch:
 - Quick Links point to that brand's Brand Profile, Materials, etc.
 - Project status overview shows that brand's recent work
 
-[NEEDS REVIEW: whether there's a dedicated agency-wide dashboard that shows all brands at once, or if you must switch brands individually to see each client's dashboard]
+There is no agency-wide "all-brands" dashboard today. The dashboard always shows the currently selected brand. Use the brand switcher in the header to move between clients; everything on the page — Quick Links, Recent Projects, Content Calendar widgets — reflects the active brand only.
 
 ## Understanding Dashboard Sections
 
@@ -225,7 +225,7 @@ A: Your projects may not be scheduled yet. Drag pending projects from the "Pendi
 A: Refresh your browser. Sometimes the list doesn't update immediately. Or navigate to the Projects page to see your full project list.
 
 **Q: Can I customize which widgets appear on the dashboard?**
-A: [NEEDS REVIEW: whether the dashboard is customizable or if all users see the same layout]
+A: No. The dashboard layout is fixed today — all users see the same sections (Welcome, Content Calendar, Quick Links, Recent Projects, Recent Folders).
 
 **Q: Why does one brand show different Content Agent recommendations than another?**
 A: Each brand's Content Agent is based on that brand's Brand DNA (objectives, audience, channels). Different DNA = different recommendations.

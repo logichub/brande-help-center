@@ -54,7 +54,7 @@ Choose where to share your project content:
 
 ### What gets shared
 
-The text content of your project is extracted and shared. Images may or may not be included depending on the platform [NEEDS REVIEW: confirm image handling for social sharing].
+The text content of your project is extracted and passed to the platform's native share intent. Images are not attached automatically — if you need images on the social post, save the generated images from the editor first, then attach them in the platform's compose window.
 
 ## Collaborator limits and upgrades
 
@@ -99,10 +99,9 @@ For ongoing collaboration, consider inviting them as a brand team member instead
 ## Share security
 
 Shareable links:
-- Are unique and hard to guess
+- Are tied to a specific project ID and only work for users with brand access
 - Don't appear in public search results
-- Only work if you share them actively
-- Can be invalidated by [NEEDS REVIEW: explicit revocation mechanism]
+- Don't expire and don't have an explicit revocation button — to cut off access, remove the recipient from the brand or change their role
 
 Note: Don't share project links in public forums or where untrusted users might see them.
 

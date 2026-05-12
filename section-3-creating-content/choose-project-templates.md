@@ -76,13 +76,13 @@ Templates are pre-built scaffolds that embed your Brand DNA into content structu
 
 ---
 
-### Ask BRAND-E
+### Ask Brande.ai
 
 **When to use:** You don't know which template to use, or your content need doesn't fit any standard category.
 
-**What it generates:** A guided conversation where you describe your content goal. BRAND-E suggests which template to use or helps you define the project scope.
+**What it generates:** A guided conversation where you describe your content goal. Brande.ai suggests which template to use or helps you define the project scope.
 
-**Example:** "I need marketing collateral for a webinar—should I create a landing page, email invitation, or social campaign?" Ask BRAND-E to help you decide, then it guides you to the right template.
+**Example:** "I need marketing collateral for a webinar—should I create a landing page, email invitation, or social campaign?" Use Ask Brande.ai to help you decide, then it guides you to the right template.
 
 **Template key:** ask-brand-e
 
@@ -99,7 +99,7 @@ In the New Project dialog, templates are grouped into categories:
 - Website Copy
 - Write from Scratch
 - Repurpose Content
-- Ask BRAND-E
+- Ask Brande.ai
 
 Click a category name to expand and see all templates in that category.
 
@@ -122,7 +122,7 @@ If you're in trial period, all premium templates show: "You can't access this fe
 - **Write anything custom or unusual** → Use Write from Scratch
 - **Repurpose existing content** → Use Repurpose Content
 - **Create or update website pages** → Use Website Copy
-- **Unsure which template** → Use Ask BRAND-E
+- **Unsure which template** → Use Ask Brande.ai
 
 ## What Happens After You Select
 
@@ -140,8 +140,8 @@ Once you select a template, the **variables dialog** opens. This is where you:
 **Tip 1: Template choice determines format, not quality**
 Picking Website Copy vs. LinkedIn Post doesn't guarantee better content—it ensures the *format* is right for your channel. A LinkedIn Post template will never output a website page, regardless of quality.
 
-**Tip 2: Use Ask BRAND-E if uncertain**
-If you're unsure which template fits your content goal, start with Ask BRAND-E. It's faster than browsing all categories.
+**Tip 2: Use Ask Brande.ai if uncertain**
+If you're unsure which template fits your content goal, start with Ask Brande.ai. It's faster than browsing all categories.
 
 **Tip 3: One project per template execution**
 Create one project per template per output. If you want 3 LinkedIn posts on different topics, create 3 separate LinkedIn Post projects. Each project is a separate generation and revision cycle.
