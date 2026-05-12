@@ -4,45 +4,45 @@ Complete troubleshooting documentation for Brande.ai users. Each guide covers co
 
 ## Quick Links
 
-1. **[Brand Voice Analysis Failures](/troubleshooting/brand-voice-analysis.md)**
+1. **[Brand Voice Analysis Failures](/troubleshooting/brand-voice-analysis)**
    - "Brand Analysis Failed" error
    - "Start Analysis Failed" message
    - "Missing URL" error
    - Analysis timeout issues
 
-2. **[Content Generation Errors](/troubleshooting/content-generation.md)**
+2. **[Content Generation Errors](/troubleshooting/content-generation)**
    - "An Error Occurred" or "Oops!" message
    - API errors during generation
    - Empty or gibberish results
    - Generation timeouts
 
-3. **[File Upload Problems](/troubleshooting/file-uploads.md)**
+3. **[File Upload Problems](/troubleshooting/file-uploads)**
    - "File Size Limit Exceeded"
    - "File Type Not Supported"
    - "File Delete Error" / Failed deletion
    - Files upload but aren't analyzed
 
-4. **[Premium Feature Access](/troubleshooting/premium-features.md)**
+4. **[Premium Feature Access](/troubleshooting/premium-features)**
    - "Premium Feature" modal
    - "Upgrade Your Plan" message
    - Trial period restrictions
    - Collaborator limit exceeded
    - Plan comparison and upgrades
 
-5. **[Content Agent Not Working](/troubleshooting/content-agent.md)**
+5. **[Content Agent Not Working](/troubleshooting/content-agent)**
    - "Error Loading Recommendations"
    - "No Recommendations Available"
    - "Something Went Wrong" errors
    - Agent disabled or grayed out
 
-6. **[Publishing and Integration Errors](/troubleshooting/publishing-integrations.md)**
+6. **[Publishing and Integration Errors](/troubleshooting/publishing-integrations)**
    - Failed publish status
    - Expired integrations
    - Revoked integrations
    - Account selection issues
    - OAuth and token problems
 
-7. **[Account and Login Issues](/troubleshooting/account-login.md)**
+7. **[Account and Login Issues](/troubleshooting/account-login)**
    - "Invalid Email" validation
    - "Password Must Match" error
    - Password reset not arriving
