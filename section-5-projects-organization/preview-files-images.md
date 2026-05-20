@@ -2,6 +2,9 @@
 
 View images and files directly in the editor without downloading. Brande.ai displays images inline as you work, so you see your full content layout in real-time.
 
+![Preview Files and Images Inside Brande.ai — Brande.ai](./images/preview-files-images.jpg)
+
+
 ## View images in the editor
 
 When your project contains images:

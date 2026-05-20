@@ -2,6 +2,9 @@
 
 Scaling an agency content practice breaks in two ways:
 
+![Scale Client Work Without Losing Brand Control — Brande.ai](./images/scale-without-losing-control.jpg)
+
+
 **Operational Break:** Your team can't keep up with the volume. Content slows down, deadlines slip, team gets burned out.
 
 **Quality Break:** You produce more content but it's generic, off-brand, or misses your client's audience. Clients notice. Approvals take longer. Revisions multiply.

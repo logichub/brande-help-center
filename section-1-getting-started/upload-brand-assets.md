@@ -2,6 +2,9 @@
 
 Brand assets are documents, images, videos, and links that define your brand visually and strategically.
 
+![Upload Brand Assets — Brande.ai](./images/upload-brand-assets.jpg)
+
+
 Uploading high-quality assets strengthens your Brand DNA and improves every piece of content and image Brande.ai generates.
 
 ## What Brand Assets Are
@@ -19,7 +22,7 @@ The more examples you provide, the better Brande.ai understands your identity.
 
 ## Where to Upload Assets
 
-Navigate to **Account** → **Brand Materials**.
+Navigate to **Account** → **Brand Asset Vault**.
 
 You'll see a file upload area with options:
 

@@ -2,6 +2,9 @@
 
 Each Content Agent brief is a strategic instruction. It tells you what to create, why it matters, and where it fits in your content strategy.
 
+![Read and Interpret Content Briefs — Brande.ai](./images/read-content-briefs.jpg)
+
+
 ## Anatomy of a Content Brief
 
 Every brief contains four pieces of information:

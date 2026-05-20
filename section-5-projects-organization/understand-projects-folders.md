@@ -2,6 +2,9 @@
 
 Projects are your individual content pieces. Folders organize projects into meaningful groups. Together, they give you structure at any scale—from a single post to a multi-channel campaign.
 
+![Understand Projects, Folders, and Campaigns — Brande.ai](./images/understand-projects-folders.jpg)
+
+
 ## What is a project?
 
 A project is one piece of content: a blog post, social media caption, email, webpage copy, or any standalone asset. Each project:

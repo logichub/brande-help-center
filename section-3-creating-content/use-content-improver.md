@@ -2,6 +2,9 @@
 
 Generated content is functional. Improved content converts. **Content Improver** is one of Brande.ai's project templates (under the Copywriting category). You paste an existing piece of content into the variable dialog, pick the improvement modes you want applied, and Brande.ai rewrites the content using your Brand DNA.
 
+![Use the Content Improver — Brande.ai](./images/use-content-improver.jpg)
+
+
 Use it when you have a draft that's close but not landing — a launch announcement that feels flat, a LinkedIn post that's too corporate, a landing-page section that buries the value.
 
 ## What Content Improver Does

@@ -4,6 +4,9 @@
 
 **Direct Answer:** The feature you're accessing isn't included in your current plan. You need to upgrade to unlock it.
 
+![Premium Feature Access — Brande.ai](./images/premium-features.jpg)
+
+
 ### How to Fix This
 
 1. **Check what your plan includes**

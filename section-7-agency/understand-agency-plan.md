@@ -2,6 +2,9 @@
 
 The Agency Plan is not an upgraded dashboard.
 
+![The Agency Plan: Multi-Brand Content Operating System — Brande.ai](./images/understand-agency-plan.jpg)
+
+
 It's a fundamentally different architecture: unlimited client brands in one workspace, each with independent Brand DNA, Content Agent, projects, and approval workflows. One subscription replaces the cost, friction, and coordination chaos of multiple AI tool subscriptions and manual approval systems.
 
 ## The Three Pillars

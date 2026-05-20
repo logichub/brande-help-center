@@ -2,6 +2,9 @@
 
 Your Brand DNA controls the visual identity of every image Brande.ai creates. When you generate images, the AI inherits your brand's color palette, visual style, and composition preferences—ensuring consistency without manual tweaking.
 
+![Generate On-Brand Images — Brande.ai](./images/generate-on-brand-images.jpg)
+
+
 ## How image generation uses Brand DNA
 
 When you create content with Brande.ai, your Brand DNA is the foundation for all visual assets. The system automatically applies your brand's established visual language to generated images, so every asset feels like it belongs to your brand. This means:

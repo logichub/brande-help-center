@@ -2,6 +2,9 @@
 
 Your account settings and preferences control how you work in Brande.ai.
 
+![Navigate Settings and Preferences — Brande.ai](./images/navigate-settings.jpg)
+
+
 Everything lives in one place: your Account page, accessible with a single keyboard shortcut or click.
 
 ## Access Account Settings

@@ -2,6 +2,9 @@
 
 Collaborate without leaving Brande.ai. Leave feedback on projects, reply to comments, and keep discussions in context—all in the Comments sidebar.
 
+![Leave and Respond to Comments — Brande.ai](./images/leave-respond-comments.jpg)
+
+
 ## Open the comments sidebar
 
 While editing a project:

@@ -2,6 +2,9 @@
 
 Content quality scales through process, not talent.
 
+![Create Custom Content Checklists and Workflows — Brande.ai](./images/custom-checklists-workflows.jpg)
+
+
 Checklist Templates lock in your service delivery process—the steps you take to produce on-brand, client-approved, publication-ready content every single time.
 
 Create once. Assign to every project across all clients. Watch quality and speed improve together.

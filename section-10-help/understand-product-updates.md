@@ -2,6 +2,9 @@
 
 Brande.ai ships improvements and new features continuously.
 
+![Understand Product Updates and Changelogs — Brande.ai](./images/understand-product-updates.jpg)
+
+
 A changelog widget in the app shows exactly what's changed, what's coming next, and what bugs were fixed—keeping you informed without forcing you to check external websites.
 
 ## Product Updates and Changelogs

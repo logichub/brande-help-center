@@ -4,6 +4,9 @@
 
 **Direct Answer:** Your file is larger than the 25MB limit. Compress it or split it into smaller files.
 
+![File Upload Problems — Brande.ai](./images/file-uploads.jpg)
+
+
 ### How to Fix This
 
 1. **Check file size**

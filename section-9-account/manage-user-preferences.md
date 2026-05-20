@@ -2,6 +2,9 @@
 
 User preferences in Brande.ai are intentionally minimal today. Almost all of what other tools call "user preferences" lives on three pages you've already read about:
 
+![Manage User Preferences — Brande.ai](./images/manage-user-preferences.jpg)
+
+
 - **Account** (`/account`) — your name, profile picture, password, and the **Settings** card with **Language** and **Toggle Theme**. See [Access and Update Account Settings](/section-9-account/access-update-settings).
 - **Update Theme and Language Preferences** — the same two controls, in detail. See [Update Theme and Language](/section-9-account/theme-language-preferences).
 - **Notifications** (`/notifications`) — invite responses and recent activity. See [Manage Notifications](/section-9-account/manage-notifications).

@@ -2,6 +2,9 @@
 
 Your team members see the full Brande.ai interface. Clients see a simplified view focused only on reviewing projects. This separation keeps your internal operations private while giving clients visibility where it matters.
 
+![Understand Internal vs Client Content Views — Brande.ai](./images/internal-vs-client-views.jpg)
+
+
 ## Brand owner and internal team view
 
 When you're logged in as a brand owner or internal team member, you see:

@@ -4,6 +4,9 @@
 
 **Direct Answer:** The API server failed during generation, usually because your Brand DNA is incomplete or the request exceeded service limits.
 
+![Content Generation Errors — Brande.ai](./images/content-generation.jpg)
+
+
 ### How to Fix This
 
 1. **Verify your Brand DNA is complete**

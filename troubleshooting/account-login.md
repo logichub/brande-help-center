@@ -4,6 +4,9 @@
 
 **Direct Answer:** The email address or password field contains a formatting error. Check for extra spaces or typos.
 
+![Account and Login Issues — Brande.ai](./images/account-login.jpg)
+
+
 ### How to Fix This
 
 1. **Verify email format**

@@ -2,6 +2,9 @@
 
 Have an idea that would make Brande.ai better?
 
+![Request New Features — Brande.ai](./images/request-new-features.jpg)
+
+
 Submit a feature request and watch the community vote on it. The most-requested features make it to the development roadmap.
 
 ## What's a Feature Request?

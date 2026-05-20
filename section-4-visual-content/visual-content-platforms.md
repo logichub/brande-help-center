@@ -2,6 +2,9 @@
 
 Different platforms have different image requirements. Brande.ai generates images in the right dimensions and aspect ratios for each channel—so your visuals fit perfectly on Instagram, LinkedIn, Twitter/X, blogs, and more.
 
+![Create Visual Content for Different Platforms — Brande.ai](./images/visual-content-platforms.jpg)
+
+
 ## Platform-specific image requirements
 
 When you create a project or generate images, Brande.ai adapts to your platform:

@@ -2,6 +2,9 @@
 
 Your Brand Profile settings include your brand name, logo, business objectives, audience, and content channels.
 
+![Update Your Brand Profile Settings — Brande.ai](./images/update-profile-settings.jpg)
+
+
 These are the foundational elements of your Brand DNA.
 
 As your company evolves, update these settings so your Brand DNA stays accurate and your content generation stays powerful.

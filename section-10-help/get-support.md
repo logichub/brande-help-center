@@ -2,6 +2,9 @@
 
 When you get stuck, can't find an answer, or discover a bug, support is a few clicks away.
 
+![Get Support — Brande.ai](./images/get-support.jpg)
+
+
 Submit a support ticket and the team will help you resolve the issue, get clarification, or find a workaround.
 
 ## Access Support

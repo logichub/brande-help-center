@@ -2,6 +2,9 @@
 
 Client approvals are core to agency workflow. Instead of email ping-pong, manage the entire review cycle inside Brande.ai. Clients see what matters and approve when ready—without access to your backend or brand settings.
 
+![Manage Client Review and Approval — Brande.ai](./images/manage-client-review-approval.jpg)
+
+
 ## How client approval works
 
 Your client or stakeholder is a collaborator with a special role:

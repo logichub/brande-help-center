@@ -2,6 +2,9 @@
 
 Tell Brande.ai what your images should look like in natural language. The **Image Instructions** textarea lets you describe visual style, mood, composition, and aesthetic preferences. Your instructions combine with Brand DNA to create cohesive, on-brand visuals.
 
+![Customize Image Style Using Plain English — Brande.ai](./images/customize-image-style.jpg)
+
+
 ## Where to add image instructions
 
 When creating or editing a project:

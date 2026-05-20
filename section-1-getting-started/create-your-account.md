@@ -2,6 +2,9 @@
 
 Getting started with Brande.ai takes less than five minutes. You'll create an account, verify your email, and walk through a guided setup that teaches Brande.ai how your brand sounds, looks, and thinks.
 
+![Create Your Account and First Brand — Brande.ai](./images/create-your-account.jpg)
+
+
 ## What You'll Need
 
 - A valid email address

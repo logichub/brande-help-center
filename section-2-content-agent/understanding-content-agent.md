@@ -2,6 +2,9 @@
 
 Content Agent is not a brainstorming tool. It is a strategic intelligence system that answers the question "What should your brand say right now?" before you sit down to write.
 
+![Understanding the Content Agent — Brande.ai](./images/understanding-content-agent.jpg)
+
+
 ## What Content Agent Does
 
 Content Agent analyzes your Brand DNA (business objectives, audience, brand voice, channels) and delivers daily briefs that tell you:

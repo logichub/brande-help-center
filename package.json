@@ -6,10 +6,18 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "screenshots": "node scripts/capture-screenshots.js",
+    "optimize": "node scripts/optimize-images.js",
+    "inject-images": "node scripts/inject-image-refs.js",
+    "check-coverage": "node scripts/check-coverage.js"
   },
   "devDependencies": {
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "sharp": "^0.33.5",
+    "@playwright/test": "^1.48.0",
+    "playwright": "^1.48.0",
+    "dotenv": "^16.4.5"
   },
   "dependencies": {
     "@catppuccin/vitepress": "^0.1.2",

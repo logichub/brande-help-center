@@ -2,6 +2,9 @@
 
 You repeat the same messaging across projects. "Our 3-step framework." Your value proposition. Your credentials or credibility statement. Instead of rewriting them every time, save them as snippets—reusable text blocks you insert with a keyboard shortcut.
 
+![Create and Manage Snippets — Brande.ai](./images/create-manage-snippets.jpg)
+
+
 Snippets are your message library. Create them once, use them everywhere, and keep messaging consistent across all projects.
 
 ## What Are Snippets?

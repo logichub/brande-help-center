@@ -2,6 +2,9 @@
 
 Need to find a specific project fast? Use Project Search to locate any project by name across your entire brand—no matter how many folders you have or where it lives.
 
+![Find Projects Using Sidebar Search — Brande.ai](./images/find-projects-search.jpg)
+
+
 ## Open Project Search
 
 Click the **View Projects** button in the sidebar (magnifying glass icon). Keyboard shortcut: **Modifier+Shift+P** (Cmd+Shift+P on Mac, Ctrl+Shift+P on Windows/Linux).

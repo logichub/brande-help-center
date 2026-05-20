@@ -2,6 +2,9 @@
 
 Give collaborators access to your projects without giving them access to your brand settings. Share via link or social media to distribute your work.
 
+![Share Content Projects — Brande.ai](./images/share-content-projects.jpg)
+
+
 ## Open the share modal
 
 Click the **Share** button (network icon) in the project editor toolbar. A modal appears with two sharing sections.

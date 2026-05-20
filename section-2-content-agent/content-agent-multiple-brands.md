@@ -2,6 +2,9 @@
 
 Content Agent works independently for each brand in your workspace. Agencies and multi-brand companies can switch between brands and manage separate content strategies without mixing voices or channels.
 
+![Use Content Agent for Multiple Brands — Brande.ai](./images/content-agent-multiple-brands.jpg)
+
+
 ## How Multi-Brand Content Agent Works
 
 Each brand in your workspace has:

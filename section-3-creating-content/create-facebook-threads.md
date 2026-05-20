@@ -2,6 +2,9 @@
 
 Facebook Threads has its own dedicated template in Brande.ai — **Facebook Thread Post** — alongside the regular **Facebook Post** template. Both are in the Social Media template category.
 
+![Create Facebook Thread Posts — Brande.ai](./images/create-facebook-threads.jpg)
+
+
 Facebook Threads is a new format where users follow threads of conversation instead of single posts. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
 
 ## What Are Facebook Threads?

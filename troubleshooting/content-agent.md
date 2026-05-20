@@ -4,6 +4,9 @@
 
 **Direct Answer:** The Content Agent can't fetch recommendations due to incomplete Brand DNA or server issues.
 
+![Content Agent Not Working — Brande.ai](./images/content-agent.jpg)
+
+
 ### How to Fix This
 
 1. **Complete your Brand DNA**

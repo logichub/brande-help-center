@@ -2,6 +2,9 @@
 
 The Help Center is your command center for support, documentation, and feedback.
 
+![Use the Help Center — Brande.ai](./images/use-help-center.jpg)
+
+
 It's three cards, three options: get help, submit a ticket, or share feedback—all without leaving the app.
 
 ## Open the Help Center

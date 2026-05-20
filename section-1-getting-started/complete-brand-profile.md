@@ -2,6 +2,9 @@
 
 Your brand's DNA determines the quality of every recommendation, every piece of content, and every image Brande.ai generates.
 
+![Complete Your Brand Profile Step by Step — Brande.ai](./images/complete-brand-profile.jpg)
+
+
 Weak Brand DNA creates generic output, low engagement, and early product abandonment.
 
 A complete Brand Profile transforms Brande.ai from a tool into a content engine that understands your market position and speaks directly to your audience.

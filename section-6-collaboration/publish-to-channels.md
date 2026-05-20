@@ -2,6 +2,9 @@
 
 Post content directly from Brande.ai to Instagram, Facebook, LinkedIn, Twitter/X, WordPress, Google My Business, and HubSpot. No copy-paste. No manual posting. Your content goes live through official platform connections.
 
+![Publish Content Directly to Channels — Brande.ai](./images/publish-to-channels.jpg)
+
+
 ## Supported platforms
 
 Brande.ai can publish directly to:

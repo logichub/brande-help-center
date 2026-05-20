@@ -2,6 +2,9 @@
 
 Content Agent generates one daily brief per distribution channel you have selected. Create consistent content across Blog, LinkedIn, Email, TikTok, and more—all grounded in the same brand strategy.
 
+![Use Content Agent Across Multiple Channels — Brande.ai](./images/content-agent-multiple-channels.jpg)
+
+
 ## How Content Agent Works Across Channels
 
 When you set up your Brand Profile, you select which distribution channels matter to you. Content Agent generates a daily brief for each channel.

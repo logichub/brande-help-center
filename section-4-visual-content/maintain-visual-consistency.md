@@ -2,6 +2,9 @@
 
 Every image Brande.ai generates springs from your Brand DNA. This automated consistency means your visual identity stays locked across projects, platforms, and time—without needing a style guide or design approval for every asset.
 
+![Maintain Visual Brand Consistency — Brande.ai](./images/maintain-visual-consistency.jpg)
+
+
 ## How Brand DNA ensures consistency
 
 Your Brand DNA contains the visual rules that matter:

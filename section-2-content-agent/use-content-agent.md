@@ -2,6 +2,9 @@
 
 You spend 30 minutes planning what to write, then another 30 minutes writing it—only to realize you skipped what actually matters to your audience. Content Agent collapses that planning phase into a daily brief.
 
+![How To Use Content Agent — Brande.ai](./images/use-content-agent.jpg)
+
+
 ## How It Works
 
 Content Agent is a strategic intelligence layer that runs once per day. It:

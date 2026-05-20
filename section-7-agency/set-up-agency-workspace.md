@@ -2,6 +2,9 @@
 
 To unlock the Agency Plan's multi-brand capabilities, configure your workspace for team collaboration and multi-client content delivery.
 
+![Set Up an Agency Workspace — Brande.ai](./images/set-up-agency-workspace.jpg)
+
+
 In Brande.ai, an agency workspace is built one brand at a time — each client is its own brand record, with its own Brand DNA, voices, reference materials, and integrations. There is no separate agency-level configuration object; instead, the same `/onboard` wizard is reused for every brand you create.
 
 ## Prerequisites

@@ -2,6 +2,9 @@
 
 Keyboard shortcuts eliminate friction. You don't switch tools, click multiple times, or lose focus.
 
+![Use Quick Actions and Shortcuts — Brande.ai](./images/quick-actions-shortcuts.jpg)
+
+
 Press a key combination and immediately create a project, jump to account settings, or find what you need—without touching your mouse.
 
 ## Keyboard Shortcuts Reference
@@ -21,7 +24,7 @@ Learn these shortcuts and watch your workflow accelerate:
 
 ## Create a New Project (Ctrl/Alt+N)
 
-Press **Ctrl+Alt+N** (Windows/Linux) or **Control+Option+N** (Mac) from anywhere in the app.
+Press **Alt+N** (Windows/Linux) or **Ctrl+N** (Mac) from anywhere in the app.
 
 The New Project dialog opens immediately.
 
@@ -104,7 +107,7 @@ Snippets are stored in your Account > Snippets page and can be inserted into any
 
 ## Project Search (Modifier+Shift+P)
 
-Press **Shift+P** (or **Cmd+Shift+P** on Mac) to open Project Search.
+Press **Alt+Shift+P** (Windows/Linux) or **Ctrl+Shift+P** (Mac) to open Project Search.
 
 A search box appears allowing you to type a project name and filter your projects.
 
@@ -197,10 +200,10 @@ This saves 30 seconds per task. Over a year, that's 20+ hours of recovered produ
 
 **Q: The keyboard shortcut isn't working.**
 A: Make sure you're using the right modifier key for your OS:
-- Windows/Linux: Ctrl+Alt
-- Mac: Control+Option (or Command, depending on the shortcut)
+- Windows/Linux: **Alt** (e.g., Alt+N for New Project)
+- Mac: **Ctrl** (Control key, e.g., Ctrl+N for New Project)
 
-Check the Keyboard Shortcuts modal for your specific OS.
+Check the Keyboard Shortcuts modal in the app for the full list per platform.
 
 **Q: I can't remember all the shortcuts.**
 A: Start with the three most important:
@@ -211,7 +214,7 @@ A: Start with the three most important:
 Master these three, then add others as you go.
 
 **Q: The search shortcut opens the browser's search instead.**
-A: Project Search uses **Cmd+Shift+P** on Mac and **Ctrl+Shift+P** on Windows/Linux. There is no alternative binding for the same action — if your browser steals the shortcut, click the search icon in the sidebar instead.
+A: Project Search uses **Ctrl+Shift+P** on Mac and **Alt+Shift+P** on Windows/Linux. There is no alternative binding for the same action — if your browser steals the shortcut, click the search icon in the sidebar instead.
 
 ## Related Topics
 

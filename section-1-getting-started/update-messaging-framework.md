@@ -1,6 +1,9 @@
-# Update Your Brand Messaging Framework
+# Update Your Brand Messaging Fingerprint
 
-Your Brand Messaging Framework is how your brand tells its story to the world.
+Your Brand Messaging Fingerprint is how your brand tells its story to the world.
+
+![Update Your Brand Messaging Fingerprint — Brande.ai](./images/update-messaging-framework.jpg)
+
 
 It captures your narrative arc, core messages, and value propositions that set you apart.
 
@@ -8,7 +11,7 @@ As your brand grows, your messaging should evolve to reflect new positioning, pr
 
 Outdated messaging creates missed opportunities and weaker content.
 
-## What the Brand Messaging Framework Is
+## What the Brand Messaging Fingerprint Is
 
 Your messaging framework answers:
 
@@ -19,13 +22,13 @@ Your messaging framework answers:
 - **What story do you want to tell?** What narrative arc do you want customers to experience?
 - **What are your key messages?** What 3–5 messages should every piece of content reinforce?
 
-This framework is created during onboarding or updated manually in your **Brand Messaging Framework** page.
+This framework is created during onboarding or updated manually in your **Brand Messaging Fingerprint** page.
 
 Brande.ai references this when generating content.
 
 ## Where to Update Your Messaging Framework
 
-Navigate to **Account** → **Brand Messaging Framework**.
+Navigate to **Account** → **Brand Messaging Fingerprint**.
 
 You'll see your current framework and options to edit each section.
 
@@ -123,9 +126,9 @@ New messaging:
 
 ## How to Update Your Messaging Framework
 
-### 1. Navigate to Brand Messaging Framework
+### 1. Navigate to Brand Messaging Fingerprint
 
-Go to **Account** → **Brand Messaging Framework**.
+Go to **Account** → **Brand Messaging Fingerprint**.
 
 ### 2. Review Current Framework
 

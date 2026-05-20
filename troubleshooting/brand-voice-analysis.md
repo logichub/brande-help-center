@@ -4,6 +4,9 @@
 
 **Direct Answer:** Your input is either empty, unsupported, or the URL is unreachable. The analysis engine can't process what you've provided.
 
+![Brand Voice Analysis Failures — Brande.ai](./images/brand-voice-analysis.jpg)
+
+
 ### How to Fix This
 
 1. **Verify your text input isn't empty**

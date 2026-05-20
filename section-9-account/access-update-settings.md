@@ -2,6 +2,9 @@
 
 Your account settings control your profile, preferences, and workspace configuration.
 
+![Access and Update Account Settings — Brande.ai](./images/access-update-settings.jpg)
+
+
 All settings are in one place—your Account page—accessible instantly via keyboard shortcut.
 
 ## Open Your Account Page

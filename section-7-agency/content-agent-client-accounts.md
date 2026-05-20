@@ -2,6 +2,9 @@
 
 Each client brand has its own Content Agent that generates personalized recommendations.
 
+![Use Content Agent Across Client Accounts — Brande.ai](./images/content-agent-client-accounts.jpg)
+
+
 Switch brands, and Content Agent instantly generates a new set of topic recommendations tailored to that brand's specific DNA, audience, and objectives.
 
 ## How Content Agent Works Per Brand

@@ -2,6 +2,9 @@
 
 Your agency serves multiple clients, each with distinct brands, audiences, and content needs. Without a unified system, you're managing separate subscriptions, fragmenting your team's workflow, and losing your competitive advantage.
 
+![Use Brande.ai for Agencies — Multi-Client Content at Scale — Brande.ai](./images/use-brande-for-agencies.jpg)
+
+
 The Agency Plan transforms Brande.ai into your multi-client content operating system—one workspace where every client gets their own Brand DNA, Content Agent, content projects, and approval workflows.
 
 ## What the Agency Plan Unlocks

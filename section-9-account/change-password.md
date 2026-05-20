@@ -2,6 +2,9 @@
 
 Your password is your account security. Update it regularly and keep it confidential.
 
+![Change Your Password — Brande.ai](./images/change-password.jpg)
+
+
 Change it anytime from your Account page in under one minute.
 
 ## Open Change Password Section

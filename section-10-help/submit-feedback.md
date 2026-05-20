@@ -2,6 +2,9 @@
 
 Your feedback shapes Brande.ai's roadmap.
 
+![Submit Product Feedback — Brande.ai](./images/submit-feedback.jpg)
+
+
 Whether you want a new feature, think a feature could work better, or have a clever idea—submit it in two minutes and watch other users vote on it.
 
 ## Why Your Feedback Matters

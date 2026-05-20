@@ -2,6 +2,9 @@
 
 Content Agent generates one set of daily recommendations per brand. Find them on your dashboard or in the Content Opportunities page.
 
+![Get Daily Content Recommendations — Brande.ai](./images/get-daily-recommendations.jpg)
+
+
 ## View Recommendations on Your Dashboard
 
 When you log in, the dashboard displays today's recommendations in a widget labeled **"Content Agent: Your Strategic Content Recommendations for Today"**.

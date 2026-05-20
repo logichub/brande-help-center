@@ -2,6 +2,9 @@
 
 Generated content is never final. Brand DNA ensures the output is aligned and on-voice—but refinement is your control panel. The chat-based editor lets you request modifications, regenerate sections, and iterate without leaving the project. Up to 20 revision snapshots track your path from draft to published.
 
+![Edit, Refine, and Regenerate Content — Brande.ai](./images/edit-refine-regenerate.jpg)
+
+
 ## The Editor Interface
 
 When you open a project, you see:

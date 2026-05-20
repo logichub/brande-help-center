@@ -2,6 +2,9 @@
 
 Each brand in your Agency Plan workspace is independent: separate Brand DNA, separate Content Agent, separate projects, separate team access.
 
+![Manage Multiple Client Brands — Brande.ai](./images/manage-multiple-brands.jpg)
+
+
 Switching between brands is instantaneous. Your entire interface context changes—you see only that brand's data.
 
 ## Switch Brands

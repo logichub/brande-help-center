@@ -2,6 +2,9 @@
 
 Words are your argument. Images are your first impression. Brand-aligned images that match your Brand DNA stop the scroll, establish credibility, and increase engagement by 40%+. Brande.ai generates images alongside content when you enable the checkbox—no separate design tool, no back-and-forth with designers.
 
+![Include Images When Generating Content — Brande.ai](./images/include-images.jpg)
+
+
 ## When to Use Image Generation
 
 **Use images for:**
