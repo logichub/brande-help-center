@@ -69,9 +69,9 @@ When sharing projects, there's a collaborator limit based on your plan:
 - Upgrade your subscription to share with more people
 
 Example:
-- Free plan: 2 collaborators
-- Pro plan: 10 collaborators
-- Enterprise: Unlimited
+- Creator plan: 1 collaborator
+- Growth plan: up to 10 collaborators
+- Agency plan: up to 100 collaborators
 
 To add more collaborators, click to upgrade from the message.
 

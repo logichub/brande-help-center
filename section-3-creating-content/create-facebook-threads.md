@@ -1,15 +1,17 @@
 # Create Facebook Thread Posts
 
-Facebook Threads has its own dedicated template in Brande.ai — **Facebook Thread Post** — alongside the regular **Facebook Post** template. Both are in the Social Media template category.
+Facebook thread-style content has its own dedicated template in Brande.ai — **Facebook Thread Post** — alongside the regular **Facebook Post** template. Both are in the Social Media template category.
 
 ![Create Facebook Thread Posts — Brande.ai](./images/create-facebook-threads.jpg)
 
 
-Facebook Threads is a new format where users follow threads of conversation instead of single posts. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
+> **Note:** "Facebook Thread Post" is Brande.ai's template name for multi-part, sequential content published to Facebook. This is not related to [Meta Threads](https://www.threads.net) (threads.net), which is a separate app. If you want to create content for Meta Threads, use the Facebook Thread Post template and adapt the copy for that platform.
 
-## What Are Facebook Threads?
+Thread-style posts on Facebook build a narrative across connected updates. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
 
-Facebook Threads are a series of connected posts that build on each other:
+## What Is a Facebook Thread Post?
+
+A Facebook thread post is a series of connected updates that build on each other:
 - **Thread post 1** — Hook the reader (pain point, question, or curiosity gap)
 - **Post 2–4** — Support the hook with evidence, data, or story
 - **Final post** — Call-to-action or conclusion

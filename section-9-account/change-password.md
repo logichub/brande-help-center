@@ -9,7 +9,7 @@ Change it anytime from your Account page in under one minute.
 
 ## Open Change Password Section
 
-1. Go to your Account page (**Ctrl+Alt+A** or click profile icon > Account)
+1. Go to your Account page (click profile icon > Account)
 2. Look for **Change Password** section
 3. You see three fields ready for input
 

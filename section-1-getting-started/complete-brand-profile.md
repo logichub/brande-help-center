@@ -13,7 +13,6 @@ A complete Brand Profile transforms Brande.ai from a tool into a content engine 
 
 - A Brande.ai account (any plan)
 - 3–5 examples of your brand voice (website copy, LinkedIn posts, or a brand guidelines doc)
-- Your logo as a PNG with transparent background
 - 15 minutes
 
 ## Why Brand Profile Setup Matters
@@ -33,94 +32,94 @@ When answers are vague, generic, or incomplete:
 - Image generation doesn't match your brand
 - You waste time editing instead of publishing
 
-The onboarding wizard lives at `/onboard` and walks you through five key sections over about 15 minutes.
+The onboarding wizard lives at `/onboard` and walks you through seven steps over about 15 minutes.
 
 You can update any section later in your **Brand Profile** page (Account sidebar, brand owner only).
 
-## The Five Onboarding Sections
+## The Seven Onboarding Steps
 
-### 1. Brand Basics
+### Step 1: Company Information
 
-**What you enter:** Brand name, company stage, logo, and business category.
+**What you enter:** Brand name, website URL, company mission, core values, and company vision.
 
-**Why this matters:** Brande.ai uses this to set context and avoid generic positioning.
+**Why this matters:** Brande.ai uses this foundational context to set the tone for everything it generates. A clear mission and vision ensure recommendations align with where your company is headed.
 
 **Good answers look like:**
-- Brand name: Clear, memorable name (not "SaaS Tool #47")
-- Stage: Specific stage indicator (Pre-launch, Scaling, Mature) that affects message strategy
-- Logo: High-quality PNG or SVG that feeds into image generation
-- Category: Specific vertical (e.g., "Accounting automation for contractors" not "B2B SaaS")
+- Brand name: Clear and exact (the name you publicly use)
+- Mission: One or two sentences on what you do and for whom
+- Core values: 3–5 principles that guide your team and brand behavior
+- Vision: Where the company will be in 3–5 years
 
 **Weak answers look like:**
-- Brand name: Placeholder or unclear
-- Stage: Vague ("growing" vs "raising Series B")
-- Logo: Low resolution, cropped, or missing
-- Category: Generic ("technology" or "services")
-
-**Tip:** Your logo should be a clean, transparent background version. If it contains text, make sure the text is legible at small sizes—Brande.ai will use it in image generation.
+- Vague mission ("we help companies grow")
+- Generic values ("innovation, integrity, customer focus")
+- Missing vision or URL
 
 ---
 
-### 2. Business Objectives
+### Step 2: Brand and Product Positioning
 
-**What you enter:** 2–3 specific, measurable outcomes your brand is trying to achieve in the next 6–12 months.
+**What you enter:** Brand personality, unique selling proposition (USP), problem you solve, key product features, and key product benefits.
 
-Examples:
-- "Establish thought leadership in fractional CFO services for 5–20 person startups"
-- "Drive leads from LinkedIn to our consulting booking page"
-- "Increase brand awareness among senior marketing ops managers"
-- "Build a community of product managers who trust our UX audit methodology"
-
-**Why this matters:** Content Agent uses business objectives to decide what you should create. Without them, recommendations are unfocused.
+**Why this matters:** Content Agent uses your USP and differentiators to recommend content that highlights what makes you different. Every piece of content should reflect your positioning.
 
 **Good answers look like:**
-- Specific audience ("senior marketing ops managers" not "marketers")
-- Clear outcome ("establish thought leadership" not "get more visibility")
-- Measurable where possible ("drive 20 leads/month" not "drive leads")
-- Tied to a channel or format where content actually converts
+- Personality: Specific descriptors ("direct, slightly irreverent, warm but not fluffy")
+- USP: One sentence that a skeptic can immediately understand
+- Problem solved: What your customer suffers from before finding you
+- Features vs. benefits: Features are what it does; benefits are what that means for the customer
 
 **Weak answers look like:**
-- Vague ("grow our business", "be known in the market")
-- Too many objectives (5+ creates noise)
-- Missing the channel ("increase sales" without saying where the customer comes from)
-
-**Tip:** If you're struggling, ask: "How will this brand succeed in the next 12 months? What one thing must happen?" That answer is your objective.
+- Generic personality ("professional and friendly")
+- USP that could apply to any competitor
+- Benefits listed as features ("real-time dashboard" instead of "know what's happening before your boss asks")
 
 ---
 
-### 3. Audience & Purchase Triggers
+### Step 3: Customer Research
 
-**What you enter:** Who your customer is and what problem or trigger moves them to buy.
+**What you enter:** Ideal customer profile, audience needs and challenges, purchase triggers, and gravity of problem.
 
-Examples:
-- "Fractional CMOs managing 2–4 clients who are overwhelmed by content planning and want a repeatable system"
-- "Senior engineers frustrated with flaky CI/CD pipelines and looking for a fast alternative"
-- "Coaches selling group programs who know they *should* be on LinkedIn but don't have time"
-
-**Why this matters:** Brande.ai references this in every piece of content. Content Agent uses it to recommend topics that resonate. Images are generated with this audience in mind.
+**Why this matters:** Brande.ai references this in every piece of content. Content Agent uses it to recommend topics that resonate. The "gravity of problem" field tells the AI how urgent the pain is—crucial for tone calibration.
 
 **Good answers look like:**
-- Specific role or title ("VP of Product at seed-stage SaaS" not "business people")
-- Specific pain point ("content planning takes 30% of week" not "busy")
-- Specific trigger ("competitor launched, now losing market share" not "growth pressure")
-- One or two audience segments—if you have more, list the primary one
+- Ideal customer: Specific role, company size, and situation ("VP of Product at seed-stage SaaS, overwhelmed by roadmap requests")
+- Needs: What they're actively trying to achieve
+- Purchase trigger: What specific event makes them finally act ("board pressure to show product-led growth metrics")
+- Gravity: High urgency ("losing customers to a faster competitor") vs. low ("nice to have someday")
 
 **Weak answers look like:**
-- Too broad ("anyone in marketing", "business owners")
-- Generic pain ("they want to save time", "they want better results")
+- Too broad ("anyone who needs our product")
 - Missing the trigger (why *now* do they care?)
+- Generic pain ("they want to save time")
 
 **Tip:** Look at your best customer. Why did they buy? What was happening in their world when they needed you? That's your audience trigger.
 
 ---
 
-### 4. Content Channels
+### Step 4: Competitive Analysis
 
-**What you enter:** Select the platforms where you will publish content.
+**What you enter:** Up to 3 competitor URLs and your company differentiators.
 
-Available channels: Blog, Podcasts, Paid Ads, Email, Facebook, Instagram, Twitter, LinkedIn, TikTok, YouTube, Pinterest, Snapchat, Discord
+**Why this matters:** Brande.ai uses competitive context to position your content relative to the market—emphasizing what sets you apart and avoiding language that sounds like everyone else.
 
-**Why this matters:** Content Agent recommends topics suited to your channels. Content generation adjusts format and tone for each platform. If you omit a channel, Content Agent won't recommend for it.
+**Good answers look like:**
+- Real direct competitors (not category leaders if you don't compete with them)
+- Differentiators that are *actually* different, not generic ("we have better support" needs evidence)
+
+**Weak answers look like:**
+- Listing aspirational competitors instead of actual ones
+- Generic differentiators ("we're easier to use," "we're more affordable")
+
+---
+
+### Step 5: Content Strategy and Creative Briefs
+
+**What you enter:** Content distribution channel selection and creative brief preferences.
+
+**Available channels:** Blog, Podcasts, Paid Ads, Email, Facebook, Instagram, Twitter (X), LinkedIn, TikTok, YouTube, Pinterest, Snapchat, Discord/Communities
+
+**Why this matters:** Content Agent generates one brief per selected channel per day. The channels you choose here determine which recommendations appear on your dashboard. If you omit a channel, Content Agent won't recommend for it.
 
 **Good answers look like:**
 - Select 2–4 channels where your audience *actually spends time*
@@ -130,41 +129,40 @@ Available channels: Blog, Podcasts, Paid Ads, Email, Facebook, Instagram, Twitte
 **Weak answers look like:**
 - Selecting all channels (dilutes focus, overwhelming to execute)
 - Selecting channels you don't actually use ("we might do TikTok someday")
-- Omitting your main channel (missing 50% of Content Agent value)
 
-**Tip:** You can update channels later in your Brand Profile. Start with where you know you'll publish regularly. You can expand as you scale.
+**Tip:** You can update channels later in your Brand Profile. Start with where you know you'll publish regularly.
 
 ---
 
-### 5. Brand Voice & Assets
+### Step 6: Public Stances and Legal Considerations
 
-**What you enter:** Examples of your brand's actual voice and visual style.
+**What you enter:** Topics your brand publicly takes a position on, and any legal constraints on your content.
 
-Content types: Text, File, Media File, URL
+**Why this matters:** Prevents Content Agent from recommending content that conflicts with your stated positions or creates legal risk. Useful for regulated industries (finance, healthcare, legal) or politically sensitive brands.
 
-Examples:
-- **Text:** Paste a paragraph from your website, a LinkedIn post, or customer testimonial
-- **File:** Upload a brand guidelines PDF, company handbook, or past marketing plan
-- **Media File:** Upload a video of you speaking, a podcast episode, or a brand video
-- **URL:** Link to your website, LinkedIn profile, or published article
+**Good answers look like:**
+- Specific stance ("we publicly support remote work and call it out in our content")
+- Clear restrictions ("we cannot make specific ROI claims without a disclaimer")
+- Industry compliance notes ("must not give specific investment advice")
 
-**Why this matters:** Brande.ai analyzes your voice examples to extract tone, storytelling patterns, and emotional voice. Everything you generate matches this profile. Your assets feed the Brand DNA that powers image generation and content recommendations.
+**Tip:** If your brand has no strong public stances or legal constraints, brief answers are fine. Don't over-constrain the AI unnecessarily.
 
-**Good examples look like:**
-- A recent LinkedIn post that shows your actual voice (3–5 posts is ideal)
-- Website copy from your homepage or services page
-- A brand guidelines PDF (if you have one)
-- A link to your LinkedIn profile or a recorded founder video
-- Customer testimonials or case study excerpts
+---
 
-**Weak examples look like:**
-- Only one sample (Brande.ai needs 2–3 to identify patterns)
-- Old content that doesn't reflect current voice
-- ChatGPT-generated copy or generic templates
-- Competitor content instead of your own
-- Assets with no context (a random file with no label)
+### Step 7: Content Preferences and Restrictions
 
-**Tip:** The more recent and authentic your examples, the better. If you have a brand guidelines document, that's gold—upload it. If not, find 3–5 of your best recent posts or pages.
+**What you enter:** Tone preferences, content format preferences, and topics or approaches to avoid.
+
+**Why this matters:** Fine-tunes the voice and format of everything Brande.ai generates for your brand. This is where you rule out clichés, preferred content length, and anything that feels off-brand.
+
+**Good answers look like:**
+- Tone: "Conversational but authoritative. No corporate speak. No motivational poster language."
+- Format preferences: "Long-form for blog, short punchy for LinkedIn. Always use bullet points for steps."
+- Restrictions: "Never use buzzwords like 'synergy', 'pivot', 'holistic'. No rhetorical questions as openers."
+
+**Weak answers look like:**
+- Vague preferences ("keep it professional")
+- No restrictions (the AI will default to safe but generic choices)
 
 ---
 
@@ -200,11 +198,11 @@ Brands evolve.
 
 As your product, positioning, or audience changes, update your Brand Profile:
 
-- **Brand Voice:** Add new examples quarterly. When your voice shifts, re-run the analyzer.
-- **Business Objectives:** Update annually or when strategy changes. Content Agent watches this closely.
-- **Audience Triggers:** Revisit when you learn new customer insights.
-- **Channels:** Add or remove as your distribution strategy changes.
-- **Assets:** Keep brand guidelines and voice examples current.
+- **Brand Voice (Step 2 & 7):** Add new voice examples quarterly. When your voice shifts, update tone preferences.
+- **Business Objectives & Positioning (Steps 1–2):** Update annually or when strategy changes. Content Agent watches this closely.
+- **Customer Research (Step 3):** Revisit when you learn new customer insights.
+- **Channels (Step 5):** Add or remove as your distribution strategy changes.
+- **Competitive Analysis (Step 4):** Update when the competitive landscape shifts.
 
 Outdated inputs create outdated outputs.
 

@@ -5,7 +5,7 @@ The Agency Plan is not an upgraded dashboard.
 ![The Agency Plan: Multi-Brand Content Operating System — Brande.ai](./images/understand-agency-plan.jpg)
 
 
-It's a fundamentally different architecture: unlimited client brands in one workspace, each with independent Brand DNA, Content Agent, projects, and approval workflows. One subscription replaces the cost, friction, and coordination chaos of multiple AI tool subscriptions and manual approval systems.
+It's a fundamentally different architecture: up to 3 client brands in one workspace, each with independent Brand DNA, Content Agent, projects, and approval workflows. One subscription replaces the cost, friction, and coordination chaos of multiple AI tool subscriptions and manual approval systems.
 
 ## The Three Pillars
 
@@ -26,7 +26,7 @@ Agencies survive on three things: repeatable processes, brand differentiation, a
 
 The Agency Plan delivers all three.
 
-**Repeatable Process** — One workflow scales across unlimited clients without customization or tool-switching friction.
+**Repeatable Process** — One workflow scales across all your client brands without customization or tool-switching friction.
 
 **Brand Differentiation** — Your proprietary content strategy, templates, and checklists stay in Brande.ai. Clients see a polished, professional approval experience that feels like a premium white-label service.
 

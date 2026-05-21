@@ -2,9 +2,6 @@
 
 Your agency serves multiple clients, each with distinct brands, audiences, and content needs. Without a unified system, you're managing separate subscriptions, fragmenting your team's workflow, and losing your competitive advantage.
 
-![Use Brande.ai for Agencies — Multi-Client Content at Scale — Brande.ai](./images/use-brande-for-agencies.jpg)
-
-
 The Agency Plan transforms Brande.ai into your multi-client content operating system—one workspace where every client gets their own Brand DNA, Content Agent, content projects, and approval workflows.
 
 ## What the Agency Plan Unlocks
@@ -37,6 +34,7 @@ Create, organize, and store all projects and brand assets in one workspace.
 ### Client Approval Workflows
 
 Invite client collaborators with limited, read-only access. They can:
+
 - View all projects and content for their brand
 - Approve or reject projects before publishing
 - See approval history and comments
@@ -49,6 +47,7 @@ Mark projects as "Approved by [Client Name] on [Date]"—turning Brande.ai into 
 Create reusable content checklists and workflows that ensure quality and consistency across all client work.
 
 Template example:
+
 - "Social Content Checklist" — brand mention, hashtag research, image optimization, client review, post-publication metrics tracking
 - "Email Campaign Checklist" — subject line testing, CTA optimization, deliverability check, final client sign-off
 - "Blog Post Checklist" — outline approval, draft review, SEO optimization, client feedback, publication
@@ -64,6 +63,7 @@ Click your profile icon in the top right.
 Select a brand from the **Brands** dropdown. A crown icon marks brands you own.
 
 The interface immediately switches context:
+
 - Dashboard shows that brand's projects and calendar
 - Content Agent generates recommendations for that brand
 - Account sidebar shows Brand Profile, Brand Voice, and Brand Materials for that brand only
@@ -88,6 +88,7 @@ Success message: "{email} has been invited to {brand name}".
 ### What Each Client Sees
 
 A client collaborator logs in and sees:
+
 - Only the brand(s) they're invited to
 - All projects and content for that brand
 - Approval/unapproval buttons on projects
@@ -96,6 +97,7 @@ A client collaborator logs in and sees:
 ## Replacing Multiple Tools with One Agency Dashboard
 
 **Before Brande.ai:**
+
 - Separate AI subscriptions per client (cost and account chaos)
 - Email for approvals and feedback (lost in threads)
 - Shared Google Drive for assets (version control nightmare)
@@ -103,6 +105,7 @@ A client collaborator logs in and sees:
 - Manual content calendar per client (no unified visibility)
 
 **With Brande.ai Agency Plan:**
+
 - One subscription, unlimited clients
 - Built-in approval flows with date/name stamping
 - Centralized asset storage with proper access control
@@ -134,6 +137,7 @@ Repeat across all client brands using the same workflow.
 ### Scaling Tip: Checklists and Templates
 
 Create content checklists once, apply across all clients. Examples:
+
 - "Client Approval Checklist" — ensures every piece hits client review
 - "Brand Consistency Checklist" — voice, tone, messaging all match Brand DNA
 - "SEO Quality Checklist" — keyword research, meta tags, internal linking

@@ -58,7 +58,7 @@ If it's a bug, list exactly how to recreate it:
 
 **Mention Your Plan Type**
 Tell support which plan you're on. Some features are plan-specific:
-- "I'm on the Starter plan"
+- "I'm on the Creator plan"
 - "I'm on the Agency plan"
 
 **Include Account Details**

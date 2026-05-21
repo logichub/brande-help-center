@@ -158,13 +158,7 @@ After publishing:
 
 ## Publishing limits
 
-Some plans limit publishing volume:
-
-- Free plan: Limited posts per month
-- Pro plan: 100+ posts per month
-- Enterprise: Unlimited
-
-Check your subscription tier to see your limit.
+There are no plan-based limits on the number of posts you can publish through integrations. Publishing via Zapier/Make or the API is available on all plans.
 
 ## Common publishing issues
 

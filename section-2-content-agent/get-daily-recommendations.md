@@ -60,10 +60,9 @@ This is useful if:
 
 ## Subscription Plan Limits
 
-Your plan determines how many recommendations you can access:
-- **Free plan** — No recommendations
-- **Starter plan** — Limited recommendations per month
-- **Pro plan** — Expanded recommendations
+Your plan determines whether you can access Content Agent recommendations:
+- **Creator plan** — No Content Agent access
+- **Growth plan** — Unlimited recommendations
 - **Agency plan** — Unlimited recommendations
 
 If your plan does not include recommendations, the widget shows **"Disabled"** in the Content Opportunities page.

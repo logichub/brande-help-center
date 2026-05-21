@@ -2,9 +2,6 @@
 
 Scaling an agency content practice breaks in two ways:
 
-![Scale Client Work Without Losing Brand Control — Brande.ai](./images/scale-without-losing-control.jpg)
-
-
 **Operational Break:** Your team can't keep up with the volume. Content slows down, deadlines slip, team gets burned out.
 
 **Quality Break:** You produce more content but it's generic, off-brand, or misses your client's audience. Clients notice. Approvals take longer. Revisions multiply.
@@ -18,11 +15,13 @@ Brande.ai prevents both breaks. Here's how.
 Each client's Brand DNA is the north star. Every project generated for that client references that DNA.
 
 **What this means for scale:**
+
 - New team members onboard faster because Brand DNA is documented, not tribal knowledge
 - Content quality stays consistent because it's tied to a system, not individual talent
 - Client revisions decrease because content is pre-aligned to their actual voice and positioning
 
 **How to use this:**
+
 - Invest heavily in Brand DNA during client onboarding (take 2-3 hours, not 30 minutes)
 - Update Brand DNA when client strategy changes (don't let it drift)
 - Use Brand DNA as your quality standard: "Does this match our documented voice?"
@@ -34,12 +33,14 @@ When you scale to 10 clients, each one has a documented, maintained Brand DNA. Y
 Client collaborators review and approve content before publishing.
 
 **What this means for scale:**
+
 - Clients see work-in-progress and catch misalignments early (not after publishing)
 - You have a documented approval trail (who approved what, when)
 - You're not re-doing work because it was never reviewed
 - Clients feel included, reducing scope creep and revision requests
 
 **How to use this:**
+
 - Invite every client stakeholder as a collaborator (CMO, product manager, CEO if needed)
 - Make approval part of your project workflow (not a bottleneck)
 - Set approval SLAs: "We need your approval within 24 hours to stay on schedule"
@@ -51,12 +52,14 @@ When you scale to 10 clients, you have 10 collaborative approval workflows. Cont
 Checklist Templates lock in your service delivery process.
 
 **What this means for scale:**
+
 - Quality gates are repeatable (every blog post goes through the same 8 steps)
 - Team members follow the same process (no inconsistency between team members)
 - Bottlenecks are visible (you can see if reviews are slowing things down)
 - New team members follow the same playbook as experienced ones
 
 **How to use this:**
+
 - Create 3-5 core checklists for your most common content types
 - Assign checklists to every project (make it non-negotiable)
 - Review checklist completion weekly (are steps being skipped? Why?)
@@ -103,6 +106,7 @@ Cost: 1-2 hours per client. Benefit: Continuous improvement, client retention, c
 As your team grows, delegate with confidence:
 
 **Strategist Role**
+
 - Reviews Brand DNA and client objectives
 - Interprets Content Agent recommendations
 - Decides which recommendations to act on
@@ -110,6 +114,7 @@ As your team grows, delegate with confidence:
 - Assigned to 3-4 client brands
 
 **Creator Role**
+
 - Creates projects from strategist's recommendations
 - Fills in template variables and generates content
 - Refines and edits content in the editor
@@ -117,6 +122,7 @@ As your team grows, delegate with confidence:
 - Assigned to 2-3 client brands
 
 **Quality Lead Role**
+
 - Audits checklist completion across projects
 - Reviews client approvals and rejection patterns
 - Identifies quality gaps and escalates
@@ -124,6 +130,7 @@ As your team grows, delegate with confidence:
 - Oversees all clients
 
 **Client Coordinator Role**
+
 - Sends approval requests to client collaborators
 - Follows up on pending approvals
 - Incorporates revision feedback
@@ -135,18 +142,21 @@ Each role has clear responsibilities. No confusion. Each team member knows their
 ## Warning Signs You're Losing Control
 
 **Quality Warning Signs:**
+
 - Multiple revisions on the same project (client feedback = Brand DNA was unclear)
 - Client says "that's not our voice" repeatedly
 - Checklists aren't being completed (process is breaking down)
 - Team members creating projects without referencing Brand DNA
 
 **Operational Warning Signs:**
+
 - Approval backlog (clients waiting 3+ days for review)
 - Projects slipping deadlines (you're over-capacity)
 - Team member turnover (they didn't understand the process)
 - You're doing the same work twice (lack of delegation)
 
 **When you see these signs:**
+
 1. Pause new client onboarding
 2. Audit existing client Brand DNA (are they complete and clear?)
 3. Review and optimize your checklists
@@ -161,6 +171,7 @@ Add one client per month while you're still doing the work. You'll spot process 
 
 **Document everything.**
 Create internal runbooks for:
+
 - Brand DNA onboarding (so new team members do it the same way)
 - Project creation (what templates to use for which content types)
 - Approval workflow (SLAs, who to ask if approval is delayed)
@@ -168,6 +179,7 @@ Create internal runbooks for:
 
 **Invest in team training.**
 Every new team member should:
+
 - Understand Brand DNA and why it matters
 - Know the approval workflow and their role in it
 - Know the core checklists and when to use them
@@ -175,6 +187,7 @@ Every new team member should:
 
 **Review metrics quarterly.**
 Track:
+
 - Projects created per month
 - Average approval time
 - Revision requests per project

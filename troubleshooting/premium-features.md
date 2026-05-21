@@ -48,9 +48,9 @@
    - Your trial automatically converts to the paid plan
 
 2. **Choose the right plan tier**
-   - Pro plan includes core features and most AI generation
-   - Team plan adds collaboration and team management
-   - Agency plan includes white-label and API access
+   - Creator plan — core content generation, 1 brand, 3 brand voices
+   - Growth plan — adds snippets, reference materials, unlimited recommendations, project approval
+   - Agency plan — adds project comments, brand messaging fingerprint, 3 brands, 100 collaborators, checklist templates
 
 3. **Apply any available discount**
    - If you have a promo code, enter it during checkout
@@ -89,9 +89,9 @@
    - They lose access to shared projects
 
 3. **Upgrade your plan**
-   - Go to Account Settings > Subscription
-   - Team plan: 5 collaborators
-   - Agency plan: Unlimited collaborators
+   - Go to Account Settings > My Plan
+   - Growth plan: up to 10 collaborators
+   - Agency plan: up to 100 collaborators
    - Upgrade takes effect immediately
 
 4. **Use guest invites instead** (for contractors/clients)

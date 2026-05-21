@@ -8,7 +8,7 @@ Getting started with Brande.ai takes less than five minutes. You'll create an ac
 ## What You'll Need
 
 - A valid email address
-- A password (minimum 8 characters, with at least one uppercase letter, one lowercase letter, and one number)
+- A password (minimum 8 characters)
 - 3–5 examples of your brand voice (website copy, LinkedIn posts, or a brand guidelines doc) — you can add these during onboarding or later
 
 ## Steps
@@ -19,9 +19,6 @@ Getting started with Brande.ai takes less than five minutes. You'll create an ac
 
 3. **Create a password.** Type your password in the **Password** field, then confirm it in the **Confirm Password** field. Both must match exactly.
    - Minimum 8 characters
-   - At least one uppercase letter (A–Z)
-   - At least one lowercase letter (a–z)
-   - At least one number (0–9)
    - A strength indicator shows how secure your password is as you type
 
 4. **Submit the form.** Click the signup button to create your account.
@@ -52,7 +49,7 @@ For a detailed walkthrough of every onboarding step, see [Complete Your Brand Pr
 
 **Verification email never arrives:** Wait 5 minutes, then check spam and promotions folders. If it still hasn't arrived, see [Account and Login Issues](/troubleshooting/account-login) for detailed steps.
 
-**Password validation error:** Make sure both password fields match exactly and meet all requirements (8+ characters, uppercase, lowercase, number). Check that Caps Lock is off.
+**Password validation error:** Make sure both password fields match exactly and are at least 8 characters. Check that Caps Lock is off.
 
 ## Related Topics
 

@@ -112,11 +112,11 @@ Comments are only visible to people with edit access to the project. When you sh
 
 ## Comments feature requirement
 
-Comments require your plan to include the **project_comments** feature. If you don't see a Comments sidebar or can't post:
+Project comments are available on the **Agency plan only**. Creator and Growth plans do not include this feature. If you don't see a Comments sidebar or can't post:
 
-- Your current plan doesn't include collaboration features
-- Upgrade to unlock commenting and team collaboration
-- Check with support for pricing on comment features
+- Your current plan doesn't include comments — upgrade to Agency to unlock it
+- Check **Account → My Plan** to see your current plan and upgrade options
+- Contact support if you believe comments should be enabled for your account
 
 ## Best practices for commenting
 

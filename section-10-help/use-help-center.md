@@ -19,7 +19,7 @@ It's three cards, three options: get help, submit a ticket, or share feedback—
 Click the help icon in the top header. The Help Center modal opens with three cards — **Get Help** (linking to docs), **Contact Support**, and **Give Feedback**.
 
 **Option C: Account Page**
-Navigate to Account (Ctrl+Alt+A) and look for a Help or Support section. Click to open the Help Center.
+Navigate to Account (click profile icon → Account) and look for a Help or Support section. Click to open the Help Center.
 
 ## Help Center Modal
 

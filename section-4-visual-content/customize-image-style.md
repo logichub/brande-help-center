@@ -2,8 +2,7 @@
 
 Tell Brande.ai what your images should look like in natural language. The **Image Instructions** textarea lets you describe visual style, mood, composition, and aesthetic preferences. Your instructions combine with Brand DNA to create cohesive, on-brand visuals.
 
-![Customize Image Style Using Plain English — Brande.ai](./images/customize-image-style.jpg)
-
+![Customize Image Style Using Plain English — Brande.ai](./images/include-images.jpg)
 
 ## Where to add image instructions
 
@@ -21,21 +20,25 @@ Your instructions apply to all images generated for that project.
 The more specific your instructions, the better Brande.ai understands your vision. Examples:
 
 **Photography style:**
+
 - "Bright, airy photography with natural sunlight and minimal shadows"
 - "Dark moody product photography with dramatic backlighting"
 - "Candid lifestyle photos with real people in authentic moments"
 
 **Design style:**
+
 - "Minimalist line drawings with a single accent color"
 - "Vibrant collage style with mixed textures and overlapping elements"
 - "Geometric abstract designs with bold primary colors"
 
 **Mood and tone:**
+
 - "Professional and corporate, serious tone"
 - "Fun and playful, bright and cheerful"
 - "Sophisticated and elegant, luxury aesthetic"
 
 **Composition:**
+
 - "Subject centered with lots of negative space"
 - "Busy, complex composition with multiple focal points"
 - "Rule of thirds with subject in lower third of frame"
@@ -43,6 +46,7 @@ The more specific your instructions, the better Brande.ai understands your visio
 ## Combine instructions with Brand DNA
 
 Image Instructions work alongside your Brand DNA. If your brand profile specifies:
+
 - A specific color palette (navy, cream, gold)
 - A visual style (minimalist, maximalist, avant-garde)
 - Target audience aesthetics (luxury, casual, tech-forward)
@@ -57,6 +61,7 @@ Result: Images that feel modern, tech-appropriate, and uniquely yours.
 ## When instructions conflict with Brand DNA
 
 If you ask for something that contradicts your brand:
+
 - Example: Brand DNA is "luxury minimalist" but instructions say "maximize busy, ornate details"
 
 Brande.ai prioritizes Brand DNA. Update either your Brand DNA or Image Instructions to align them for best results.
