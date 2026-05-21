@@ -2,6 +2,9 @@
 
 Your content calendar is where strategy becomes schedule.
 
+![View and Manage Content Calendar — Brande.ai](./images/manage-content-calendar.jpg)
+
+
 Drag projects onto dates, set publishing deadlines, view your content plan in weekly/monthly/quarterly views, and stay on track without context-switching to external tools.
 
 ## Access the Content Calendar

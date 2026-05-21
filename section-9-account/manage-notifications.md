@@ -2,6 +2,9 @@
 
 Notifications keep you informed about project approvals, team activity, and important updates without being intrusive.
 
+![Manage Notifications — Brande.ai](./images/manage-notifications.jpg)
+
+
 Control what you're notified about and how you're notified from your Notifications settings.
 
 ## Access Notifications

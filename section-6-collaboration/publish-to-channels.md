@@ -2,6 +2,9 @@
 
 Post content directly from Brande.ai to Instagram, Facebook, LinkedIn, Twitter/X, WordPress, Google My Business, and HubSpot. No copy-paste. No manual posting. Your content goes live through official platform connections.
 
+![Publish Content Directly to Channels — Brande.ai](./images/publish-to-channels.jpg)
+
+
 ## Supported platforms
 
 Brande.ai can publish directly to:
@@ -155,13 +158,7 @@ After publishing:
 
 ## Publishing limits
 
-Some plans limit publishing volume:
-
-- Free plan: Limited posts per month
-- Pro plan: 100+ posts per month
-- Enterprise: Unlimited
-
-Check your subscription tier to see your limit.
+There are no plan-based limits on the number of posts you can publish through integrations. Publishing via Zapier/Make or the API is available on all plans.
 
 ## Common publishing issues
 

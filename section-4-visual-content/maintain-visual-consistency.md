@@ -2,6 +2,8 @@
 
 Every image Brande.ai generates springs from your Brand DNA. This automated consistency means your visual identity stays locked across projects, platforms, and time—without needing a style guide or design approval for every asset.
 
+![Maintain Visual Brand Consistency — Brande.ai](./images/include-images.jpg)
+
 ## How Brand DNA ensures consistency
 
 Your Brand DNA contains the visual rules that matter:
@@ -39,21 +41,25 @@ All future images will reflect the updated guidance.
 ## Tips for strong visual consistency
 
 **1. Keep Brand DNA up-to-date**
+
 - Review it quarterly
 - Add new colors or styles as your brand evolves
 - Keep descriptions specific and actionable
 
 **2. Use Image Instructions consistently**
+
 - Establish a standard format for your instructions (e.g., style + mood + composition)
 - Reference your Brand DNA in instructions: "In line with our minimalist aesthetic..."
 - Reuse successful instruction templates
 
 **3. Review projects before publishing**
+
 - Check generated images against Brand DNA
 - Flag anything that feels off-brand
 - Update guidelines if the brand intention has changed
 
 **4. Archive old projects**
+
 - If a project's images don't reflect current brand, mark it "Archived"
 - This keeps your project list focused on current standards
 - Prevents confusion about which brand direction is current

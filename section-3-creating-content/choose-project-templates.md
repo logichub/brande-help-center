@@ -2,6 +2,9 @@
 
 Templates are pre-built scaffolds that embed your Brand DNA into content structure. Choosing the right template is choosing the right container for your idea—a missed choice means rework; the right choice means the AI understands your output format from step one.
 
+![Choose and Use Project Templates — Brande.ai](./images/choose-project-templates.jpg)
+
+
 ## Template Categories and Use Cases
 
 ### Ideation

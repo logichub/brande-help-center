@@ -4,6 +4,9 @@
 
 **Direct Answer:** The content didn't publish to the platform. The most common causes are expired authentication tokens, changed platform permissions, or unsupported content format.
 
+![Publishing and Integration Errors — Brande.ai](./images/publishing-integrations.jpg)
+
+
 ### How to Fix This
 
 1. **Reconnect your integration**

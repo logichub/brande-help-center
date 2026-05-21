@@ -2,6 +2,9 @@
 
 The customization step is where a Content Agent brief becomes your content strategy. You review the pre-filled variables, add context, and ensure the brief fits your current situation before generating.
 
+![Customize a Content Brief Before Generating — Brande.ai](./images/customize-content-brief.jpg)
+
+
 ## Open the Customization Dialog
 
 From the dashboard or Content Opportunities page, click **"Customize Content"** on any recommendation.

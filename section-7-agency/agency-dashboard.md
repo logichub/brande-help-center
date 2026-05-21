@@ -2,6 +2,9 @@
 
 The dashboard is your command center for each client brand.
 
+![Use the Agency Dashboard — Brande.ai](./images/agency-dashboard.jpg)
+
+
 Switch brands using the profile dropdown, and the dashboard updates to show that client's projects, recommendations, calendar, and key metrics.
 
 ## Dashboard Overview

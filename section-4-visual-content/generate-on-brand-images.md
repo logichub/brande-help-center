@@ -2,6 +2,8 @@
 
 Your Brand DNA controls the visual identity of every image Brande.ai creates. When you generate images, the AI inherits your brand's color palette, visual style, and composition preferences—ensuring consistency without manual tweaking.
 
+![Generate On-Brand Images — Brande.ai](./images/include-images.jpg)
+
 ## How image generation uses Brand DNA
 
 When you create content with Brande.ai, your Brand DNA is the foundation for all visual assets. The system automatically applies your brand's established visual language to generated images, so every asset feels like it belongs to your brand. This means:
@@ -23,19 +25,21 @@ When you create or customize a project, the variable dialog (the modal that coll
 ## When to use image generation
 
 Use "Include images" when:
+
 - You need visual content for social media posts (Instagram, LinkedIn, Twitter/X)
 - You're creating blog posts or web content that require hero images
 - You want cohesive branded materials without hiring a designer
 - You're working on a campaign that needs multiple themed visuals
 
 Skip image generation if:
+
 - You have existing photography or custom graphics to use
 - Your brand relies on specific real-world imagery (e.g., product photography)
 - Platform limits don't support images (check content calendar settings)
 
 ## Customize image style using plain English
 
-You can describe your desired visual style in natural language. The **Image Instructions** textarea appears under **Include images** in the variable dialog. The placeholder reads: *"Describe what kind of images you'd like to generate. For example you can ask to generate image in specific styles, colors, themes, etc. Be as descriptive as possible. If left empty, default image generation will be applied."*
+You can describe your desired visual style in natural language. The **Image Instructions** textarea appears under **Include images** in the variable dialog. The placeholder reads: _"Describe what kind of images you'd like to generate. For example you can ask to generate image in specific styles, colors, themes, etc. Be as descriptive as possible. If left empty, default image generation will be applied."_
 
 Write descriptions like:
 

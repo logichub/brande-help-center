@@ -2,6 +2,9 @@
 
 Content Agent and manual content creation serve different purposes in your workflow. Understand when to use each to maximize your content output and brand consistency.
 
+![Content Agent vs Manual Content Creation — Brande.ai](./images/content-agent-vs-manual.jpg)
+
+
 ## Quick Comparison
 
 | Aspect | Content Agent | Manual Content Creation |

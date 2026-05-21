@@ -2,6 +2,9 @@
 
 You have a brand strategy and daily recommendations, but nothing happens until you open a blank canvas and start creating. Creating a new project is where Brand DNA transforms into shipping content.
 
+![Create a New Content Project — Brande.ai](./images/create-new-project.jpg)
+
+
 The new project dialog guides you through template selection, variables, and brand voice alignment in three steps—setting up for AI-assisted generation instead of AI-powered guessing.
 
 ## Step 1: Open the New Project Dialog

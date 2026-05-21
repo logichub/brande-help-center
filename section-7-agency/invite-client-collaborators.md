@@ -2,6 +2,9 @@
 
 Client collaborators need to review and approve your content before publication. Grant them read-only access to projects, approval rights, and nothing else.
 
+![Invite Client Collaborators — Brande.ai](./images/invite-client-collaborators.jpg)
+
+
 Brande.ai handles the invitation, role assignment, and access control automatically.
 
 ## Step 1: Open the Invite Modal

@@ -2,6 +2,9 @@
 
 LinkedIn rewards specificity and authenticity. Generic "how to scale your business" posts get lost; posts from your actual voice that address a specific founder's pain point get engagement and opportunities. The LinkedIn Post template generates brand-aligned short-form content that feels like you, not like an AI.
 
+![Create High-Quality LinkedIn Content — Brande.ai](./images/create-linkedin-content.jpg)
+
+
 ## What LinkedIn Post Template Generates
 
 The LinkedIn Post template produces:

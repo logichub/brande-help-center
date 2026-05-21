@@ -2,6 +2,9 @@
 
 Extract data from comparison tables and other structured content. Export any table in your project to CSV format for use in spreadsheets, analysis tools, or further processing.
 
+![Export Tables to CSV — Brande.ai](./images/export-tables-csv.jpg)
+
+
 ## Export a table to CSV
 
 When your project contains a table:

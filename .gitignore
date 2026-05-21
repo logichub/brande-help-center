@@ -7,3 +7,5 @@ node_modules/
 _preview/
 *.zip
 .claude/
+.env
+public/images/raw/

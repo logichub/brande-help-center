@@ -4,6 +4,9 @@
 
 **Direct Answer:** The email address or password field contains a formatting error. Check for extra spaces or typos.
 
+![Account and Login Issues — Brande.ai](./images/account-login.jpg)
+
+
 ### How to Fix This
 
 1. **Verify email format**
@@ -38,10 +41,7 @@
 
 1. **Check password requirements**
    - Minimum 8 characters
-   - At least one uppercase letter (A-Z)
-   - At least one lowercase letter (a-z)
-   - At least one number (0-9)
-   - Example of valid password: MyPassword123
+   - A strength indicator guides you — weak passwords are blocked on submission
 
 2. **Verify both fields match** (during signup or reset)
    - Password field and Confirm Password field must be identical
@@ -99,7 +99,7 @@
 
 ## Reset Password Link Expires or Shows "Invalid Token"
 
-**Direct Answer:** The reset link expired (valid for 24 hours only) or was used already. Request a new one.
+**Direct Answer:** The reset link expired or was already used. Request a new one.
 
 ### How to Fix This
 
@@ -109,63 +109,25 @@
    - Check your email for a new link (check spam folder too)
 
 2. **Act quickly on new link**
-   - Reset links are valid for 24 hours
    - Complete the reset as soon as you receive the email
    - Don't wait to reset later
 
 3. **Use the link in a new tab**
    - If you already used the link, clicking it again fails
    - Open a fresh private/incognito tab and paste the link
-   - If still invalid, the 24-hour window has passed
 
 ### Token Validity Rules
 
-- Reset links are valid for 24 hours from sending
+- Reset links expire after a short window from sending
 - Each link can only be used once
 - Requesting a new reset invalidates the old link
-- If you miss the 24-hour window, request a new reset
+- If the link shows "Invalid Token," request a new reset
 
 ### If This Doesn't Work
 
 - **Try the link immediately after receiving email** — Don't wait, timers start on send
 - **Don't close browser tab during reset** — Closing/reloading can invalidate the session
 - **Contact support** — We can manually reset your password
-
----
-
-## Account Locked or "Too Many Login Attempts"
-
-**Direct Answer:** You entered the wrong password multiple times. Your account is temporarily locked for security. Wait 30 minutes or request a password reset.
-
-### How to Fix This
-
-1. **Wait 30 minutes**
-   - The account automatically unlocks after 30 minutes
-   - Try logging in again with the correct password
-
-2. **Reset your password**
-   - Go to login page > "Forgot Password"
-   - Follow the reset process
-   - You can log in immediately with your new password
-   - This also unlocks your account
-
-3. **Verify correct password**
-   - Check Caps Lock (common cause of repeated failed attempts)
-   - Use a password manager if available
-   - Avoid typing password multiple times; use copy/paste instead
-
-### Account Security
-
-- After 5 failed login attempts, the account locks automatically
-- This protects your account from brute-force attacks
-- Lock lasts 30 minutes minimum
-- Password reset unlocks immediately
-
-### If This Doesn't Work
-
-- **Try the password reset email link immediately** — Don't delay
-- **Verify you're using the right account email** — Some users have multiple emails
-- **Contact support** — We can unlock your account manually
 
 ---
 

@@ -2,6 +2,9 @@
 
 Turn your projects into professional documents. Export any project as a PDF or Word file in seconds—perfect for sharing with stakeholders, clients, or your own records.
 
+![Export Content to DOCX or PDF — Brande.ai](./images/export-content.jpg)
+
+
 ## Export your project
 
 While editing a project, look for the **Export** button (file download icon) in the top toolbar:

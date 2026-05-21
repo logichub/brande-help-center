@@ -4,6 +4,9 @@
 
 Brande.ai is not a writing tool.
 
+![Brande.ai Mental Model — Brande.ai](./images/understand-brande.jpg)
+
+
 It is a **brand-aware content operating system** that turns your brand strategy into consistent written and visual content—without requiring you to plan, prompt, or micromanage every piece of content.
 
 Instead of asking:

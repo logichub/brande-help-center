@@ -2,22 +2,20 @@
 
 Your account settings and preferences control how you work in Brande.ai.
 
+![Navigate Settings and Preferences — Brande.ai](./images/navigate-settings.jpg)
+
+
 Everything lives in one place: your Account page, accessible with a single keyboard shortcut or click.
 
 ## Access Account Settings
 
-**Option A: Keyboard Shortcut (Fastest)**
-Press **Ctrl+Alt+A** (Windows/Linux) or **Control+Option+A** (Mac) from anywhere.
-
-The Account page opens immediately.
-
-**Option B: Profile Dropdown**
+**Option A: Profile Dropdown (Fastest)**
 1. Click your profile icon (top right corner of the screen)
 2. Select **Account** from the dropdown menu
 3. Account page loads
 
-**Option C: Sidebar Navigation**
-1. Open the sidebar (Ctrl+Alt+S or click menu icon)
+**Option B: Sidebar Navigation**
+1. Open the sidebar (Alt+S or Ctrl+S on Mac, or click menu icon)
 2. Look for **Account** link (usually near the top)
 3. Click to navigate to Account page
 

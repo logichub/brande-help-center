@@ -2,27 +2,33 @@
 
 Different platforms have different image requirements. Brande.ai generates images in the right dimensions and aspect ratios for each channel—so your visuals fit perfectly on Instagram, LinkedIn, Twitter/X, blogs, and more.
 
+![Create Visual Content for Different Platforms — Brande.ai](./images/include-images.jpg)
+
 ## Platform-specific image requirements
 
 When you create a project or generate images, Brande.ai adapts to your platform:
 
 **Social Media Feeds:**
+
 - Instagram: Square (1:1) or portrait (4:5) formats
 - Facebook: Square (1:1), landscape (1.91:1), or portrait (4:5)
 - LinkedIn: Square (1:1) or landscape (1.2:1)
 - Twitter/X: Landscape (16:9) or square (1:1)
 
 **Stories & Vertical Formats:**
+
 - Instagram Stories: Portrait (9:16)
 - LinkedIn Stories: Portrait (9:16)
 - TikTok: Vertical (9:16)
 
 **Web & Blog Content:**
+
 - Hero images: Landscape (16:9)
 - Featured images: Landscape (1.5:1)
 - Thumbnails: Square (1:1)
 
 **Other Channels:**
+
 - Google My Business: Square (1:1)
 - WhatsApp: Portrait or square
 - Email headers: Landscape (600x200px or wider)
@@ -49,16 +55,19 @@ If you're repurposing content for multiple channels, create separate projects pe
 Different shapes require different composition:
 
 **Square (1:1):**
+
 - Centered subject works well
 - Good for product images or headshots
 - Less wasted space on edges
 
 **Landscape (16:9):**
+
 - Horizontal subject or multiple elements
 - Works for hero images and banners
 - More expansive feel
 
 **Portrait (9:16):**
+
 - Tall vertical subjects
 - Good for stories and mobile-first content
 - Draws eye top-to-bottom

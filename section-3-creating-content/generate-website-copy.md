@@ -2,6 +2,9 @@
 
 Your website is your always-on salesman. Generic website copy converts at 1%; brand-aligned website copy informed by your actual Brand DNA converts at 3–5x that rate. The Website Copy template generates multi-section, conversion-focused pages that speak directly to your audience's pain points and objections.
 
+![Generate Website Copy That Converts — Brande.ai](./images/generate-website-copy.jpg)
+
+
 ## What Website Copy Template Generates
 
 The Website Copy template produces structured website pages with:

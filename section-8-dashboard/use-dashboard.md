@@ -2,6 +2,9 @@
 
 Your dashboard is the daily hub for content strategy and execution.
 
+![Use the Brande.ai Dashboard — Brande.ai](./images/use-dashboard.jpg)
+
+
 It shows your personalized recommendations, pending projects, calendar, and quick actions—everything you need to stay on track without switching between tabs.
 
 ## Dashboard at a Glance

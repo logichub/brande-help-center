@@ -2,6 +2,9 @@
 
 Keyboard shortcuts eliminate friction. You don't switch tools, click multiple times, or lose focus.
 
+![Use Quick Actions and Shortcuts — Brande.ai](./images/quick-actions-shortcuts.jpg)
+
+
 Press a key combination and immediately create a project, jump to account settings, or find what you need—without touching your mouse.
 
 ## Keyboard Shortcuts Reference
@@ -10,18 +13,15 @@ Learn these shortcuts and watch your workflow accelerate:
 
 | Shortcut | Action | Use Case |
 |----------|--------|----------|
-| **Ctrl/Alt+N** | New Project | Create a content project from anywhere |
-| **Ctrl/Alt+S** | Toggle Sidebar | Hide sidebar to maximize editor space |
-| **Ctrl/Alt+A** | Go to Account | Jump to account settings |
-| **Ctrl/Alt+H** | Go to Home | Jump to dashboard |
-| **Ctrl/Alt+C** | New Snippet | Create a reusable text block |
-| **Modifier+Shift+P** | Project Search | Search your projects by name |
+| **Alt+N** / **Ctrl+N** (Mac) | New Project | Create a content project from anywhere |
+| **Alt+S** / **Ctrl+S** (Mac) | Toggle Sidebar | Hide sidebar to maximize editor space |
+| **Alt+Shift+P** / **Ctrl+Shift+P** (Mac) | Project Search | Search your projects by name |
 
-**Note:** On Mac the modifier renders as **Ctrl** (Control). On Windows and Linux it renders as **Alt**. The keyboard-shortcuts modal in the header shows the correct binding for your platform. There are no `Cmd+` shortcuts in Brande.ai today.
+**Note:** On Mac use **Ctrl** (Control key). On Windows and Linux use **Alt**. There are no `Cmd+` shortcuts in Brande.ai today.
 
 ## Create a New Project (Ctrl/Alt+N)
 
-Press **Ctrl+Alt+N** (Windows/Linux) or **Control+Option+N** (Mac) from anywhere in the app.
+Press **Alt+N** (Windows/Linux) or **Ctrl+N** (Mac) from anywhere in the app.
 
 The New Project dialog opens immediately.
 
@@ -32,15 +32,15 @@ The New Project dialog opens immediately.
 
 **Usage:**
 1. Read a Content Agent recommendation
-2. Press Ctrl+Alt+N
+2. Press Alt+N (Windows/Linux) or Ctrl+N (Mac)
 3. Select the template that matches the recommendation
 4. Fill variables and start creating
 
 No page navigation needed.
 
-## Toggle Sidebar (Ctrl/Alt+S)
+## Toggle Sidebar (Alt+S / Ctrl+S on Mac)
 
-Press **Ctrl+Alt+S** to hide or show the left sidebar.
+Press **Alt+S** (Windows/Linux) or **Ctrl+S** (Mac) to hide or show the left sidebar.
 
 **Why this matters:**
 - Maximizes your editor space when writing or editing content
@@ -51,60 +51,9 @@ Press **Ctrl+Alt+S** to hide or show the left sidebar.
 - Working on a long-form project? Hide the sidebar to see more content.
 - Need to navigate to a different project? Show the sidebar and click.
 
-## Go to Account (Ctrl/Alt+A)
+## Project Search (Alt+Shift+P / Ctrl+Shift+P on Mac)
 
-Press **Ctrl+Alt+A** to jump directly to your Account page.
-
-Same as clicking your profile icon (top right) and selecting **Account**.
-
-**Why this matters:**
-- Accesses account settings from anywhere without clicking
-- Useful when you need to quickly update Brand Profile, Brand Voice, or settings
-
-**Usage:**
-1. Realize you need to update your Brand Profile
-2. Press Ctrl+Alt+A
-3. Click Brand Profile in the sidebar
-4. Make updates
-
-No back-and-forth navigation.
-
-## Go to Home (Ctrl/Alt+H)
-
-Press **Ctrl+Alt+H** to jump to your dashboard immediately.
-
-Same as clicking "Home" in the sidebar or refreshing the home page.
-
-**Why this matters:**
-- Returns you to your dashboard from anywhere
-- Quick reset if you're lost in deep navigation
-- Refreshes your content calendar and Content Agent widget
-
-**Usage:**
-1. You're deep in a project editor
-2. Press Ctrl+Alt+H
-3. You're back on the dashboard, seeing Content Agent recommendations and calendar
-
-## New Snippet (Ctrl/Alt+C)
-
-Press **Ctrl+Alt+C** to create a new snippet (reusable text block).
-
-Snippets are stored in your Account > Snippets page and can be inserted into any project.
-
-**Why this matters:**
-- Create snippets without navigating to Account > Snippets
-- Fast way to capture reusable text (CTAs, sign-offs, disclaimers)
-
-**Usage:**
-1. While creating a project, you write a great CTA: "Ready to level up? Book a call with our team."
-2. Press Ctrl+Alt+C
-3. Name it "CTA — Book a Call"
-4. Save it
-5. Next project, insert the snippet instead of retyping
-
-## Project Search (Modifier+Shift+P)
-
-Press **Shift+P** (or **Cmd+Shift+P** on Mac) to open Project Search.
+Press **Alt+Shift+P** (Windows/Linux) or **Ctrl+Shift+P** (Mac) to open Project Search.
 
 A search box appears allowing you to type a project name and filter your projects.
 
@@ -164,9 +113,9 @@ These are mouse alternatives to keyboard shortcuts. Use whichever fits your work
 
 **Day 3-5: Practice**
 1. Consciously use shortcuts for your 3 most common tasks:
-   - Ctrl+Alt+N (New Project)
-   - Ctrl+Alt+A (Account)
-   - Shift+P (Search)
+   - Alt+N (New Project)
+   - Alt+S (Toggle Sidebar)
+   - Alt+Shift+P (Search)
 2. Force yourself to use them instead of clicking
 
 **Week 2+: Automatic**
@@ -177,41 +126,38 @@ This saves 30 seconds per task. Over a year, that's 20+ hours of recovered produ
 ## Shortcuts by Workflow
 
 **Morning Routine:**
-1. Ctrl+Alt+H (go to Dashboard)
+1. Navigate to Dashboard from the sidebar
 2. Review Content Agent recommendations
-3. Ctrl+Alt+N (create a project from a recommendation)
+3. Alt+N / Ctrl+N (create a project from a recommendation)
 4. Fill variables and start creating
 
 **Throughout the Day:**
-1. Shift+P (search for a project to continue)
-2. Ctrl+Alt+S (toggle sidebar for focus)
-3. Ctrl+Alt+C (save reusable text as snippet)
+1. Alt+Shift+P / Ctrl+Shift+P (search for a project to continue)
+2. Alt+S / Ctrl+S (toggle sidebar for focus)
 
 **Weekly Planning:**
-1. Ctrl+Alt+H (go to Dashboard)
+1. Go to Dashboard from the sidebar
 2. View Content Calendar
-3. Ctrl+Alt+A (go to Account)
-4. Update Brand Profile if strategy changed
+3. Click profile icon → Account to update Brand Profile if strategy changed
 
 ## Troubleshooting
 
 **Q: The keyboard shortcut isn't working.**
 A: Make sure you're using the right modifier key for your OS:
-- Windows/Linux: Ctrl+Alt
-- Mac: Control+Option (or Command, depending on the shortcut)
+- Windows/Linux: **Alt** (e.g., Alt+N for New Project)
+- Mac: **Ctrl** (Control key, e.g., Ctrl+N for New Project)
 
-Check the Keyboard Shortcuts modal for your specific OS.
+Check the Keyboard Shortcuts modal in the app for the full list per platform.
 
 **Q: I can't remember all the shortcuts.**
-A: Start with the three most important:
-- Ctrl+Alt+N (New Project) — used constantly
-- Ctrl+Alt+A (Account) — used weekly
-- Shift+P (Project Search) — used multiple times daily
+A: Start with the two most important:
+- Alt+N / Ctrl+N (New Project) — used constantly
+- Alt+Shift+P / Ctrl+Shift+P (Project Search) — used multiple times daily
 
-Master these three, then add others as you go.
+Master these two, then add Alt+S (sidebar toggle) as you go.
 
 **Q: The search shortcut opens the browser's search instead.**
-A: Project Search uses **Cmd+Shift+P** on Mac and **Ctrl+Shift+P** on Windows/Linux. There is no alternative binding for the same action — if your browser steals the shortcut, click the search icon in the sidebar instead.
+A: Project Search uses **Ctrl+Shift+P** on Mac and **Alt+Shift+P** on Windows/Linux. There is no alternative binding for the same action — if your browser steals the shortcut, click the search icon in the sidebar instead.
 
 ## Related Topics
 

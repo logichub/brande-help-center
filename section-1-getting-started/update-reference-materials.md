@@ -2,6 +2,9 @@
 
 Reference materials are the data, statistics, and proof points that ground your content in truth.
 
+![Update Your Reference Materials — Brande.ai](./images/update-reference-materials.jpg)
+
+
 As your business grows, your reference materials should grow too.
 
 Stale statistics and outdated case studies weaken your credibility.
@@ -72,9 +75,9 @@ New reference materials:
 
 ## How to Update Reference Materials
 
-### 1. Navigate to Content Reference
+### 1. Navigate to Reference Materials
 
-Go to **Account** → **Content Reference**.
+Go to **Account** → **Reference Materials**.
 
 You'll see all existing reference materials.
 

@@ -11,6 +11,7 @@ Click your profile icon in the top right corner.
 Select **Brands** from the dropdown menu.
 
 The Brands dropdown displays:
+
 - A list of all brands you own or have access to
 - A crown icon next to each brand you own
 - A **+** button to create a new brand
@@ -18,6 +19,7 @@ The Brands dropdown displays:
 Click any brand name to switch to it immediately.
 
 The interface updates:
+
 - Dashboard shows that brand's projects and calendar
 - Account sidebar shows that brand's Brand Profile, Brand Voice, Brand Materials
 - Content Agent recommendations are generated for that brand only
@@ -30,6 +32,7 @@ No need to log out or re-authenticate. One click, and you're working in a comple
 When you switch brands, these elements are entirely independent:
 
 **Brand Profile (Brand DNA)**
+
 - Business objectives
 - Target audience and triggers
 - Content channels
@@ -64,6 +67,7 @@ You can edit Brand Profile, create projects, manage collaborators, and delete co
 
 **No Crown Icon = Brand Collaborator**
 You have either:
+
 - Full editing access (if invited as "Agency Admin")
 - Read-only + approval access (if invited as "Client Collaborator")
 
@@ -73,7 +77,7 @@ There is no in-app brand-ownership transfer action today — contact support if 
 
 ## Brand-Level Settings
 
-When you switch to a brand, all Account sidebar options apply to *that brand only*:
+When you switch to a brand, all Account sidebar options apply to _that brand only_:
 
 - **Brand Profile** — Edit that brand's DNA
 - **Brand Voice** — Create or edit voice profiles for that brand
@@ -85,6 +89,7 @@ When you switch to a brand, all Account sidebar options apply to *that brand onl
 - **Custom Fields** — Configure project metadata for that brand
 
 Global workspace settings that apply across all brands:
+
 - **My Plan** — Your subscription level (shared across all brands)
 - **API Keys** — Workspace-level API keys (not brand-specific)
 - **Checklist Templates** — Reusable across all brands
@@ -94,11 +99,13 @@ Global workspace settings that apply across all brands:
 The Content Calendar shows projects for the currently selected brand.
 
 To view one brand's calendar:
+
 1. Click profile icon > select brand
 2. Go to dashboard or open Content Calendar from sidebar
 3. You see only that brand's pending projects and scheduled items
 
 To compare calendars across clients:
+
 - Switch brands and take note of project deadlines
 - Or manage all brands' calendars manually in external tools
 

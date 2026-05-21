@@ -2,6 +2,9 @@
 
 Sharing and publishing are different paths to getting your content out. Understand when to use each so your content reaches the right people through the right channels.
 
+![Share and Publish Content — Brande.ai](./images/share-and-publish.jpg)
+
+
 ## Share vs. Publish: What's the difference?
 
 **Sharing** means giving collaborators or followers a link to view your project:

@@ -2,6 +2,9 @@
 
 Content Agent only recommends for the channels you select.
 
+![Select Your Content Channels — Brande.ai](./images/select-content-channels.jpg)
+
+
 If you omit a channel, you're ignoring half of what Content Agent can do for you.
 
 If you select every channel, you overwhelm your execution capacity and dilute focus.

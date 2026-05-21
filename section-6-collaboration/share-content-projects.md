@@ -2,6 +2,9 @@
 
 Give collaborators access to your projects without giving them access to your brand settings. Share via link or social media to distribute your work.
 
+![Share Content Projects — Brande.ai](./images/share-content-projects.jpg)
+
+
 ## Open the share modal
 
 Click the **Share** button (network icon) in the project editor toolbar. A modal appears with two sharing sections.
@@ -66,9 +69,9 @@ When sharing projects, there's a collaborator limit based on your plan:
 - Upgrade your subscription to share with more people
 
 Example:
-- Free plan: 2 collaborators
-- Pro plan: 10 collaborators
-- Enterprise: Unlimited
+- Creator plan: 1 collaborator
+- Growth plan: up to 10 collaborators
+- Agency plan: up to 100 collaborators
 
 To add more collaborators, click to upgrade from the message.
 

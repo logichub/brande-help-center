@@ -2,11 +2,14 @@
 
 Your password is your account security. Update it regularly and keep it confidential.
 
+![Change Your Password — Brande.ai](./images/change-password.jpg)
+
+
 Change it anytime from your Account page in under one minute.
 
 ## Open Change Password Section
 
-1. Go to your Account page (**Ctrl+Alt+A** or click profile icon > Account)
+1. Go to your Account page (click profile icon > Account)
 2. Look for **Change Password** section
 3. You see three fields ready for input
 

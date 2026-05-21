@@ -7,6 +7,7 @@ Your team members see the full Brande.ai interface. Clients see a simplified vie
 When you're logged in as a brand owner or internal team member, you see:
 
 **Full interface:**
+
 - Complete project list (all projects, folders, filters)
 - Brand settings and Brand DNA management
 - Content Agent recommendations and capabilities
@@ -18,6 +19,7 @@ When you're logged in as a brand owner or internal team member, you see:
 - Full commenting and collaboration tools
 
 **Actions available:**
+
 - Create, edit, delete projects
 - Manage folders and organization
 - Approve/unapprove projects
@@ -32,6 +34,7 @@ This is the unrestricted, full-featured experience.
 When you share projects with a client or invite them as a "Client Collaborator," they see a limited interface:
 
 **What clients see:**
+
 - Only the projects you've shared with them
 - Project content, images, and structure
 - Comments and reply threads
@@ -39,6 +42,7 @@ When you share projects with a client or invite them as a "Client Collaborator,"
 - Project status (Draft, Review, Approved, Published, etc.)
 
 **What clients cannot see:**
+
 - Brand settings or Brand DNA
 - Content Agent recommendations (interface hides these)
 - Content Calendar or scheduling features
@@ -50,6 +54,7 @@ When you share projects with a client or invite them as a "Client Collaborator,"
 - Folder structure (projects appear flat in their view)
 
 **Actions available:**
+
 - View projects (read-only, cannot edit)
 - Leave and reply to comments
 - Approve/unapprove projects (if plan includes project_approval)
@@ -62,6 +67,7 @@ This simplified interface keeps the focus on the work itself, not your backend.
 **Client logs in:** They see a streamlined dashboard with only the projects you've shared.
 
 **Client reviews a project:** They see:
+
 - Project name and status
 - Full content (text, images, tables)
 - Comments section for feedback
@@ -72,12 +78,14 @@ This simplified interface keeps the focus on the work itself, not your backend.
 ## Why this matters
 
 **For your brand:**
+
 - Keeps internal strategy and Brand DNA private
 - Hides work-in-progress and brainstorms
 - Prevents clients from seeing team disagreements
 - Maintains professionalism
 
 **For clients:**
+
 - Focused experience—no overwhelming features
 - Clear, simple feedback interface
 - No confusion from tools they don't need
@@ -86,11 +94,13 @@ This simplified interface keeps the focus on the work itself, not your backend.
 ## Inviting clients
 
 **Option 1: Share a one-off project link**
+
 - Client gets a link, views one project
 - No account needed
 - Good for short-term feedback
 
 **Option 2: Invite as client collaborator**
+
 - Client gets an account with limited access
 - Can see all projects you share over time
 - Good for ongoing partnerships
@@ -132,24 +142,25 @@ If an internal team member leaves and should become a client:
 
 ## Visibility of features by role
 
-| Feature | Brand Owner | Team Member | Client Collaborator |
-|---------|-------------|-------------|-------------------|
-| All Projects | ✓ | ✓ | Only shared |
-| Edit Content | ✓ | ✓ | ✗ (read-only) |
-| Comments | ✓ | ✓ | ✓ |
-| Approve/Unapprove | ✓ | ✓ | ✓ (if enabled) |
-| Brand DNA Settings | ✓ | ✗ | ✗ |
-| Content Agent | ✓ | ✓ | ✗ (hidden) |
-| Content Calendar | ✓ | ✓ | ✗ (hidden) |
-| Integrations | ✓ | ✓ | ✗ (hidden) |
-| Publishing | ✓ | ✓ | ✗ |
-| Team Management | ✓ | ✗ | ✗ |
+| Feature            | Brand Owner | Team Member | Client Collaborator |
+| ------------------ | ----------- | ----------- | ------------------- |
+| All Projects       | ✓           | ✓           | Only shared         |
+| Edit Content       | ✓           | ✓           | ✗ (read-only)       |
+| Comments           | ✓           | ✓           | ✓                   |
+| Approve/Unapprove  | ✓           | ✓           | ✓ (if enabled)      |
+| Brand DNA Settings | ✓           | ✗           | ✗                   |
+| Content Agent      | ✓           | ✓           | ✗ (hidden)          |
+| Content Calendar   | ✓           | ✓           | ✗ (hidden)          |
+| Integrations       | ✓           | ✓           | ✗ (hidden)          |
+| Publishing         | ✓           | ✓           | ✗                   |
+| Team Management    | ✓           | ✗           | ✗                   |
 
 ## Managing visibility
 
 Brande.ai automatically hides irrelevant features for client collaborators. You don't need to do anything—the system handles it based on their role.
 
 However, be aware:
+
 - Never share your brand dashboard or settings pages with clients
 - Use the Share modal for project sharing (not direct dashboard access)
 - Treat internal operations and strategy as brand-confidential

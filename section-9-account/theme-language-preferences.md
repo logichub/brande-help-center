@@ -2,11 +2,14 @@
 
 Customize how Brande.ai looks and what language it speaks.
 
+![Update Theme and Language Preferences — Brande.ai](./images/theme-language-preferences.jpg)
+
+
 Change theme (light/dark mode) or language (English/Spanish) from the Settings section in your Account page.
 
 ## Open Settings
 
-1. Go to your Account page (**Ctrl+Alt+A** or click profile icon > Account)
+1. Go to your Account page (click profile icon > Account)
 2. In the Account sidebar, find and click **Settings**
 3. The Settings page displays your theme and language options
 

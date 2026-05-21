@@ -2,22 +2,20 @@
 
 Your account settings control your profile, preferences, and workspace configuration.
 
+![Access and Update Account Settings — Brande.ai](./images/access-update-settings.jpg)
+
+
 All settings are in one place—your Account page—accessible instantly via keyboard shortcut.
 
 ## Open Your Account Page
 
-**Option A: Keyboard Shortcut (Fastest)**
-Press **Ctrl+Alt+A** (Windows/Linux) or **Control+Option+A** (Mac) from anywhere in the app.
-
-Your Account page opens immediately.
-
-**Option B: Profile Icon Dropdown**
+**Option A: Profile Icon Dropdown (Fastest)**
 1. Click your profile icon (top right corner)
 2. Select **Account** from the dropdown menu
 3. Account page loads
 
-**Option C: Sidebar Navigation**
-1. Open the sidebar (Ctrl+Alt+S or click menu icon)
+**Option B: Sidebar Navigation**
+1. Open the sidebar (Alt+S / Ctrl+S on Mac, or click menu icon)
 2. Click **Account**
 
 ## General Info Section

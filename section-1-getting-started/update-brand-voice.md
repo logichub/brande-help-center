@@ -2,6 +2,9 @@
 
 Your voice evolves as your brand grows.
 
+![Update Your Brand Voice — Brande.ai](./images/update-brand-voice.jpg)
+
+
 Quarterly updates keep your Brand DNA fresh and your content generation accurate.
 
 Stale voice profiles create stale output.
@@ -59,7 +62,7 @@ Re-analyze with current content examples.
 
 ### 1. Navigate to Brand Voice
 
-Go to **Account** → **Brand Voice**.
+Go to **Account** → **Brand Voice Analyzer**.
 
 You'll see your existing voice profile and any previous analyses.
 

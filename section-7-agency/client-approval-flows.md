@@ -2,6 +2,9 @@
 
 Client collaborators can view all projects for their brand and approve or reject them before publication.
 
+![Use Client Approval Flows — Brande.ai](./images/client-approval-flows.jpg)
+
+
 Each project shows an approval status and history. Once approved, the project is marked with the collaborator's name and approval date—creating an audit trail and freeing you to publish with confidence.
 
 ## Understanding Client Approval
