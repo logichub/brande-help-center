@@ -2,6 +2,9 @@
 
 Your dashboard is the daily hub for content strategy and execution.
 
+![Use the Brande.ai Dashboard — Brande.ai](./images/use-dashboard.jpg)
+
+
 It shows your personalized recommendations, pending projects, calendar, and quick actions—everything you need to stay on track without switching between tabs.
 
 ## Dashboard at a Glance
@@ -243,7 +246,7 @@ A: Refresh your browser. If error persists, check that your Brand Profile is com
 A: Scroll down on the dashboard. If you still don't see it, check your subscription status in Account > My Plan.
 
 **Q: Can I customize which widgets appear?**
-A: [NEEDS REVIEW: whether dashboard is customizable]
+A: No. The dashboard layout is fixed today — every user sees Welcome, Content Calendar, Quick Links, Recent Projects, and Recent Folders in the same order.
 
 ## Related Topics
 

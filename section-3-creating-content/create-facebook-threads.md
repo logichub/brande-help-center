@@ -1,12 +1,17 @@
 # Create Facebook Thread Posts
 
-[NEEDS REVIEW: exact template key for Facebook threads - may be a specific template or part of content creation workflow]
+Facebook thread-style content has its own dedicated template in Brande.ai — **Facebook Thread Post** — alongside the regular **Facebook Post** template. Both are in the Social Media template category.
 
-Facebook Threads is a new format where users follow threads of conversation instead of single posts. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
+![Create Facebook Thread Posts — Brande.ai](./images/create-facebook-threads.jpg)
 
-## What Are Facebook Threads?
 
-Facebook Threads are a series of connected posts that build on each other:
+> **Note:** "Facebook Thread Post" is Brande.ai's template name for multi-part, sequential content published to Facebook. This is not related to [Meta Threads](https://www.threads.net) (threads.net), which is a separate app. If you want to create content for Meta Threads, use the Facebook Thread Post template and adapt the copy for that platform.
+
+Thread-style posts on Facebook build a narrative across connected updates. Threads are easy to misfire without structure: too long and they're ignored; too short and they feel incomplete. Content structured with your Brand DNA ensures each thread performs as strategy, not as a shot in the dark.
+
+## What Is a Facebook Thread Post?
+
+A Facebook thread post is a series of connected updates that build on each other:
 - **Thread post 1** — Hook the reader (pain point, question, or curiosity gap)
 - **Post 2–4** — Support the hook with evidence, data, or story
 - **Final post** — Call-to-action or conclusion
@@ -45,9 +50,7 @@ When you use the Brand DNA from your profile (your voice, your audience, your bu
 
 Click **Create New Project** (Alt+N / Ctrl+N). The project type dialog opens.
 
-[NEEDS REVIEW: Exact template key and available UI for Facebook thread selection]
-
-Search for "Facebook" or browse templates. Select the **Facebook Threads** template (if available as a distinct template) or use **LinkedIn Post** template as a base and customize in chat to output thread format.
+Search for "Facebook" or browse the **Social Media** category. Select **Facebook Thread Post** (the series-style template). The single-post **Facebook Post** template is available right next to it for one-off posts.
 
 ### Step 2: Configure Variables
 

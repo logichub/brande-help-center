@@ -2,6 +2,9 @@
 
 Your feedback shapes Brande.ai's roadmap.
 
+![Submit Product Feedback — Brande.ai](./images/submit-feedback.jpg)
+
+
 Whether you want a new feature, think a feature could work better, or have a clever idea—submit it in two minutes and watch other users vote on it.
 
 ## Why Your Feedback Matters
@@ -28,10 +31,9 @@ Your voice matters. Use it.
 **Option B: Direct Link**
 Navigate to **/feedback** in the Brande.ai URL bar to go directly to the feedback page.
 
-**Option C: From Account Page**
-[NEEDS REVIEW: whether there's a feedback link in the Account sidebar]
+**Option C: Help Dialog**
 
-Go to Account (Ctrl+Alt+A) and look for a "Feedback" or "Submit Feedback" link.
+Click the help icon in the header to open the Help Center dialog, then click **Share Product Feedback**. This opens the same Canny.io feedback board at `/feedback`.
 
 ## Feedback Form Fields
 
@@ -60,7 +62,7 @@ Select which part of Brande.ai your feedback is about:
 - Integrations
 - Other
 
-[NEEDS REVIEW: exact category options]
+The live category list is whatever is configured on the Canny.io board at `/feedback` — expect it to drift over time as the team adds areas.
 
 **Priority** (Optional)
 How important is this to you:
@@ -68,7 +70,7 @@ How important is this to you:
 - Important (would help a lot)
 - Critical (blocks my workflow)
 
-[NEEDS REVIEW: exact priority levels]
+Priority labels are board-configurable in Canny.io and may change. Use the closest match to express urgency.
 
 **Attachments** (Optional)
 Upload a screenshot, mockup, or file that illustrates your feedback.
@@ -114,7 +116,7 @@ Report non-urgent technical problems:
 - "Projects sometimes don't save immediately"
 - "Notifications are delayed by 5+ minutes"
 
-[NEEDS REVIEW: whether non-urgent bugs should go to support instead]
+For anything that blocks your work — "app down", "projects disappearing", "can't log in" — file a support ticket via `/support` instead. Feedback is for ideas and pattern-level improvements; support is for incident-level issues.
 
 ## Writing Effective Feedback
 
@@ -150,9 +152,8 @@ The email includes:
 - Option to get notified when the feature ships
 
 **Public Feedback Board**
-[NEEDS REVIEW: whether feedback is visible on a public roadmap]
 
-Your feedback appears on the Brande.ai feedback board where other users can:
+The `/feedback` page is a Canny.io board, and posts default to public on the board. Other users can:
 - Read your feedback
 - Upvote features they also want
 - Add comments
@@ -236,9 +237,7 @@ If you see feedback that would help you, upvote it. A feature with 100 upvotes g
 A: Check your spam folder. If you don't find it, resubmit the feedback. If resubmitting fails, contact support.
 
 **Q: Can I edit feedback after submitting it?**
-A: [NEEDS REVIEW: whether feedback can be edited, or if you need to resubmit]
-
-If editing isn't allowed, you can resubmit with updated information or add a comment to your original submission.
+A: Editing depends on the Canny.io board configuration. If you can't edit, add a comment to your post to extend or clarify it instead of resubmitting.
 
 **Q: I want to upvote feedback but can't find it on the board.**
 A: Try searching for a keyword. Or browse the relevant category. If you still can't find it, submit your own feedback—it may duplicate an existing request, which the team will merge.

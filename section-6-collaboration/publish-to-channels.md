@@ -2,6 +2,9 @@
 
 Post content directly from Brande.ai to Instagram, Facebook, LinkedIn, Twitter/X, WordPress, Google My Business, and HubSpot. No copy-paste. No manual posting. Your content goes live through official platform connections.
 
+![Publish Content Directly to Channels — Brande.ai](./images/publish-to-channels.jpg)
+
+
 ## Supported platforms
 
 Brande.ai can publish directly to:
@@ -44,15 +47,12 @@ If integration status is anything but Active, fix it before publishing.
 
 ## Publish immediately
 
-Once integrated, publish a project in seconds:
-
-1. Open your project in the editor
-2. Click **Publish** [NEEDS REVIEW: exact button location and UI]
-3. Select which platform(s) to publish to
-4. Configure platform-specific options [NEEDS REVIEW: detail platform options UI]
-5. Click **Publish Now**
-
-Your content goes live immediately on all selected platforms.
+> **Heads up.** The in-app one-click **Publish** button is not yet wired into the editor. The backend publishing pipeline (LinkedIn, Facebook, WordPress, Instagram, HubSpot, Google Business Profile) is live and is reachable through the Brande.ai API and Zapier/Make. The two ways to publish today are:
+>
+> - Use the project's **Share** options (LinkedIn, Twitter/X, Facebook, WhatsApp) to push the copy to the platform manually.
+> - Connect Zapier or Make to your brand using an API key (Account → **API Keys**) and trigger publishing from there.
+>
+> A native in-editor Publish button is on the roadmap; this article will be updated when it ships.
 
 ## Schedule posts for later
 
@@ -118,10 +118,8 @@ Each platform has unique fields and requirements:
 - Blog post title
 - Post content (your project text)
 - Optional: Featured image
-- Optional: Blog tags
-- Requires: Blog selection (which blog to post to)
-
-[NEEDS REVIEW: confirm exact platform options and required fields]
+- Optional: Blog tags, categories, post status, post format, post type, excerpt, slug
+- Required when posting via the API: brand, project, and integration IDs (the WordPress integration must already be connected for that brand)
 
 ## Preview before publishing
 
@@ -144,29 +142,23 @@ If publishing fails:
 
 1. Check the integration status (may need re-authentication)
 2. Fix any issues flagged during preview
-3. Click **Retry** to publish again
-4. Or **Cancel** to skip publishing
+3. Trigger a retry through your Zapier/Make scenario or by re-running the API call
+4. Or cancel the post by deleting/cancelling its scheduled run in your automation tool
 
-[NEEDS REVIEW: exact retry/cancel UI and auto-retry behavior]
+Behind the scenes, the Brande.ai post scheduler retries failed publishes with exponential backoff: up to 3 retries, starting at 60 seconds and doubling each attempt (capped at 1 hour). Errors flagged as non-retryable mark the post as Failed immediately. Retry and cancel endpoints exist on the backend (`POST /posts/:id/retry`, `POST /posts/:id/cancel`) but no in-app UI currently surfaces them.
 
 ## Track published posts
 
 After publishing:
 
-1. View your post on the platform directly (link provided [NEEDS REVIEW: verify])
+1. The platform's post URL is recorded against the integration post on success (the data needed to render a "View on platform" link is persisted, even though no front-end button surfaces it yet)
 2. Monitor performance on the platform's native analytics
 3. Brande.ai records which project published where and when
-4. Check project status—changes to **Published** automatically
+4. Surface published-post status by querying integration posts via the API or your Zapier scenario
 
 ## Publishing limits
 
-Some plans limit publishing volume:
-
-- Free plan: Limited posts per month
-- Pro plan: 100+ posts per month
-- Enterprise: Unlimited
-
-Check your subscription tier to see your limit.
+There are no plan-based limits on the number of posts you can publish through integrations. Publishing via Zapier/Make or the API is available on all plans.
 
 ## Common publishing issues
 

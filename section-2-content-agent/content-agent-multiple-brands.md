@@ -2,6 +2,9 @@
 
 Content Agent works independently for each brand in your workspace. Agencies and multi-brand companies can switch between brands and manage separate content strategies without mixing voices or channels.
 
+![Use Content Agent for Multiple Brands — Brande.ai](./images/content-agent-multiple-brands.jpg)
+
+
 ## How Multi-Brand Content Agent Works
 
 Each brand in your workspace has:
@@ -70,13 +73,13 @@ If you have 50 projects for Brand A and 100 for Brand B, each workspace stays cl
 ## Subscription Limits With Multiple Brands
 
 Your subscription plan determines how many brands you can manage:
-- **Starter plan** — 1 brand
-- **Pro plan** — Up to 3 brands
-- **Agency plan** — Unlimited brands
+- **Creator plan** — 1 brand
+- **Growth plan** — 1 brand
+- **Agency plan** — Up to 3 brands
 
-Each brand has its own recommendation limit based on your plan. If your plan includes 30 recommendations per month, each brand gets 30, not shared across all brands.
+Growth and Agency plans include unlimited recommendations per brand. Check your plan details at **Account → My Plan**.
 
-Check your plan details to see how many brands and recommendations you have available.
+Check your plan details to see how many brands you have available.
 
 ## Tips for Managing Multiple Brands
 
@@ -103,13 +106,13 @@ If you are working with team members:
 - Invite collaborators to review or approve projects
 - Track who generated what across brands
 
-[NEEDS REVIEW: exact team collaboration and invitation flow]
+Content Agent itself doesn't have a separate invite flow. Recommendations are scoped to the selected brand, so anyone you invite to a brand (via the **Invite** dialog with **Brand Collaborator** or **Client Collaborator** role) automatically sees that brand's daily recommendations on the dashboard when they switch into it.
 
 ## Common Multi-Brand Scenarios
 
 ### Scenario 1: Manage Client Brands (Agency)
 
-You are an agency with 5 clients. Each client is a separate brand in Brande.ai. Content Agent generates daily briefs for each client's unique audience. Your team generates content per brand and delivers it to clients.
+You are an agency with 3 clients (the Agency plan supports up to 3 brands). Each client is a separate brand in Brande.ai. Content Agent generates daily briefs for each client's unique audience. Your team generates content per brand and delivers it to clients.
 
 ### Scenario 2: Manage Multiple Sub-Brands (Corporate)
 

@@ -2,6 +2,9 @@
 
 Managing dozens—or hundreds—of projects requires structure. Folders, statuses, and calendars are your tools for staying organized when volume grows fast.
 
+![Organize Content at Scale — Brande.ai](./images/organize-at-scale.jpg)
+
+
 ## Structure for high-volume creation
 
 If you're creating many projects monthly:

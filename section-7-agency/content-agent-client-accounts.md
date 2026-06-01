@@ -2,6 +2,9 @@
 
 Each client brand has its own Content Agent that generates personalized recommendations.
 
+![Use Content Agent Across Client Accounts — Brande.ai](./images/content-agent-client-accounts.jpg)
+
+
 Switch brands, and Content Agent instantly generates a new set of topic recommendations tailored to that brand's specific DNA, audience, and objectives.
 
 ## How Content Agent Works Per Brand
@@ -115,7 +118,7 @@ Once you see a recommendation for a specific brand:
 
 The content is created within that brand's project library and uses that brand's Brand DNA for generation.
 
-[NEEDS REVIEW: whether the template variable pre-fill uses the recommendation's suggested topic]
+When you click **Customize Content** on a recommendation, Brande.ai pre-fills the variable dialog using the recommendation's brief, then opens the standard project-creation flow. You can edit any field before clicking **Generate**.
 
 ## Regenerating Recommendations Per Brand
 
@@ -189,9 +192,7 @@ A: This usually means the two brands have similar Brand DNA. Review their profil
 If the brands are similar, similar recommendations may be appropriate. If they should be different, update the Brand Profile to clarify differentiation.
 
 **Q: Can I delete recommendations I don't like?**
-A: [NEEDS REVIEW: whether you can mark recommendations as "not relevant" or delete them from the list]
-
-Mark them as "Done" (to hide them) and regenerate for new recommendations.
+A: Recommendations only support a binary done/pending status today. There is no "not relevant" or hard-delete action — mark unwanted recommendations as **Done** to clear them from the active list, then regenerate to load fresh ones.
 
 ## Related Topics
 

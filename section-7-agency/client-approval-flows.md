@@ -2,6 +2,9 @@
 
 Client collaborators can view all projects for their brand and approve or reject them before publication.
 
+![Use Client Approval Flows — Brande.ai](./images/client-approval-flows.jpg)
+
+
 Each project shows an approval status and history. Once approved, the project is marked with the collaborator's name and approval date—creating an audit trail and freeing you to publish with confidence.
 
 ## Understanding Client Approval
@@ -63,9 +66,9 @@ The client collaborator:
 5. Reviews the content
 6. Clicks the **Approve** button
 
-Result: The project status changes to "Approved by [Collaborator Name] on [Date]"
+Result: The project status changes to "Approved by [Collaborator Name] on [Date]".
 
-No approval email is sent to you yet. [NEEDS REVIEW: whether you receive a notification when a project is approved]
+Approval activity surfaces on the in-app **Notifications** page (`/notifications`). There is no separate transactional email for approvals today — check Notifications regularly when you're waiting on a client.
 
 ## Step 4: Publish After Approval
 
@@ -85,7 +88,7 @@ If the client collaborator finds issues:
 
 1. They click the **Unapprove** button
 2. The project status changes to "Unapproved by [Name] on [Date]"
-3. You receive a notification [NEEDS REVIEW: whether notifications are sent for unapproval]
+3. The change appears on the in-app Notifications page; there is no separate email for unapproval
 
 **You must now:**
 1. Contact the client to understand what revisions they need
@@ -142,20 +145,20 @@ If you have multiple client stakeholders:
 - **Product Manager** — Approves technical accuracy
 - **CEO** — Final sign-off for major campaigns
 
-Invite all three as collaborators. Specify in project names or instructions which stakeholder should approve (e.g., "Product — Needs [PM Name] Review")
+Invite all three as collaborators. Specify in the project name which stakeholder should approve (for example, "Product — Needs [PM Name] Review").
 
-[NEEDS REVIEW: whether sequential approvals are possible, or if all approvers must approve independently]
+**Important:** Brande.ai uses a single-approval model — the first person who clicks **Approve** marks the project as approved. There is no quorum, no per-role gating, and no sequential-approval workflow. If you need multi-stakeholder sign-off, coordinate offline and have a designated approver click **Approve** only after the others have given the green light.
 
 ## Troubleshooting
 
 **Q: A client approved a project but I don't see the approval notification.**
-A: Check the project page directly. The approval status updates in Brande.ai. [NEEDS REVIEW: whether in-app notifications or email notifications are sent]
+A: Check the in-app Notifications page (`/notifications`). Approval activity surfaces there. There is no transactional email for approval changes today, so the in-app inbox is the source of truth.
 
 **Q: I need to move the approval to a different person.**
 A: Remove the current collaborator and invite the new person to the brand. Their approval status will be separate.
 
 **Q: Can I hide certain projects from a client collaborator?**
-A: [NEEDS REVIEW: whether you can make projects private or restrict visibility per collaborator]
+A: There is no per-project visibility control today — anyone with access to the brand sees every project on it. To keep work-in-progress out of the client's view, use a separate brand workspace for internal drafts and only invite the client to the brand where final-review projects live.
 
 **Q: What if a client keeps unapproving without clear feedback?**
 A: Contact them outside Brande.ai to clarify requirements. Consider scheduling a quick call to align on brand voice, messaging, or expectations. Document what they approve/reject to identify patterns.

@@ -2,6 +2,9 @@
 
 Generated content is never final. Brand DNA ensures the output is aligned and on-voice—but refinement is your control panel. The chat-based editor lets you request modifications, regenerate sections, and iterate without leaving the project. Up to 20 revision snapshots track your path from draft to published.
 
+![Edit, Refine, and Regenerate Content — Brande.ai](./images/edit-refine-regenerate.jpg)
+
+
 ## The Editor Interface
 
 When you open a project, you see:
@@ -89,9 +92,8 @@ When you request a modification in chat:
 Brande.ai saves up to **20 revision snapshots** of your project. Access them to:
 - Track what changed between versions
 - Revert to an earlier version if a change didn't work
-- Compare two versions side-by-side
 
-[NEEDS REVIEW: exact UI label and location for revision history access - may be a dropdown, sidebar button, or menu option]
+Revision history lives inline at the top of the editor. When the project has more than one revision, a **‹** / **›** chevron pair plus a **Revision X of N** label appears above the editor. Step through revisions with the chevrons; when viewing any non-current revision, a pencil icon labelled **Make this the current version** appears so you can promote it. There is no separate revisions sidebar or menu — everything is in this inline strip.
 
 **Typical revision snapshots:**
 1. First generation (after clicking Done)
@@ -235,7 +237,7 @@ Avoid endless revisions. Get one round of feedback from your team or client, imp
 → The Brand DNA may be pulling corporate tone. Request: "Use the voice of [specific founder/person], not corporate marketing."
 
 **"I want to go back to an earlier version"**
-→ Use revision history to revert. [NEEDS REVIEW: exact path to revision history]
+→ Open the project, use the **‹** chevron above the editor to step back to the revision you want, then click the **Make this the current version** pencil icon to promote it.
 
 **"Changes to one section are affecting another section"**
 → Request each section change separately. Request full document rewrites only when you want comprehensive changes.

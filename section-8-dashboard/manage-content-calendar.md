@@ -2,6 +2,9 @@
 
 Your content calendar is where strategy becomes schedule.
 
+![View and Manage Content Calendar — Brande.ai](./images/manage-content-calendar.jpg)
+
+
 Drag projects onto dates, set publishing deadlines, view your content plan in weekly/monthly/quarterly views, and stay on track without context-switching to external tools.
 
 ## Access the Content Calendar
@@ -159,7 +162,7 @@ The project is now scheduled for that date.
 
 ### Calendar Context Menu
 
-[NEEDS REVIEW: whether you can right-click a date to create a new project directly on that date]
+There is no right-click context menu in the current calendar. To schedule a new project on a specific date, use the project's **Add to Calendar** button or drag a pending project from the sidebar into the date cell.
 
 ## Rescheduling Projects
 
@@ -185,9 +188,13 @@ The calendar updates immediately.
 
 ## Filtering and Searching
 
-[NEEDS REVIEW: whether the calendar supports filters (by project status, channel, folder, assigned team member) or search within the calendar view]
+The Content Calendar today does not include built-in filters by status, channel, folder, or assignee, and there is no in-calendar search box. To narrow what you see:
 
-Potential filter options:
+- Switch brands using the brand switcher to scope the calendar to a single client
+- Use the **Project Search** modal (Modifier+Shift+P) to find a specific project, then click through to it
+- Use folder structure to keep brand work segmented
+
+For reference, filter dimensions that the team has discussed (but are not yet shipped):
 - **By Status** — Show only Planning, In Progress, Published, etc.
 - **By Channel** — Show only LinkedIn, Blog, Email projects
 - **By Folder** — Show only projects from a specific folder
@@ -265,13 +272,13 @@ A: Make sure you're clicking the drag handle (usually a special icon or area), n
 A: If you're managing multiple brands, make sure you've selected the right brand in the profile dropdown. The calendar should only show projects from the currently selected brand.
 
 **Q: How do I delete a scheduled project?**
-A: Open the project and look for **Delete** or **Remove** option. [NEEDS REVIEW: whether deleting removes it from calendar or just marks it as archived]
+A: Open the project and use the toolbar's delete action. Deleting the project removes it from the calendar entirely. To keep the project but unschedule it, clear the publish date instead.
 
 **Q: Can I print or export the calendar?**
-A: [NEEDS REVIEW: whether export/print functionality exists]
+A: There is no built-in calendar export today. To share the schedule, take a screenshot of the relevant week or month, or copy project rows from the Projects list to a spreadsheet.
 
 **Q: What if I schedule something for the past?**
-A: [NEEDS REVIEW: whether the system allows backdating or prevents it]
+A: The calendar does not block backdating — you can drag a project to a past date or create an event on a past slot. Past dates are dimmed visually but otherwise behave normally. Use this deliberately to log work that already shipped, but avoid accidental backdating when you mean "today".
 
 ## Related Topics
 

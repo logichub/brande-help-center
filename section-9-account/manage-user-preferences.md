@@ -1,129 +1,83 @@
 # Manage User Preferences
 
-User preferences control your personal settings in Brande.ai beyond theme and language.
+User preferences in Brande.ai are intentionally minimal today. Almost all of what other tools call "user preferences" lives on three pages you've already read about:
 
-These preferences determine notifications, dashboard layout, default behaviors, and other account-level customizations.
+![Manage User Preferences — Brande.ai](./images/manage-user-preferences.jpg)
 
-[NEEDS REVIEW: user preferences beyond theme/language - may overlap with 9.1 and 9.3. Cover any remaining preference settings.]
 
-## Available Preference Settings
+- **Account** (`/account`) — your name, profile picture, password, and the **Settings** card with **Language** and **Toggle Theme**. See [Access and Update Account Settings](/section-9-account/access-update-settings).
+- **Update Theme and Language Preferences** — the same two controls, in detail. See [Update Theme and Language](/section-9-account/theme-language-preferences).
+- **Notifications** (`/notifications`) — invite responses and recent activity. See [Manage Notifications](/section-9-account/manage-notifications).
 
-Based on common user preference categories, Brande.ai may include:
+This article covers what's actually configurable today and where each setting lives. If a preference you expect isn't listed here, it doesn't exist yet — see [Submit Product Feedback](/section-10-help/submit-feedback) to request it.
 
-### Notification Preferences
-[NEEDS REVIEW: notification settings - email frequency, push notifications, notification types to receive]
+## What you can configure today
 
-Control how and when you receive notifications about:
-- Project approvals
-- Team member activity
-- Content recommendations
-- System updates
-- Plan reminders
+### Profile (Account page)
+- Profile picture
+- First name and last name
+- Password (via the embedded **Change Password** card)
 
-See [Manage Notifications](/section-9-account/manage-notifications) for details.
+### Workspace settings (Account page → Settings card)
+- **Language** — opens the language side panel; selection is stored on your Directus user record (account-wide)
+- **Toggle Theme** — light or dark; stored as `colorMode.preference` in client storage (account-wide)
 
-### Default Timezone
-[NEEDS REVIEW: whether timezone setting exists]
+### Notifications
+- Inbox of invites and activity at `/notifications`
+- No granular email-frequency, push, or per-type toggles today — see [Manage Notifications](/section-9-account/manage-notifications)
 
-Set your local timezone for:
-- Content scheduling dates
-- Calendar display
-- Recommendation timing
-- Notification delivery
+## What is NOT a preference today
 
-### Email Digest Frequency
-[NEEDS REVIEW: whether email digest settings exist]
+These commonly-expected settings do not exist in Brande.ai yet:
 
-Choose how often you receive email digests:
-- Daily — One email with day's summary
-- Weekly — One email with week's summary
-- Never — Disable email digests
-
-### Dashboard Widgets
-[NEEDS REVIEW: whether dashboard customization is supported]
-
-If dashboard is customizable, you may be able to:
-- Show/hide specific widgets
-- Reorder widget layout
-- Set widget refresh frequency
-
-### Default Project Template
-[NEEDS REVIEW: whether you can set a default template for new projects]
-
-Choose a template that opens by default when you create a new project, saving you from selecting it each time.
-
-### Default Content Channel
-[NEEDS REVIEW: whether you can set a default channel for new projects]
-
-Set a primary channel (LinkedIn, Blog, Email, etc.) to pre-fill when creating projects.
+- Default timezone (calendar uses your browser's local timezone implicitly)
+- Email digest frequency (no digest email today)
+- Dashboard widget layout (the dashboard is fixed)
+- Default project template (you choose a template each time you create a project)
+- Default content channel (set per project in the variable dialog)
+- Do Not Disturb hours
+- Per-brand notification preferences
 
 ## Access User Preferences
 
-Depending on where Brande.ai houses preferences:
+There is no separate **Preferences** route. All user-scoped settings live on `/account` (the profile page):
 
-**Option A: Account > Preferences**
-Navigate to Account page (Ctrl+Alt+A) and look for a Preferences section in the sidebar.
-
-**Option B: Account > Settings**
-Navigate to Account > Settings and look for preference options beyond theme/language.
-
-**Option C: Profile Dropdown > Preferences**
-Click your profile icon (top right) and select Preferences from the dropdown.
-
-[NEEDS REVIEW: exact location of user preferences in the UI]
+1. Press **Ctrl/Alt+A** or click your avatar and choose **Account**
+2. The Account page shows your profile info, password, and a **Settings** card with **Language** and **Toggle Theme**
 
 ## Updating Preferences
 
-For each preference setting:
+For profile fields (name, picture):
+1. Edit the field on the Account page
+2. Click **Update**
+3. A success toast confirms the change
 
-1. Navigate to the preference
-2. Click to edit the current value
-3. Select or enter your new preference
-4. Click **Save** or **Update** button
-5. Success message confirms the change
+For language and theme:
+1. Click **Language** or **Toggle Theme** on the Account page's Settings card
+2. Selection is saved immediately
 
-Preferences are saved immediately and apply to all your future actions.
+## Brand-specific vs account-wide
 
-## Default Behavior Settings
+The settings on this page are **account-wide** — they apply across every brand you have access to.
 
-Some preferences affect what Brande.ai does by default:
-
-**Default Template for New Projects**
-If set, new projects open with this template selected, saving you a click.
-
-**Default Channel for New Projects**
-If set, new projects pre-fill this channel, saving time for frequently-used channels.
-
-**Default Folder for New Projects**
-[NEEDS REVIEW: whether you can set a default folder]
-
-If set, new projects default to this folder, helping with organization.
-
-**Auto-Save Drafts**
-[NEEDS REVIEW: whether auto-save is a preference]
-
-If enabled, projects save automatically as you type. Reduces data loss risk.
+Brand-specific settings live on the brand itself (Brand Profile, Brand Voice, Brand Asset Vault, Reference Materials, Custom Fields, Snippets, Checklist Templates, API Keys). Switching brands changes those, not your account preferences.
 
 ## Troubleshooting
 
 **Q: I can't find a specific preference setting.**
-A: Not all possible settings may be implemented. Check the account sidebar or look in Account > Settings. If a preference you want doesn't exist, submit feedback (profile dropdown > "Share Feedback").
+A: It probably doesn't exist yet. The current preference surface is intentionally small — profile, password, language, theme. Submit a feature request via the help dialog's **Share Product Feedback** card if you'd like to see more.
 
 **Q: I changed a preference but it's not taking effect.**
-A: Refresh your browser. Some preference changes require a page reload to take effect.
+A: Refresh your browser. Language changes in particular take effect after a page reload.
 
 **Q: Can I reset all preferences to default?**
-A: [NEEDS REVIEW: whether a "reset to defaults" option exists]
-
-Look for a "Reset All" or "Restore Defaults" button, or contact support.
+A: There is no built-in "reset to defaults" action. Switch language or theme back manually.
 
 **Q: Do my team members see my preferences?**
-A: No. Preferences are personal. Your team members have their own preference settings.
+A: No. Profile, language, and theme are user-scoped. Your team members have their own.
 
 **Q: Which preferences apply only to my brand vs. all my brands?**
-A: [NEEDS REVIEW: whether some preferences are brand-specific or account-wide]
-
-Most preferences are account-wide (apply to all your brands). Brand-specific settings are in Brand Profile.
+A: Everything on this page is account-wide. Brand-specific data (voice, references, custom fields, etc.) lives on the brand itself.
 
 ## Related Topics
 

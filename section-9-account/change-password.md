@@ -2,11 +2,14 @@
 
 Your password is your account security. Update it regularly and keep it confidential.
 
+![Change Your Password — Brande.ai](./images/change-password.jpg)
+
+
 Change it anytime from your Account page in under one minute.
 
 ## Open Change Password Section
 
-1. Go to your Account page (**Ctrl+Alt+A** or click profile icon > Account)
+1. Go to your Account page (click profile icon > Account)
 2. Look for **Change Password** section
 3. You see three fields ready for input
 
@@ -23,9 +26,11 @@ This prevents someone with access to your unlocked computer from changing your p
 Enter your new password.
 
 Password requirements:
-- Minimum [NEEDS REVIEW: password length requirement, e.g., 8 characters]
+- Minimum 8 characters
 - May include: uppercase, lowercase, numbers, symbols
 - Cannot be the same as your current password
+
+The form shows a live strength indicator with warnings and suggestions as you type.
 
 Create a strong password:
 - Mix uppercase and lowercase letters (Aa)

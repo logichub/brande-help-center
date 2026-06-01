@@ -2,6 +2,9 @@
 
 Turn your projects into professional documents. Export any project as a PDF or Word file in seconds—perfect for sharing with stakeholders, clients, or your own records.
 
+![Export Content to DOCX or PDF — Brande.ai](./images/export-content.jpg)
+
+
 ## Export your project
 
 While editing a project, look for the **Export** button (file download icon) in the top toolbar:
@@ -47,11 +50,11 @@ Word exports include:
 
 The file saves as `[ProjectName].docx` to your Downloads folder.
 
-[Note: Export uses @turbodocx/html-to-docx backend for reliable Word conversion.]
+Export is triggered from the editor toolbar via a share-network-style icon button (no visible "Export" label). The menu exposes **PDF** (rendered client-side via html2pdf) and **DOCX** (server-side via the `/server/projects/exports` endpoint, using @turbodocx/html-to-docx for reliable Word conversion).
 
 ## Export limitations
 
-- Client collaborators cannot export projects [NEEDS REVIEW: verify client export restrictions]
+- Both Brand Collaborators and Client Collaborators can export projects — there is no role-based export gate today
 - Very long projects may take a few seconds to export
 - Some advanced editor formatting may not transfer perfectly to Word
 - Collaborator comments are not included in exports

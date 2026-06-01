@@ -2,6 +2,9 @@
 
 Brand assets are documents, images, videos, and links that define your brand visually and strategically.
 
+![Upload Brand Assets — Brande.ai](./images/upload-brand-assets.jpg)
+
+
 Uploading high-quality assets strengthens your Brand DNA and improves every piece of content and image Brande.ai generates.
 
 ## What Brand Assets Are
@@ -19,7 +22,7 @@ The more examples you provide, the better Brande.ai understands your identity.
 
 ## Where to Upload Assets
 
-Navigate to **Account** → **Brand Materials**.
+Navigate to **Account** → **Brand Asset Vault**.
 
 You'll see a file upload area with options:
 
@@ -27,9 +30,9 @@ You'll see a file upload area with options:
 - **Click to browse** and select files from your computer
 - **Paste a link** to reference URLs without uploading
 
-Supported file types: PDF, Word, images (PNG, JPG, GIF), video (MP4, MOV), audio (MP3, WAV)
+Supported file types: PDF, Word, images (PNG, JPG, WEBP), video (MP4, MOV), audio (MP3, WAV)
 
-File size limit: 100 MB per file
+File size limit: 5 MB per file
 
 ## Types of Assets to Upload
 
@@ -167,7 +170,7 @@ Fresh assets = fresh intelligence for Brande.ai.
 ## Troubleshooting Asset Upload
 
 **File won't upload:**
-- Check file size (max 100 MB)
+- Check file size (max 5 MB)
 - Check file format (PDF, image, video, audio)
 - Try a different file if the original is corrupted
 

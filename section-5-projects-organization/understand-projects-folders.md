@@ -2,6 +2,8 @@
 
 Projects are your individual content pieces. Folders organize projects into meaningful groups. Together, they give you structure at any scale—from a single post to a multi-channel campaign.
 
+![Understand Projects, Folders, and Campaigns — Brande.ai](./images/save-to-folders.jpg)
+
 ## What is a project?
 
 A project is one piece of content: a blog post, social media caption, email, webpage copy, or any standalone asset. Each project:
@@ -60,6 +62,7 @@ Create a folder for:
 - Content by team member (e.g., "Sarah's Blog Drafts")
 
 Don't create a folder for:
+
 - Every single project (too granular)
 - Temporary groupings (use project status instead)
 - Archived content (mark projects "Archived" instead)
@@ -72,9 +75,9 @@ The Projects sidebar shows up to 10 projects at the root level (not in folders).
 - Use folders to keep root level clean
 - Use Project Search (Modifier+Shift+P) to find projects across all folders
 
-## Campaigns [NEEDS REVIEW: verify if this is a planned feature]
+## Campaigns
 
-[NEEDS REVIEW: Clarify whether "Campaigns" is a distinct organizational level separate from folders, or if campaigns are created using folders + project grouping.]
+There is no separate **Campaigns** entity in Brande.ai today. "Campaign" is a usage pattern, not a feature: group related projects in a shared folder (for example, "Q3 Product Launch") and use Custom Fields to tag campaign metadata across projects. The Content Calendar then renders all those projects together by date.
 
 ## Related Topics
 

@@ -2,6 +2,9 @@
 
 You have a brand strategy and daily recommendations, but nothing happens until you open a blank canvas and start creating. Creating a new project is where Brand DNA transforms into shipping content.
 
+![Create a New Content Project — Brande.ai](./images/create-new-project.jpg)
+
+
 The new project dialog guides you through template selection, variables, and brand voice alignment in three steps—setting up for AI-assisted generation instead of AI-powered guessing.
 
 ## Step 1: Open the New Project Dialog
@@ -12,7 +15,7 @@ Press **Alt+N** (Windows/Linux) or **Control+N** (Mac) from anywhere in the app.
 **Option B: Click the button**
 Navigate to your Projects page and click **Create New Project** in the top right. The dialog opens immediately.
 
-The dialog shows the title "Choose your project type" with a subtitle and a link to **Ask BRAND-E** (a template for custom content requests).
+The dialog shows the title "Choose your project type" with a subtitle and a link to **Ask Brande.ai** (a template for custom content requests).
 
 ## Step 2: Find Your Template
 
@@ -22,7 +25,7 @@ The new project dialog displays templates in three ways:
 Type at least 3 characters in the search field. Results appear instantly. If no templates match, you'll see "{search term} project type not found."
 
 **Browse by category:**
-Templates are grouped into categories: Ideation, Long-Form Content, LinkedIn Post, Website Copy, Write from Scratch, Repurpose Content, and Ask BRAND-E.
+Templates are grouped into categories: Content Strategy & Ideation, Copywriting, Social Media, SEO & Web Content, and Interactive Chat / Research (which includes Ask Brande.ai).
 
 Click any category to expand and see available templates in that category.
 

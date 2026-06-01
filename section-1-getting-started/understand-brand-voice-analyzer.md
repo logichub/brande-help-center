@@ -2,6 +2,9 @@
 
 The Brand Voice Analyzer is how Brande.ai learns to speak like your brand.
 
+![Understand the Brand Voice Analyzer — Brande.ai](./images/understand-brand-voice-analyzer.jpg)
+
+
 It listens to your content, extracts voice patterns, and creates a profile that shapes every piece of content you generate.
 
 Without voice analysis, your output sounds generic.

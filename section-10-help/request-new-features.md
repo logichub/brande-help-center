@@ -2,6 +2,9 @@
 
 Have an idea that would make Brande.ai better?
 
+![Request New Features — Brande.ai](./images/request-new-features.jpg)
+
+
 Submit a feature request and watch the community vote on it. The most-requested features make it to the development roadmap.
 
 ## What's a Feature Request?
@@ -237,9 +240,7 @@ The team has decided this won't be built. If you disagree, comment on the reques
 A: It may take a few minutes to appear. Refresh the page. If it still doesn't appear after 10 minutes, contact support.
 
 **Q: Can I edit my feature request after submitting it?**
-A: [NEEDS REVIEW: whether requests can be edited]
-
-If not, you can comment on your request to add more details.
+A: Editing depends on the Canny.io board's settings. If editing isn't available, add a comment to your post to clarify or extend your request.
 
 **Q: My feature request was closed. Can I appeal?**
 A: Yes. Comment on the closed request explaining why it's important. The team will reconsider if new information changes the calculus.

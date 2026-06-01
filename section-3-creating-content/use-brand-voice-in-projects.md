@@ -2,6 +2,9 @@
 
 You have one Brand DNA but multiple voices. Your CEO voice is different from your CMO voice. Your founder vulnerability differs from your marketer authority. Brand Voice profiles let you generate content in different voices—all aligned to your Brand DNA, all authentic to your people, all publishable under your brand.
 
+![Use Brand Voice Profiles in Projects — Brande.ai](./images/use-brand-voice-in-projects.jpg)
+
+
 Without voice selection, every post sounds the same. With voice selection, your audience hears multiple authentic perspectives that add dimension to your brand narrative.
 
 ## What Is a Brand Voice Profile?
@@ -33,7 +36,7 @@ Some templates hide Brand Voice selection:
 - Ideation
 
 **Templates without voice selection:**
-- Ask BRAND-E
+- Ask Brande.ai
 - Certain specialized templates (varies by plan)
 
 ## How to Create a Brand Voice Profile

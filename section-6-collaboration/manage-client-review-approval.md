@@ -2,6 +2,9 @@
 
 Client approvals are core to agency workflow. Instead of email ping-pong, manage the entire review cycle inside Brande.ai. Clients see what matters and approve when ready—without access to your backend or brand settings.
 
+![Manage Client Review and Approval — Brande.ai](./images/manage-client-review-approval.jpg)
+
+
 ## How client approval works
 
 Your client or stakeholder is a collaborator with a special role:
@@ -30,12 +33,13 @@ The client opens the link and can:
 
 Note: Clients cannot edit the project content directly. You make changes based on their feedback.
 
-## Add a client as a team member [NEEDS REVIEW: verify client account creation flow]
+## Add a client as a team member
 
 For ongoing client access (multiple projects):
 
-1. Invite the client to your brand as a collaborator
-2. Assign them the "Client Collaborator" role
+1. Open the **Invite** dialog from the Account area
+2. Enter the client's email and select the brand
+3. In the **Select Role** dropdown, choose **Client Collaborator**
 3. They get access to all projects you share
 4. They use one account across all your projects
 
@@ -115,12 +119,12 @@ Project approval requires your plan to include the **project_approval** feature.
 
 ## Multiple client approvers
 
-If multiple stakeholders need to approve:
+If multiple stakeholders need to weigh in:
 
-1. Invite all clients to the project
-2. Each can comment and see approval status
-3. [NEEDS REVIEW: does system require all to approve, or is first approval sufficient?]
-4. Approval metadata shows who approved
+1. Invite all clients to the brand as Client Collaborators
+2. Each can comment and see the project's approval status
+3. **First approval is sufficient** — the project moves to **Approved** as soon as one approver clicks **Approve**, and the approval banner shows that approver's name and timestamp. There is no quorum or multi-approver requirement.
+4. To require revisions after approval, click **Unapprove** to clear the approval and return the project to draft.
 
 ## Approval workflow best practices
 

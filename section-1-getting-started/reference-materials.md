@@ -2,6 +2,9 @@
 
 Reference materials are real data, statistics, case studies, and examples that anchor your content in truth.
 
+![Use Reference Materials to Ground Your Content — Brande.ai](./images/reference-materials.jpg)
+
+
 When you add reference materials, Brande.ai weaves them into content generation—replacing vague claims with specific evidence.
 
 ## What Reference Materials Are
@@ -21,7 +24,7 @@ When Brande.ai creates content about your offering, it references these material
 
 ## Where to Add Reference Materials
 
-Navigate to **Account** → **Content Reference**.
+Navigate to **Account** → **Reference Materials**.
 
 You'll see a list of existing materials and an add button.
 

@@ -4,6 +4,9 @@
 
 **Direct Answer:** The Content Agent can't fetch recommendations due to incomplete Brand DNA or server issues.
 
+![Content Agent Not Working — Brande.ai](./images/content-agent.jpg)
+
+
 ### How to Fix This
 
 1. **Complete your Brand DNA**
@@ -18,9 +21,9 @@
    - If disabled, contact support to enable it for your plan
 
 3. **Check your subscription**
-   - Content Agent requires Pro plan or higher
+   - Content Agent requires Growth or Agency plan
    - Verify your current plan includes this feature
-   - Trial accounts have limited recommendations (3 per week)
+   - Content Agent is disabled during the trial period
 
 4. **Refresh the page**
    - Reload the browser to clear stale data
@@ -51,11 +54,11 @@
    - Add brand voice examples with tone
    - Richer Brand DNA produces better recommendations
 
-3. **Verify your plan quota**
-   - Trial: 3 recommendations per week
-   - Pro: 10 recommendations per day
-   - Team/Agency: Unlimited
-   - If you've hit your limit, upgrade or wait until reset
+3. **Verify your plan**
+   - Creator plan: no Content Agent access
+   - Growth plan: unlimited recommendations
+   - Agency plan: unlimited recommendations
+   - Trial accounts: Content Agent is disabled during trial
 
 4. **Manually create content instead**
    - Use the Generate Content feature directly
@@ -109,13 +112,13 @@
 ### How to Fix This
 
 1. **Check your plan type**
-   - Go to Account Settings > Subscription
-   - Content Agent is included in Pro, Team, and Agency plans
-   - Trial and Starter plans don't have access
+   - Go to Account Settings > My Plan
+   - Content Agent is included in Growth and Agency plans
+   - Creator plan and trial accounts don't have access
 
 2. **Upgrade to a plan that includes it**
-   - Pro plan: Includes Content Agent
-   - Cost: Check Billing page for current pricing
+   - Growth or Agency plan includes Content Agent
+   - Cost: Check the Billing page for current pricing
    - Upgrade takes effect immediately
 
 3. **Contact support if you should have access**

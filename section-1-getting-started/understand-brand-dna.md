@@ -2,6 +2,9 @@
 
 Your Brand DNA is the single source of truth about who you are, what you stand for, and how you communicate.
 
+![Understand Brand DNA — Brande.ai](./images/understand-brand-dna.jpg)
+
+
 It is not an optional feature.
 
 It is the foundation that powers Content Agent recommendations, content generation, and image creation.

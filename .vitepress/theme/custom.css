@@ -108,6 +108,7 @@
 }
 
 .VPButton.alt {
+  border-color: var(--vp-button-alt-text) !important;
   border-radius: 8px;
   font-weight: 500;
 }
@@ -150,8 +151,13 @@
    NAV
    ===================== */
 .VPNav {
-  backdrop-filter: blur(14px);
   border-bottom: 1px solid var(--vp-c-divider);
+}
+
+@media (min-width: 768px) {
+  .VPNav {
+    backdrop-filter: blur(14px);
+  }
 }
 
 .VPNavBarTitle .title {

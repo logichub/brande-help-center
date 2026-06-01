@@ -2,6 +2,9 @@
 
 Brand materials are the documents, links, videos, and images that define your brand identity.
 
+![Update Your Brand Materials — Brande.ai](./images/update-brand-materials.jpg)
+
+
 As your company evolves, your brand materials should too.
 
 Outdated materials create outdated Brand DNA and degraded content generation.
@@ -64,11 +67,11 @@ Remove what's outdated.
 
 Keep what's current and relevant.
 
-## How to Update Brand Materials
+## How to Update Brand Asset Vault
 
-### 1. Navigate to Brand Materials
+### 1. Navigate to Brand Asset Vault
 
-Go to **Account** → **Brand Materials**.
+Go to **Account** → **Brand Asset Vault**.
 
 You'll see all uploaded materials organized by type.
 

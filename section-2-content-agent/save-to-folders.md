@@ -2,6 +2,9 @@
 
 After generating content from a Content Agent brief, the new project appears in your workspace. Organize it immediately by moving it into a folder or campaign.
 
+![Save Content Agent Outputs to Folders or Campaigns — Brande.ai](./images/save-to-folders.jpg)
+
+
 ## What Happens After You Generate
 
 When you click **"Generate"** on a customized brief, Brande.ai creates a project in your workspace with:

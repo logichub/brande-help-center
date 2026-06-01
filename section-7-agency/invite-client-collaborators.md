@@ -2,6 +2,9 @@
 
 Client collaborators need to review and approve your content before publication. Grant them read-only access to projects, approval rights, and nothing else.
 
+![Invite Client Collaborators — Brande.ai](./images/invite-client-collaborators.jpg)
+
+
 Brande.ai handles the invitation, role assignment, and access control automatically.
 
 ## Step 1: Open the Invite Modal
@@ -40,28 +43,26 @@ Dropdown displays:
 
 You can only invite them to brands you have access to.
 
-[NEEDS REVIEW: whether you can invite one user to multiple brands in a single invite action, or if it's one brand per invitation]
-
-If you need to add them to multiple brands, you may need to send separate invites—one per brand.
+The invite dialog accepts one brand per invitation — to add the same person to multiple brands, send a separate invite for each.
 
 ## Step 4: Select the Role
 
 Choose the collaborator's role:
 
-**Client Collaborator (Read-Only + Approval)**
+Brande.ai exposes exactly two roles in the invite dialog:
+
+**Brand Collaborator** (full editing access)
+- Can view, create, and edit projects for the brand
+- Can edit Brand Profile, Brand Voice, Reference Materials, and other brand settings
+- For internal team members and agency staff
+
+**Client Collaborator** (read-only with approval rights)
 - Can view all projects and content for this brand
 - Can approve or unapprove projects before publication
 - Cannot edit Brand Profile, create projects, or delete content
-- Perfect for clients, stakeholders, and reviewers
+- For clients, stakeholders, and reviewers
 
-**Agency Admin (Full Access)**
-[NEEDS REVIEW: whether this is available as an invite option, or if you can only invite as read-only collaborators]
-- Full access to Brand Profile, projects, and content
-- Can create, edit, and delete projects
-- Can manage Brand DNA and brand settings
-- For internal team members only
-
-Select **Client Collaborator** for external clients and stakeholders.
+Select **Client Collaborator** for external clients and stakeholders, **Brand Collaborator** for everyone who needs to edit.
 
 ## Step 5: Send Invite
 
@@ -113,23 +114,17 @@ They see a "Premium Feature" gate or disabled button if they try to access restr
 After sending an invite:
 
 **Resend an Invite**
-[NEEDS REVIEW: whether there's a way to resend an invite if the collaborator didn't receive the original email]
+There isn't a one-click resend in the current dialog. If the collaborator didn't receive the original email, send a new invite to the same address.
 
 **Remove Access**
-[NEEDS REVIEW: whether you can remove a collaborator from a brand after they've joined]
+Remove the user from the brand using your standard team-management workflow. Once they're no longer a member of the brand, links and access stop working.
 
 **Change Role**
-[NEEDS REVIEW: whether you can change a collaborator's role after they've been invited]
-
-Check the **Manage Collaborators** section in Account sidebar (or similar) for these options.
+There is no in-app role-change action today. To switch a user from Brand Collaborator to Client Collaborator (or vice versa), remove and re-invite them with the new role.
 
 ## Bulk Invites
 
-[NEEDS REVIEW: whether you can invite multiple users at once, or paste a list of emails to send batch invitations]
-
-If you have 5 client stakeholders to invite to the same brand, you may need to:
-- Send individual invites through the modal five times, OR
-- Use a bulk invite feature (if available)
+Bulk invites are not supported in the dialog — send invites one at a time. For five client stakeholders on the same brand, that means five separate invites.
 
 ## Approval Workflow Best Practices
 
@@ -158,10 +153,10 @@ A: Check your email address for typos. Resend the invite. Ask them to check spam
 A: Yes. They receive an email invite with a link to create an account or log in. They don't need to pre-create an account.
 
 **Q: What if they approve a project but I want to unapprove it?**
-A: [NEEDS REVIEW: whether you can override a collaborator's approval status as the brand owner]
+A: Any user with access to the project can click **Unapprove** to clear the approval. The project returns to draft and can be revised.
 
 **Q: Can I invite the same person to multiple brands?**
-A: Yes, but you may need to send separate invites for each brand. [NEEDS REVIEW: whether bulk brand invites are supported]
+A: Yes — send a separate invite per brand. There is no multi-brand invite shortcut.
 
 ## Related Topics
 
