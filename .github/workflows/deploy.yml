@@ -46,8 +46,6 @@ jobs:
           path: .vitepress/dist
 
   deploy:
-    # REMOVE the line below when ready to go public
-    # if: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
