@@ -379,6 +379,10 @@ export default defineConfig({
             text: "Manage Notifications",
             link: "/section-9-account/manage-notifications",
           },
+          {
+            text: "Style Guide Rules",
+            link: "/section-9-account/style-guide-rules",
+          },
         ],
       },
       {
