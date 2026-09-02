@@ -44,6 +44,7 @@ These change when you switch brands (using the profile dropdown):
 - **Snippets** — Create reusable text blocks
 - **Custom Fields** — Configure project metadata for your brand
 - **API Keys** — Create and manage API keys (workspace-wide)
+- **Style Guide Rules** — Configure writing rules for content Brande.ai generates
 
 **Workspace Settings**
 - **Settings** — Language, theme, and other workspace preferences
@@ -237,6 +238,14 @@ Unlike brand-specific settings, checklists apply across all your brands.
 
 See [Create Custom Content Checklists and Workflows](/section-7-agency/custom-checklists-workflows) for detailed guidance on creating and managing checklists.
 
+## Style Guide Rules
+
+Navigate to **Account > Style Guide Rules** to configure mechanical writing constraints — active voice, banned words, sentence length, punctuation, and more — that apply to all content Brande.ai generates for the current brand.
+
+This section is brand-specific and layers on top of Brand Voice rather than replacing it.
+
+See [Style Guide Rules](/section-9-account/style-guide-rules) for detailed guidance on each rule category.
+
 ## Settings (Workspace Preferences)
 
 Navigate to **Account > Settings** for workspace-level preferences.
@@ -289,3 +298,4 @@ A: Email changes aren't exposed in account settings today. Submit a support tick
 - [Use Quick Actions and Shortcuts](/section-8-dashboard/quick-actions-shortcuts)
 - [Complete Your Brand Profile Step by Step](/section-1-getting-started/complete-brand-profile)
 - [Access and Update Account Settings](/section-9-account/access-update-settings)
+- [Style Guide Rules](/section-9-account/style-guide-rules)
