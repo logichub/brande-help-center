@@ -12,8 +12,8 @@ export default defineConfig({
   // Clean URLs: /section-1-getting-started/complete-brand-profile instead of .html
   cleanUrls: true,
 
-  // Ignore README.md files (not meant for publishing)
-  srcExclude: ["**/README.md", "**/TODO.md", "docs/**", "scripts/**", "**/CLAUDE.md"],
+  // Repo/meta docs — not meant for publishing to the public site
+  srcExclude: ["**/README.md", "**/CONTRIBUTING.md", "**/TODO.md", "docs/**", "scripts/**", "**/CLAUDE.md"],
 
   // Warn on dead links instead of failing the build (some articles are still WIP)
   ignoreDeadLinks: true,
@@ -404,6 +404,10 @@ export default defineConfig({
           {
             text: "Manage Notifications",
             link: "/section-9-account/manage-notifications",
+          },
+          {
+            text: "Style Guide Rules",
+            link: "/section-9-account/style-guide-rules",
           },
         ],
       },
