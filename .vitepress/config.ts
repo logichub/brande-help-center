@@ -13,7 +13,7 @@ export default defineConfig({
   cleanUrls: true,
 
   // Ignore README.md files (not meant for publishing)
-  srcExclude: ["**/README.md", "**/TODO.md", "docs/**", "scripts/**"],
+  srcExclude: ["**/README.md", "**/TODO.md", "docs/**", "scripts/**", "**/CLAUDE.md"],
 
   // Warn on dead links instead of failing the build (some articles are still WIP)
   ignoreDeadLinks: true,
@@ -156,6 +156,32 @@ export default defineConfig({
           {
             text: "Agent vs Manual Creation",
             link: "/section-2-content-agent/content-agent-vs-manual",
+          },
+        ],
+      },
+      {
+        text: "Campaign Studio",
+        collapsed: true,
+        items: [
+          {
+            text: "Understanding Campaign Studio",
+            link: "/section-11-campaign-studio/understanding-campaign-studio",
+          },
+          {
+            text: "Create a Campaign",
+            link: "/section-11-campaign-studio/create-a-campaign",
+          },
+          {
+            text: "Review Campaign Research",
+            link: "/section-11-campaign-studio/review-campaign-research",
+          },
+          {
+            text: "Generate the Blueprint",
+            link: "/section-11-campaign-studio/generate-and-approve-blueprint",
+          },
+          {
+            text: "Generate Content from a Blueprint",
+            link: "/section-11-campaign-studio/create-content-from-blueprint",
           },
         ],
       },
