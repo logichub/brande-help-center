@@ -160,6 +160,32 @@ export default defineConfig({
         ],
       },
       {
+        text: "Campaign Studio",
+        collapsed: true,
+        items: [
+          {
+            text: "Understanding Campaign Studio",
+            link: "/section-11-campaign-studio/understanding-campaign-studio",
+          },
+          {
+            text: "Create a Campaign",
+            link: "/section-11-campaign-studio/create-a-campaign",
+          },
+          {
+            text: "Review Campaign Research",
+            link: "/section-11-campaign-studio/review-campaign-research",
+          },
+          {
+            text: "Generate the Blueprint",
+            link: "/section-11-campaign-studio/generate-and-approve-blueprint",
+          },
+          {
+            text: "Generate Content from a Blueprint",
+            link: "/section-11-campaign-studio/create-content-from-blueprint",
+          },
+        ],
+      },
+      {
         text: "Creating Content",
         collapsed: true,
         items: [

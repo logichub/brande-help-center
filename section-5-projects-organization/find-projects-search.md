@@ -79,6 +79,6 @@ For more powerful filtering, use the Projects page filters instead of just text 
 
 ## Related Topics
 
-- [Understand Projects, Folders, and Campaigns](/section-5-projects-organization/understand-projects-folders)
+- [Understand Projects and Folders](/section-5-projects-organization/understand-projects-folders)
 - [Organize Content at Scale](/section-5-projects-organization/organize-at-scale)
 - [Project Statuses](/section-5-projects-organization/understand-projects-folders)

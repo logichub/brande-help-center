@@ -34,6 +34,14 @@ features:
     details: Get AI-powered daily content recommendations and briefs.
     link: /section-2-content-agent/understanding-content-agent
   - icon:
+      light: /icons/Campaign-Studio-Light.svg
+      dark: /icons/Campaign-Studio-Dark.svg
+      width: 48
+      height: 48
+    title: Campaign Studio
+    details: Plan multi-channel campaigns from brief through research to an approved blueprint.
+    link: /section-11-campaign-studio/understanding-campaign-studio
+  - icon:
       light: /icons/Content-Creation-Light.svg
       dark: /icons/Content-Creation-Dark.svg
       width: 48
@@ -55,7 +63,7 @@ features:
       width: 48
       height: 48
     title: Projects & Organization
-    details: Manage projects, folders, campaigns, and exports.
+    details: Manage projects, folders, and exports.
     link: /section-5-projects-organization/understand-projects-folders
   - icon:
       light: /icons/Collaboration-Sharing-Light.svg
