@@ -13,7 +13,7 @@ export default defineConfig({
   cleanUrls: true,
 
   // Repo/meta docs — not meant for publishing to the public site
-  srcExclude: ["**/README.md", "**/CONTRIBUTING.md", "**/TODO.md", "docs/**", "scripts/**", "**/CLAUDE.md"],
+  srcExclude: ["**/README.md", "**/CONTRIBUTING.md", "**/TODO.md", "docs/**", "scripts/**"],
 
   // Warn on dead links instead of failing the build (some articles are still WIP)
   ignoreDeadLinks: true,
