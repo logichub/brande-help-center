@@ -97,4 +97,4 @@ Folders support drag-and-drop organization within your personal workspace. If yo
 
 - [How To Use Content Agent](/section-2-content-agent/use-content-agent)
 - [Customize a Content Brief Before Generating](/section-2-content-agent/customize-content-brief)
-- [How To Understand Projects, Folders, and Campaigns](/section-5-projects-organization/understand-projects-folders)
+- [Understand Projects and Folders](/section-5-projects-organization/understand-projects-folders)

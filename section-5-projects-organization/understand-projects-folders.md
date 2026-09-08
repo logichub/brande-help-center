@@ -1,8 +1,8 @@
-# Understand Projects, Folders, and Campaigns
+# Understand Projects and Folders
 
 Projects are your individual content pieces. Folders organize projects into meaningful groups. Together, they give you structure at any scale—from a single post to a multi-channel campaign.
 
-![Understand Projects, Folders, and Campaigns — Brande.ai](./images/save-to-folders.jpg)
+![Understand Projects and Folders — Brande.ai](./images/save-to-folders.jpg)
 
 ## What is a project?
 
@@ -77,10 +77,12 @@ The Projects sidebar shows up to 10 projects at the root level (not in folders).
 
 ## Campaigns
 
-There is no separate **Campaigns** entity in Brande.ai today. "Campaign" is a usage pattern, not a feature: group related projects in a shared folder (for example, "Q3 Product Launch") and use Custom Fields to tag campaign metadata across projects. The Content Calendar then renders all those projects together by date.
+Multi-channel campaigns have their own dedicated feature: **Campaign Studio**. It plans a campaign's strategy — research, positioning, channel plan, and launch timeline — before you generate any content, then lets you generate each planned asset straight into a project. See [Understanding Campaign Studio](/section-11-campaign-studio/understanding-campaign-studio).
+
+Folders are still the right tool for lighter-weight grouping that doesn't need a full campaign plan — for example, gathering a handful of related posts under one label (like "Q3 Product Launch") without running a research sprint first.
 
 ## Related Topics
 
 - [Find Projects Using Sidebar Search](/section-5-projects-organization/find-projects-search)
 - [Organize Content at Scale](/section-5-projects-organization/organize-at-scale)
-- [Project Statuses](/section-5-projects-organization/understand-projects-folders)
+- [Understanding Campaign Studio](/section-11-campaign-studio/understanding-campaign-studio)

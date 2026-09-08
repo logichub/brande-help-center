@@ -9,3 +9,4 @@ _preview/
 .claude/
 .env
 public/images/raw/
+CLAUDE.md

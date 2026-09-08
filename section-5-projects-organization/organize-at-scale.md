@@ -175,7 +175,7 @@ If you find yourself:
 
 ## Related Topics
 
-- [Understand Projects, Folders, and Campaigns](/section-5-projects-organization/understand-projects-folders)
+- [Understand Projects and Folders](/section-5-projects-organization/understand-projects-folders)
 - [Find Projects Using Sidebar Search](/section-5-projects-organization/find-projects-search)
 - [Manage Client Review and Approval](/section-6-collaboration/manage-client-review-approval)
 - [Content Calendar (coming soon)](/section-8-dashboard/manage-content-calendar)
