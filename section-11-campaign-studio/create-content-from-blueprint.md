@@ -7,7 +7,7 @@ A blueprint plans your campaign — this is where you turn each planned asset in
 
 ## Generate content for a planned asset
 
-On the **Channels & Assets** tab of your approved blueprint, each asset has a **Generate content** action. Clicking it:
+On the **Channels & Assets** tab of your approved blueprint, each asset has a **Create content** action. Clicking it:
 
 1. Prefills a title and the content template's input variables, drawing on your blueprint's big idea, positioning, audience, and core messages, plus that specific asset's own brief
 2. Opens the same project-creation dialog you'd see when starting a project manually or from a Content Agent brief

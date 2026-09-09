@@ -63,7 +63,7 @@
    - If your brand has multiple collaborators starting campaigns, they're all drawing from the same monthly allowance
 
 3. **Upgrade or wait**
-   - Click **Upgrade Now** on the limit banner to move to a plan with a higher (or unlimited) monthly quota
+   - Click **Upgrade Now** on the limit banner to move to a plan with a higher monthly quota
    - Otherwise, wait for next month's quota to reset
 
 ### If This Doesn't Work
