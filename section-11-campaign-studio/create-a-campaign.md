@@ -30,7 +30,7 @@ Click **New Campaign** to open the brief form:
 - **Launch window** (optional) — when you want this campaign to go live
 - **Channels** — where the campaign will run
 - **Known competitors** — prefilled from your brand's onboarding settings; add or remove as needed
-- **Reference URLs** (optional) — pages you want the research sprint to consider
+- **URLs to analyze** (optional) — pages you want the research sprint to consider
 
 You can **save as a draft** and come back later, or **start the research sprint** directly from the brief.
 
@@ -45,7 +45,7 @@ Campaign Studio's availability and monthly usage depend on your subscription pla
 - **Feature access** — If your plan doesn't include Campaign Studio, you'll see an upgrade banner instead of the dashboard content.
 - **Monthly run limit** — Each research sprint you start counts against a monthly quota (e.g., a handful of runs/month on lower tiers, more on Agency plans). Resuming a stuck or failed run does **not** use up an additional run. If you're on a brand with multiple collaborators, the quota is shared and counted against the brand owner's plan — collaborators don't carry a separate quota of their own.
 
-If you hit your limit, you'll see a message similar to: *"You've reached your monthly campaign limit. Upgrade your plan to unlock more."* Click **Upgrade Now**, or wait until next month's quota resets.
+If you hit your limit, you'll see a message similar to: *"You've reached your monthly campaign run limit. Upgrade your plan to run more."*
 
 Check your current plan and usage at **Account > My Plan**.
 
