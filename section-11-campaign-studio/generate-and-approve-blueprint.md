@@ -35,7 +35,7 @@ The blueprint view is organized into three tabs:
 
 ## Edit or approve
 
-You can edit any part of the blueprint and save your changes at any time. When you're happy with the plan, click **Approve** — this marks the blueprint as finalized for your team. You can still return to it later if your plans change.
+You can edit any part of the blueprint and save your changes at any time. When you're happy with the plan, click **Approve blueprint** — this marks the blueprint as finalized for your team. You can still return to it later if your plans change.
 
 ## Related Topics
 
