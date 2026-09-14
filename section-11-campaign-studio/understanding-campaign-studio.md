@@ -17,7 +17,7 @@ It does **not** generate finished content on its own. Campaign Studio's job stop
 
 Every campaign moves through the same stepper:
 
-1. **Brief** — You describe the campaign: objective, offer, audience, channels, competitors, and any constraints.
+1. **Brief** — You describe the campaign: objective, offer, audience, channels and any competitors.
 2. **Research** — Brande.ai runs a research sprint on your brief, investigating your audience, competitors, cultural and search trends, and how well different angles fit your brand voice.
 3. **Review** — You read through the research findings, section by section, and approve them (or leave a note asking for something different).
 4. **Blueprint** — Brande.ai generates a full strategic plan: a big idea, positioning, core messages, a channel and asset plan, and a launch timeline. You review it, edit anything you like, and approve it.
