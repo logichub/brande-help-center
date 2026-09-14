@@ -35,14 +35,20 @@ Complete troubleshooting documentation for Brande.ai users. Each guide covers co
    - "Something Went Wrong" errors
    - Agent disabled or grayed out
 
-6. **[Publishing and Integration Errors](/troubleshooting/publishing-integrations)**
+6. **[Campaign Studio Not Working](/troubleshooting/campaign-studio)**
+   - Research sprint stuck or failed
+   - Can't generate the blueprint
+   - Monthly campaign limit reached
+   - Campaign Studio not available on your plan
+
+7. **[Publishing and Integration Errors](/troubleshooting/publishing-integrations)**
    - Failed publish status
    - Expired integrations
    - Revoked integrations
    - Account selection issues
    - OAuth and token problems
 
-7. **[Account and Login Issues](/troubleshooting/account-login)**
+8. **[Account and Login Issues](/troubleshooting/account-login)**
    - "Invalid Email" validation
    - "Password Must Match" error
    - Password reset not arriving
@@ -90,6 +96,7 @@ Each troubleshooting document follows this structure:
 - Trial period has restrictions
 - Collaborator slots are full
 - API credits exhausted
+- Monthly Campaign Studio run limit reached
 
 ## Getting Help
 

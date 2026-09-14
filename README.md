@@ -1,5 +1,5 @@
 # Brande.ai Help Center
 
-Public. Will be published on brande.ai/help.
+Public. Published at https://help.brande.ai/.
 
 Do not add internal files, tracker, or dev tooling here.
