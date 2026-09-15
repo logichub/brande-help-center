@@ -28,7 +28,7 @@ There are two human checkpoints built into the process — you approve the resea
 
 ## Where to find it
 
-Look for **Campaign Studio** in the top navigation bar. It opens to a dashboard showing your active campaigns, how many blueprint-ready campaigns you have, and your monthly campaign-run usage against your plan.
+Look for the campaign icon <img src="./images/ic-outline-campaign.svg" width="20" height="20"> in the top navigation bar (hover it to see the "Campaigns" tooltip). It opens the Campaigns page, showing your active campaigns, how many blueprint-ready campaigns you have, and your monthly campaign-run usage against your plan.
 
 ## Plan availability
 

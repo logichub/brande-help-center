@@ -7,11 +7,11 @@ Every campaign starts with a short brief. Brande.ai uses it to scope the entire 
 
 ## Access Campaign Studio
 
-Click **Campaign Studio** in the topbar navigation. You'll land on the Campaign Studio dashboard.
+Click the campaign icon <img src="./images/ic-outline-campaign.svg" width="20" height="20"> in the topbar navigation — hover it to see the "Campaigns" tooltip. You'll land on the Campaigns page, your Campaign Studio dashboard.
 
-## The Campaign Studio dashboard
+## The Campaigns page
 
-The dashboard shows:
+The page shows:
 
 - Your active campaigns, as a list of cards with a status badge (Brief, Research, Review, or Blueprint)
 - Your monthly campaign-run usage against your plan's limit
@@ -20,7 +20,7 @@ The dashboard shows:
 
 ## Fill out the campaign brief
 
-Click **New Campaign** to open the brief form:
+Click **New campaign** to open the brief form:
 
 - **Campaign name**
 - **Objective** — Launch, Evergreen, Webinar, Waitlist, Reactivation, Event, or Other
