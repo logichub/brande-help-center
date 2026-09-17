@@ -7,7 +7,7 @@ Every campaign starts with a short brief. Brande.ai uses it to scope the entire 
 
 ## Access Campaign Studio
 
-Click the campaign icon <img src="./images/ic-outline-campaign.svg" width="20" height="20"> in the topbar navigation — hover it to see the "Campaigns" tooltip. You'll land on the Campaigns page, your Campaign Studio dashboard.
+Click the campaign icon <img src="./images/ic-outline-campaign.svg" width="20" height="20" alt="Campaigns icon" style="display:inline;"> in the topbar navigation — hover it to see the "Campaigns" tooltip. You'll land on the Campaigns page, your Campaign Studio dashboard.
 
 ## The Campaigns page
 
