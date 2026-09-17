@@ -206,7 +206,11 @@ is kept out of the built site by `srcExclude` in `.vitepress/config.ts`.
 ## Adding a new article
 
 1. Create a `.md` file in the correct section folder
-2. Add it to the sidebar in `.vitepress/config.ts`
+2. Add it to the sidebar in `.vitepress/config.ts`. Section folder numbers (`section-N-*`) are
+   stable IDs assigned in creation order, not display/sidebar order — a new section can be
+   inserted anywhere in the sidebar array regardless of its folder number. Don't renumber
+   existing folders to match sidebar position; the numbers appear in public URLs and renumbering
+   breaks them with no server-side redirect available.
 3. Use **root-relative** internal links (`/section-5-projects-organization/create-a-project`).
    A full path like `/docs/help-center/…` 404s — the source root is the repo root
 4. Reference images relatively (`![](./images/slug.jpg)`) so Vite fingerprints them
