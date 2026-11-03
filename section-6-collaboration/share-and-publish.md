@@ -1,46 +1,39 @@
 # Share and Publish Content
 
-Sharing and publishing are different paths to getting your content out. Understand when to use each so your content reaches the right people through the right channels.
+Sharing and publishing are different ways to get your content out. Sharing sends a project to people, and publishing puts it live on your channels. Knowing which to use helps your content reach the right people.
 
 ![Share and Publish Content — Brande.ai](./images/share-and-publish.jpg)
 
 
 ## Share vs. Publish: What's the difference?
 
-**Sharing** means giving collaborators or followers a link to view your project:
+**Sharing** means sending a project to people inside Brande.ai, or posting its text quickly to social media:
 
-- Share a link with internal team members for review
-- Share on social media to let followers read or repost
-- Recipients see your content but it's not "posted" anywhere officially
-- Good for feedback, discussion, or informal distribution
+- Share a project link with members of your brand for review
+- Send the text to X, LinkedIn, or WhatsApp from the Share window
+- Good for feedback, discussion, or quick informal posts
 
-**Publishing** means posting content directly to a platform or channel:
+**Publishing** means putting finished content live on your official channels, such as your website, blog, or social accounts:
 
-- Publish a blog post to your WordPress site
-- Publish a social post to Instagram, LinkedIn, or Twitter/X
-- Publish a listing to Google My Business
-- Content goes live on official channels under your brand account
-- Tracked and indexed by platforms
+- Brande.ai doesn't post to these channels from inside the app
+- You publish from your own accounts by copying or exporting the content, or automate it with Zapier
+- See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels)
 
 ## When to share
 
 Use sharing when you:
 
-- Need stakeholder or client feedback before going live
-- Want to crowdsource ideas or gather comments
-- Are distributing to internal team (not public)
-- Want to let followers repost without posting officially
-- Don't have publishing setup for that platform yet
+- Need feedback from your team or clients before going live
+- Want to gather comments on a draft
+- Want to post a quick update to X, LinkedIn, or WhatsApp
 
 ## When to publish
 
 Use publishing when you:
 
-- Are ready to post officially on a platform
-- Have integration credentials set up (OAuth or API key)
-- Want automatic posting on schedule
-- Need a permanent post on your brand channels
-- Track which content performed where
+- Have final, approved content ready to go live
+- Need the content on your website, blog, or other official channels
+- Want a repeatable workflow with Zapier. For example, you could send every approved project to WordPress as a draft
 
 ## Share a project
 
@@ -60,13 +53,12 @@ Click the **Share** button (network icon) in the top toolbar:
    - Project management tool
    - Anywhere collaborators work
 
-Anyone with the link can view the project. They see your content but cannot edit (read-only access).
+The link only opens for people who are already members of your brand. To share with someone new, invite them to the brand first. What they can do in the project depends on their role.
 
 **Collaborator limits:**
-- Your plan includes a limit on how many people can collaborate
-- If you've reached the limit: "You have reached collaborator limit, upgrade your plan"
-- Upgrade your subscription to add more collaborators
-- Existing collaborators retain access; only new additions hit the limit
+- Your plan limits how many collaborators you can invite to your brands
+- Sharing a link doesn't use up a collaborator seat. Only invitations do
+- If you've reached the limit, you'll see: "You have reached collaborator limit, upgrade your plan"
 
 ### Share on social media
 
@@ -79,30 +71,27 @@ Choose from available platforms:
 - **WhatsApp:** Click the WhatsApp button to share with contacts
 
 When you click a platform:
-1. Window opens to that platform's share interface
-2. Your project content is pre-filled
-3. You can edit the message or add comments
-4. Click "Share" or "Post" on the platform to send
+1. The platform opens in a new tab
+2. Your project's text is filled in. Images aren't included
+3. Edit the message if needed
+4. Post it from the platform
 
-This is informal sharing—not the official "publish" route. Good for:
-- Viral distribution (let followers repost)
-- Real-time engagement on social
-- Quick sharing without scheduling
+This is good for quick posts. For your main channels, see [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels).
 
-## Publish to channels (integrations)
+## Publish to your channels
 
-To post officially on platforms, you need to set up publishing integrations. See "Publish Content Directly to Channels" for details.
+Brande.ai doesn't post to your website, blog, or social accounts directly. To publish:
 
-Available platforms for publishing:
-- **Social Media:** Instagram, Facebook, LinkedIn, Twitter/X
-- **Blogs & Sites:** WordPress, Google My Business
-- **Email Marketing:** HubSpot
+- **Copy or export** the content and post it from your own accounts
+- **Automate** with Zapier. The Share window links to the Brande.ai Zapier app (**Unlock/Connect 8000+ Brande.ai Integrations with Zapier!**), and you connect it with an API key from **Account → API Keys**
+
+See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels) for step-by-step instructions.
 
 ## Export instead of sharing
 
 If collaborators don't have Brande.ai accounts:
 
-1. Click **Export** (file download icon)
+1. Click the download icon at the top of the document (on desktop, hover over the document to show it)
 2. Choose **PDF** or **Word**
 3. Send the file via email or file sharing service
 
@@ -120,11 +109,11 @@ When you share a project:
 
 To limit who can see a shared project, the practical levers are:
 - Remove the recipient from the brand (or change their role) so the link no longer authenticates them
-- Move the project to a folder only the right people can see, or archive it
+- Archive the project. Folders don't have their own permissions, so moving a project into a folder doesn't hide it
 - Be deliberate about who you share the link with — anyone added to the brand will be able to open it
 
 ## Related Topics
 
-- [Publish Content Directly to Channels](/section-6-collaboration/publish-to-channels)
+- [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels)
 - [Manage Client Review and Approval](/section-6-collaboration/manage-client-review-approval)
 - [Share Content Projects](/section-6-collaboration/share-content-projects)

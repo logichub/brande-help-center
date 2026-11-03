@@ -543,12 +543,6 @@ const ARTICLES = [
     startUrl: '/account/billing/',
     instructions: 'My Plan / billing page.',
   },
-  {
-    slug: 'publishing-integrations',
-    folder: 'section-11-troubleshooting',
-    startUrl: '/',
-    instructions: 'Project editor or integrations section.',
-  },
 ];
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
