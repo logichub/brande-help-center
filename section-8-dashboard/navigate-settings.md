@@ -226,9 +226,7 @@ Shows all your keys with:
 - Created date
 - **Revoke** button to deactivate the key
 
-Use API keys to authenticate third-party integrations such as Zapier and Make.
-
-There is no dedicated Zapier integration in Brande.ai — Zapier and Make consume the keys you create here. The settings sidebar surfaces a Zapier link labelled **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!** that points at the public Brande.ai Zapier app.
+Use an API key to connect the [Brande.ai app on Zapier](https://zapier.com/apps/brandeai/integrations). Zapier is the only supported automation tool. The project Share window also links to the Zapier app via **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!**. See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels).
 
 ## Checklist Templates
 
