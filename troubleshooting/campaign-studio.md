@@ -4,7 +4,7 @@
 
 **Direct Answer:** A research sprint that hasn't made progress for a few minutes is flagged as stalled, and Brande.ai offers a Resume option instead of leaving it spinning indefinitely.
 
-![Campaign Studio Not Working — Brande.ai](../section-11-campaign-studio/images/understanding-campaign-studio.jpg)
+![Campaign Studio Not Working — Brande.ai](./images/campaign-studio.jpg)
 
 
 ### How to Fix This
