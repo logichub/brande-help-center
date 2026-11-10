@@ -40,10 +40,10 @@ These change when you switch brands (using the profile dropdown):
 - **Brand Messaging Framework** — Configure messaging for your brand
 - **Brand Materials** — Store brand assets and guidelines
 - **Content Reference** — Store reference materials and examples
-- **Checklist Templates** — Create reusable checklists (workspace-wide)
+- **Checklist Templates** — Create reusable checklists for this brand
 - **Snippets** — Create reusable text blocks
 - **Custom Fields** — Configure project metadata for your brand
-- **API Keys** — Create and manage API keys (workspace-wide)
+- **API Keys** — Create and manage API keys for this brand
 - **Style Guide Rules** — Configure writing rules for content Brande.ai generates
 
 **Workspace Settings**
@@ -226,13 +226,13 @@ Shows all your keys with:
 - Created date
 - **Revoke** button to deactivate the key
 
-Use an API key to connect the [Brande.ai app on Zapier](https://zapier.com/apps/brandeai/integrations). Zapier is the only supported automation tool. The project Share window also links to the Zapier app via **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!**. See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels).
+Use an API key to connect the [Brande.ai app on Zapier](https://zapier.com/apps/brandeai/integrations). Each key belongs to the brand you created it in, so create a separate key for each brand you want to connect. The project Share window also links to the Zapier app via **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!**. See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels).
 
 ## Checklist Templates
 
-Navigate to **Account > Checklist Templates** to create workspace-wide checklists.
+Navigate to **Account > Checklist Templates** to create checklists for the brand you're working in.
 
-Unlike brand-specific settings, checklists apply across all your brands.
+Checklist templates belong to one brand. To use the same checklist in another brand, switch to that brand and create it there.
 
 See [Create Custom Content Checklists and Workflows](/section-7-agency/custom-checklists-workflows) for detailed guidance on creating and managing checklists.
 

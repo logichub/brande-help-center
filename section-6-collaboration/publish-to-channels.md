@@ -24,7 +24,7 @@ This is the most flexible route and works for any channel: your blog, newsletter
 3. The platform opens in a new tab with your project's text filled in.
 4. Edit the post if needed, then post it from that platform.
 
-Only the text is sent. Images aren't included, so add any images on the platform before posting.
+Only the text is sent. The image itself isn't attached; if your project has images, their links may appear in the text and the platform may show a link preview. Remove the links and attach the images on the platform if you want them in the post.
 
 ## Option 3: Automate with Zapier
 
@@ -48,16 +48,14 @@ An API key gives full access to your brand's integrations. Don't paste it into s
 1. Open the [Brande.ai app on Zapier](https://zapier.com/apps/brandeai/integrations). You can also reach it from the project Share window via **Unlock/Connect 8000+ Brande.ai Integrations with Zapier!**.
 2. When Zapier asks you to connect your Brande.ai account, paste your API key.
 
-Brande.ai has an app for Zapier only. Other automation tools, such as Make, aren't supported.
-
 ### Step 3: Build the automation
 
-A common setup is to start the automation when a project's status changes. For example:
+Your Zap can start when one of these happens in your brand:
 
-- When a project moves to **Approved**, create a draft post in WordPress.
-- When a project moves to **Published**, add a row to your content tracker.
+- **A project is created.** This fires once Brande.ai finishes generating the project's first content, not the moment you open the new-project dialog.
+- **A project's status changes.** For example, when a project moves to **Approved**, create a draft post in WordPress, or when it moves to **Published**, add a row to your content tracker.
 
-Set the status from the **Status** dropdown in the project, and your Zap picks it up. Build the rest of the workflow, such as where the content goes and how it's formatted, in Zapier.
+Set the status from the **Status** dropdown in the project, and your Zap picks it up. Deleting a project moves it to **Archived**, so it also counts as a status change. Build the rest of the workflow, such as where the content goes and how it's formatted, in Zapier.
 
 ### Manage your keys
 

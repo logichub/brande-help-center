@@ -58,7 +58,7 @@ The link only opens for people who are already members of your brand. To share w
 **Collaborator limits:**
 - Your plan limits how many collaborators you can invite to your brands
 - Sharing a link doesn't use up a collaborator seat. Only invitations do
-- If you've reached the limit, you'll see: "You have reached collaborator limit, upgrade your plan"
+- When you've reached the limit, the invite button on **My Plan** is disabled and its tooltip reads: "You have reached the collaborator limit, upgrade your plan"
 
 ### Share on social media
 
@@ -72,7 +72,7 @@ Choose from available platforms:
 
 When you click a platform:
 1. The platform opens in a new tab
-2. Your project's text is filled in. Images aren't included
+2. Your project's text is filled in. The image itself isn't attached, though an image's link may appear in the text
 3. Edit the message if needed
 4. Post it from the platform
 
