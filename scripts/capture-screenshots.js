@@ -932,15 +932,6 @@ function articles(ctx) {
         await settle(page, 2000);
       },
     },
-    {
-      section: 'troubleshooting',
-      slug: 'publishing-integrations',
-      action: async (page) => {
-        await goto(page, '/');
-        await waitFor(page, 'main');
-        await settle(page, 2000);
-      },
-    },
   ];
 }
 

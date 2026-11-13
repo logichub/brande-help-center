@@ -88,4 +88,4 @@ If you need to use an image on a different platform:
 - [Generate On-Brand Images](/section-4-visual-content/generate-on-brand-images)
 - [Customize Image Style Using Plain English](/section-4-visual-content/customize-image-style)
 - [Maintain Visual Brand Consistency](/section-4-visual-content/maintain-visual-consistency)
-- [Publish Content Directly to Channels](/section-6-collaboration/publish-to-channels)
+- [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels)
