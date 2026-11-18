@@ -78,7 +78,7 @@ Team members receive an email invite and can join that brand immediately upon cl
 
 ## Step 5: Configure Checklists and Workflows
 
-Checklist Templates live in your Account sidebar and apply across all brands.
+Checklist Templates live in your Account sidebar and belong to the brand that's selected when you create them.
 
 1. Open Account sidebar (Ctrl/Alt+A)
 2. Click **Checklist Templates**

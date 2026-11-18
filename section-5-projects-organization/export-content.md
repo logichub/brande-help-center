@@ -7,9 +7,9 @@ Turn your projects into professional documents. Export any project as a PDF or W
 
 ## Export your project
 
-While editing a project, look for the **Export** button (file download icon) in the top toolbar:
+While editing a project, look for the download icon at the top of the document. On desktop, it appears when you hover over the document.
 
-1. Click the Export button
+1. Click the download icon
 2. A dropdown menu appears with two options: **PDF** and **Word**
 3. Click your preferred format
 4. The file downloads automatically
@@ -50,8 +50,6 @@ Word exports include:
 
 The file saves as `[ProjectName].docx` to your Downloads folder.
 
-Export is triggered from the editor toolbar via a share-network-style icon button (no visible "Export" label). The menu exposes **PDF** (rendered client-side via html2pdf) and **DOCX** (server-side via the `/server/projects/exports` endpoint, using @turbodocx/html-to-docx for reliable Word conversion).
-
 ## Export limitations
 
 - Both Brand Collaborators and Client Collaborators can export projects — there is no role-based export gate today
@@ -70,8 +68,8 @@ Export when you need to:
 - Provide a "final" version separate from the editor
 
 Don't need to export for:
-- Publishing to social media (use the Share button instead)
-- Sending to publishing integrations (use Publish to Channels)
+- Quick posts to X, LinkedIn, or WhatsApp (use the Share button instead)
+- Automated publishing with Zapier (see [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels))
 - Internal team review (use Comments in the editor)
 
 ## After exporting

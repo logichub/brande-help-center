@@ -15,7 +15,6 @@ When you're logged in as a brand owner or internal team member, you see:
 - Dashboard with analytics and insights
 - Announcement messages and product updates
 - Team management and invitations
-- Integration setup and publishing controls
 - Full commenting and collaboration tools
 
 **Actions available:**
@@ -23,7 +22,6 @@ When you're logged in as a brand owner or internal team member, you see:
 - Create, edit, delete projects
 - Manage folders and organization
 - Approve/unapprove projects
-- Publish to integrations
 - Set up team members and access
 - Update brand guidelines and settings
 
@@ -49,7 +47,6 @@ When you share projects with a client or invite them as a "Client Collaborator,"
 - Dashboard, analytics, or insights
 - Announcement messages
 - Team member list or invitations
-- Integration or publishing controls
 - Other projects (only shared ones visible)
 - Folder structure (projects appear flat in their view)
 
@@ -73,7 +70,7 @@ This simplified interface keeps the focus on the work itself, not your backend.
 - Comments section for feedback
 - Approve button (if enabled)
 
-**Client sees nothing about:** Your brand strategy, team operations, or publishing setup.
+**Client sees nothing about:** Your brand strategy or team operations.
 
 ## Why this matters
 
@@ -151,8 +148,6 @@ If an internal team member leaves and should become a client:
 | Brand DNA Settings | ✓           | ✗           | ✗                   |
 | Content Agent      | ✓           | ✓           | ✗ (hidden)          |
 | Content Calendar   | ✓           | ✓           | ✗ (hidden)          |
-| Integrations       | ✓           | ✓           | ✗ (hidden)          |
-| Publishing         | ✓           | ✓           | ✗                   |
 | Team Management    | ✓           | ✗           | ✗                   |
 
 ## Managing visibility

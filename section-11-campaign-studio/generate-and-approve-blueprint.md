@@ -37,6 +37,15 @@ The blueprint view is organized into three tabs:
 
 You can edit any part of the blueprint and save your changes at any time. When you're happy with the plan, click **Approve blueprint** — this marks the blueprint as finalized for your team. You can still return to it later if your plans change.
 
+## Export your blueprint
+
+Next to **Approve blueprint** are two export buttons:
+
+- **Export PDF** — downloads a PDF of the blueprint
+- **Export Word** — downloads a Word document (`.docx`) of the blueprint
+
+Both formats contain the whole blueprint — Big idea, Audience, Positioning, Core messages, KPIs, Risks & guardrails, Channel plan, and Timeline — and are named after your campaign, e.g. `<campaign-name>-blueprint.pdf` or `.docx`. You can export a draft blueprint as well as an approved one; the buttons are only disabled while an export is in progress.
+
 ## Related Topics
 
 - [Review Campaign Research](/section-11-campaign-studio/review-campaign-research)

@@ -31,7 +31,7 @@ features:
       width: 48
       height: 48
     title: Content Agent
-    details: Get AI-powered daily content recommendations and briefs.
+    details: Get daily content recommendations and briefs from Brande.ai.
     link: /section-2-content-agent/understanding-content-agent
   - icon:
       light: /icons/Campaign-Studio-Light.svg
@@ -71,7 +71,7 @@ features:
       width: 48
       height: 48
     title: Collaboration & Sharing
-    details: Share content, manage approvals, and publish to channels.
+    details: Share content, manage approvals, and get content onto your channels.
     link: /section-6-collaboration/share-and-publish
   - icon:
       light: /icons/Agency-Plan-Light.svg
@@ -79,7 +79,7 @@ features:
       width: 48
       height: 48
     title: Agency Plan
-    details: Multi-client management, approval flows, and agency dashboards.
+    details: Multi-client management and client approval flows.
     link: /section-7-agency/understand-agency-plan
   - icon:
       light: /icons/Dashboard-Light.svg
@@ -103,6 +103,6 @@ features:
       width: 48
       height: 48
     title: Troubleshooting
-    details: Fix common issues with content generation, uploads, and integrations.
+    details: Fix common issues with content generation, uploads, and account access.
     link: /troubleshooting/
 ---

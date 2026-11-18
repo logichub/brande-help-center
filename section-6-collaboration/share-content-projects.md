@@ -88,8 +88,6 @@ When you share a project:
 - Edit the project (read-only access)
 - Access your brand dashboard or settings
 - See other projects (only the ones you share)
-- Publish on your behalf
-- Manage integrations
 
 ## Differences from inviting team members
 

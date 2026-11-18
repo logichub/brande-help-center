@@ -28,9 +28,9 @@ Review and refresh your folder structure quarterly. Archive old months or campai
 
 At a glance, you know how much is in each pipeline stage.
 
-**Use the Content Calendar.** Plan publishing schedule:
+**Use the Content Calendar.** Plan your publishing schedule:
 
-- Drag projects onto the calendar to schedule them
+- Drag pending projects onto dates, or use **Add to Calendar** in a project
 - Weekly, Monthly, or Quarterly views
 - See what's coming and avoid gaps
 - Adjust timing without changing the project
@@ -61,9 +61,9 @@ If clients or stakeholders review before publishing:
 1. **Create projects in Draft status**
 2. **Move to Review status** when ready for feedback
 3. **Use Comments** for feedback threads (instead of email)
-4. **Enable project approval** (plan feature) to gate publishing
-5. **Move to Approved status** when signed off
-6. **Publish via integrations** when ready to go live
+4. **Approve the project** when it's signed off (Growth and Agency plans). This sets the status to **Approved**
+5. **Publish** from your own accounts, by copying or exporting the content or through Zapier
+6. **Move to Published status** once it's live
 
 This keeps everything in Brande.ai instead of scattered across email threads.
 
@@ -71,17 +71,18 @@ This keeps everything in Brande.ai instead of scattered across email threads.
 
 If you publish to multiple channels:
 
-**Use publishing integrations:**
-- Set up integrations for Instagram, LinkedIn, Facebook, Twitter/X, WordPress, Google My Business, HubSpot
-- Publish one project to multiple platforms at once
-- Schedule posts for consistent cadence
-- Track which posts published where
+Brande.ai doesn't post to your channels directly. To keep publishing manageable:
 
-**Schedule via Content Calendar:**
+**Automate with Zapier:**
+- Connect your brand with an API key from **Account → API Keys**
+- Trigger workflows when a project's status changes. For example, when a project is approved, send it to WordPress as a draft
+- See [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels)
+
+**Plan with the Content Calendar:**
 - Plan your month on the calendar
-- Drag projects to dates
-- Let Brande.ai publish automatically at scheduled times
-- No manual posting needed
+- Drag pending projects onto dates
+- Publish each piece from your own accounts or your scheduling tool when its date arrives
+- The calendar is for planning. It doesn't post anything automatically
 
 ## Agency-specific organization
 
@@ -124,7 +125,7 @@ Best practices when managing at scale:
 
 **Folder limits:**
 - Keep active folders under 20-30 projects each
-- Organize subfolders if one category gets too large
+- Split a large folder into several folders. Folders are one level deep, with no subfolders
 - Archive completed campaigns monthly
 
 **Regular cleanup:**
@@ -140,12 +141,12 @@ As your team grows:
 - Content creators (write in drafts)
 - Reviewers (add comments, approve)
 - Approvers (clients or stakeholders)
-- Publishers (have integration credentials)
+- Publishers (post approved content to your channels)
 
 **Use project approval:**
-- Brand owner approves before publishing
-- Prevents premature or incorrect posts
-- Creates audit trail of who approved what
+- Approve projects before publishing them (Growth and Agency plans)
+- Helps prevent premature or incorrect posts
+- Shows who approved the project and when
 
 **Comments for feedback:**
 - Collaborators comment on projects
@@ -178,4 +179,5 @@ If you find yourself:
 - [Understand Projects and Folders](/section-5-projects-organization/understand-projects-folders)
 - [Find Projects Using Sidebar Search](/section-5-projects-organization/find-projects-search)
 - [Manage Client Review and Approval](/section-6-collaboration/manage-client-review-approval)
-- [Content Calendar (coming soon)](/section-8-dashboard/manage-content-calendar)
+- [Content Calendar](/section-8-dashboard/manage-content-calendar)
+- [Publish Content to Your Channels](/section-6-collaboration/publish-to-channels)

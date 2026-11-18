@@ -451,10 +451,6 @@ export default defineConfig({
             text: "Premium Features",
             link: "/troubleshooting/premium-features",
           },
-          {
-            text: "Publishing & Integrations",
-            link: "/troubleshooting/publishing-integrations",
-          },
         ],
       },
     ],

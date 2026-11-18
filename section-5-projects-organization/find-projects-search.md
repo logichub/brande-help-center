@@ -81,4 +81,4 @@ For more powerful filtering, use the Projects page filters instead of just text 
 
 - [Understand Projects and Folders](/section-5-projects-organization/understand-projects-folders)
 - [Organize Content at Scale](/section-5-projects-organization/organize-at-scale)
-- [Project Statuses](/section-5-projects-organization/understand-projects-folders)
+- [Project Statuses](/section-5-projects-organization/understand-projects-folders#project-statuses)

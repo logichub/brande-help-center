@@ -105,7 +105,6 @@ Client collaborators have limited visibility:
 - Cannot view Content Calendar or scheduling features
 - Cannot access dashboard analytics or insights
 - Cannot create new projects (if read-only role)
-- Cannot manage integrations or publishing
 
 This keeps agency operations confidential.
 

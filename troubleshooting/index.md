@@ -41,14 +41,7 @@ Complete troubleshooting documentation for Brande.ai users. Each guide covers co
    - Monthly campaign limit reached
    - Campaign Studio not available on your plan
 
-7. **[Publishing and Integration Errors](/troubleshooting/publishing-integrations)**
-   - Failed publish status
-   - Expired integrations
-   - Revoked integrations
-   - Account selection issues
-   - OAuth and token problems
-
-8. **[Account and Login Issues](/troubleshooting/account-login)**
+7. **[Account and Login Issues](/troubleshooting/account-login)**
    - "Invalid Email" validation
    - "Password Must Match" error
    - Password reset not arriving
